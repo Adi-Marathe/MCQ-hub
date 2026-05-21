@@ -116,8 +116,8 @@
             "c) Raja Todar Mal under Akbar",
             "d) None of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Raja Todar Mal under Akbar",
+        "explanation": "Raja Todar Mal, serving as Akbar's finance minister, implemented the famous 'Dahsala' or 'Zabti' system which standardized land measurement techniques and fixed revenue rates based on average crop yields across provinces, creating one of the most systematic revenue frameworks in Indian history."
     },
     {
         "id": 11,
@@ -128,8 +128,8 @@
             "c) Money",
             "d) Weather"
         ],
-        "answer": "",
-        "explanation": "While managers coordinate internal, controllable assets such as personnel (Men), technological equipment (Machines), and financial capital (Money), natural weather patterns represent an uncontrollable external environmental factor rather than an allocatable corporate resource ."
+        "answer": "d) Weather",
+        "explanation": "Management deals with coordinating internal, controllable resources such as personnel (Men), technological equipment (Machines), and financial capital (Money). Weather is an external, uncontrollable natural factor and cannot be managed or allocated as an organizational resource."
     },
     {
         "id": 12,
@@ -212,8 +212,8 @@
             "c) Physical assets",
             "d) Religious rituals"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "d) Religious rituals",
+        "explanation": "The Arthashastra focuses on managing tangible state resources including personnel (government officials and army), financial resources (treasury and taxation), and physical assets (land, forts, infrastructure). Religious rituals are spiritual practices and fall outside the scope of resource management in Kautilya's administrative framework."
     },
     {
         "id": 19,
@@ -308,8 +308,8 @@
             "c) Forced donations",
             "d) None of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Periodic taxation on business",
+        "explanation": "Kautilya identified multiple revenue sources for the state treasury, including periodic taxation on commercial and business activities. This systematic approach to tax collection from trade and commerce was a key pillar of the Arthashastra's fiscal policy, ensuring a steady and predictable state income."
     },
     {
         "id": 27,
@@ -320,8 +320,8 @@
             "c) Military command",
             "d) Religious guidance"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Collective decision-making and policy advice",
+        "explanation": "The Manthriparishad (Council of Ministers) was a deliberative advisory body designed to assist the king in governance. Its purpose was to ensure that important state decisions were made collectively through expert discussion and counsel, rather than through one person's unilateral authority, reflecting early principles of participatory management."
     },
     {
         "id": 28,
@@ -332,8 +332,8 @@
             "c) Monopolistic control",
             "d) Hereditary leadership"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Welfare of all segments of society",
+        "explanation": "The Arthashastra's emphasis on ensuring the welfare of all social segments—farmers, traders, artisans, soldiers, and officials—directly mirrors the modern concept of stakeholder management, where organizations must consider and balance the interests of all parties affected by their decisions."
     },
     {
         "id": 29,
@@ -344,8 +344,8 @@
             "c) Eliminating tax collection",
             "d) Decentralizing all authority"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Establishing an efficient road and communication system",
+        "explanation": "Sher Shah Suri is historically renowned for building the Grand Trunk Road and establishing an efficient postal and communication network across his empire. These infrastructure reforms vastly improved trade, governance communication, and administrative efficiency throughout his territory."
     },
     {
         "id": 30,
@@ -356,8 +356,8 @@
             "c) Military conquest",
             "d) Economic profit"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Ethical duty and righteous responsibility",
+        "explanation": "In the context of the Arthashastra, 'Dharma' refers to the ethical duty and moral responsibility of a ruler or manager to act righteously. It emphasizes that governance must be guided by principles of justice, fairness, and moral conduct rather than personal gain or arbitrary power."
     },
     {
         "id": 31,
@@ -464,7 +464,7 @@
             "d) Military expertise only"
         ],
         "answer": "b) Knowledge, integrity, and dedication to public welfare",
-        "explanation": "Kautilya\u2019s ideal ruler is a Rajarshi\u2014a leader who masters self-control, possesses deep intellectual insight, acts with ethical uprightness, and aligns his personal happiness entirely with the welfare of his organization and people."
+        "explanation": "Kautilya’s ideal ruler is a Rajarshi—a leader who masters self-control, possesses deep intellectual insight, acts with ethical uprightness, and aligns his personal happiness entirely with the welfare of his organization and people."
     },
     {
         "id": 40,
@@ -487,8 +487,8 @@
             "c) Religious doctrine",
             "d) Economic system"
         ],
-        "answer": "",
-        "explanation": "Meaning \"peace with all,\" Sulh-i-Kul was an inclusive policy framework designed to unite diverse religious and cultural factions within the Mughal empire, creating an integrated, cooperative organizational climate."
+        "answer": "b) Management principle promoting inclusive governance",
+        "explanation": "Akbar's 'Sulh-i-Kul' (peace with all) was an inclusive governance philosophy designed to unite diverse religious and cultural communities within the Mughal empire. As a management principle, it promoted tolerance, diversity, and cooperation—creating an integrated organizational environment where all groups felt respected and valued."
     },
     {
         "id": 42,
@@ -583,7 +583,7 @@
             "d) Seven branches of military science and warfare"
         ],
         "answer": "b) Seven essential elements of state: king, minister, territory, treasury, army, ally, and enemy",
-        "explanation": "The Saptanga theory treats an organization like a living, integrated organism with seven interdependent parts (limbs). A disruption in any one element\u2014whether the leadership, financial system, or assets\u2014weakens the entire entity."
+        "explanation": "The Saptanga theory treats an organization like a living, integrated organism with seven interdependent parts (limbs). A disruption in any one element—whether the leadership, financial system, or assets—weakens the entire entity."
     },
     {
         "id": 50,
@@ -665,8 +665,8 @@
             "c) Ignoring financial planning",
             "d) Using resources carelessly"
         ],
-        "answer": "",
-        "explanation": "Since institutional resources are inherently scarce, a central managerial challenge is optimizing the allocation of finite human labor, capital funds, and time constraints to maximize overall operational output."
+        "answer": "b) Balancing limited time, money and manpower",
+        "explanation": "Resource management challenge refers to the difficulty of optimally allocating scarce organizational resources—time, financial capital, and human labour—to achieve maximum productivity. Since these resources are always limited, managers must prioritize and balance their use to avoid waste and meet objectives efficiently."
     },
     {
         "id": 57,
@@ -713,7 +713,7 @@
             "d) Ignoring workers opinions"
         ],
         "answer": "c) The one best way to do a job",
-        "explanation": "A foundational premise of scientific management is that through careful observation and mathematical measurement of work components, management can discover \"the one best way\"\u2014the single most optimal and efficient method\u2014to complete any given operational task."
+        "explanation": "A foundational premise of scientific management is that through careful observation and mathematical measurement of work components, management can discover \"the one best way\"—the single most optimal and efficient method—to complete any given operational task."
     },
     {
         "id": 61,
@@ -843,8 +843,8 @@
             "c) Father of Psychology",
             "d) Father of Quality Control"
         ],
-        "answer": "",
-        "explanation": "While F.W. Taylor specialized in bottom-up engineering at the shop-floor level, Henri Fayol formulated a top-down administrative theory based on 14 general principles, earning him recognition as the Father of Modern (or Administrative) Management theory."
+        "answer": "b) Father of Modern Management",
+        "explanation": "Henri Fayol is universally recognized as the 'Father of Modern Management' (also called Father of Administrative Management) because he was the first to develop a comprehensive, top-down theory of general management. His 14 Principles of Management and identification of five management functions (Planning, Organizing, Commanding, Coordinating, Controlling) laid the foundation for modern management education."
     },
     {
         "id": 72,
@@ -856,7 +856,7 @@
             "d) Taylor ignored productivity"
         ],
         "answer": "a) Taylor focused on factory operations, Fayol on overall administration",
-        "explanation": "Taylor's approach started at the mechanical level\u2014studying individual tools, motions, and supervisory functions. Conversely, Fayol took a macro perspective, focusing on universal managerial functions like planning, organizing, commanding, coordinating, and controlling the entire business entity."
+        "explanation": "Taylor's approach started at the mechanical level—studying individual tools, motions, and supervisory functions. Conversely, Fayol took a macro perspective, focusing on universal managerial functions like planning, organizing, commanding, coordinating, and controlling the entire business entity."
     },
     {
         "id": 73,
@@ -1057,8 +1057,8 @@
             "c) Project organization",
             "d) None of the above"
         ],
-        "answer": "b) Staff organization",
-        "explanation": "In traditional structural design contexts, a functional setup integrates specialists (staff) who provide analytical and technical expertise to assist and guide primary operators, mirroring many elements of a line-and-staff architecture."
+        "answer": "d) None of the above",
+        "explanation": "Functional organization, based on F.W. Taylor's concept of functional foremanship, is a distinct organizational structure where specialists have direct authority over workers in their area of expertise. It is different from line organization (direct chain of command), staff organization (advisory roles), and project organization (temporary structure). Therefore, none of the listed options correctly identifies what functional organization is also called."
     },
     {
         "id": 90,
@@ -1069,8 +1069,8 @@
             "c) More productivity than line",
             "d) All of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "d) All of the above",
+        "explanation": "Staff (functional) organization offers multiple advantages: specialists deliver better performance quality than a pure line setup, standardized processes emerge from expert guidance, and overall productivity increases due to specialized division of labour. All three listed options are valid advantages, making 'All of the above' the correct choice."
     },
     {
         "id": 91,
@@ -1081,8 +1081,8 @@
             "c) Doing urgent work last",
             "d) Ignoring priorities"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Using a daily or weekly schedule",
+        "explanation": "Effective time management relies on structured planning. Using a daily or weekly schedule helps individuals prioritize tasks, allocate appropriate time to each activity, track progress, and avoid last-minute rushes—making it a fundamental best practice for managing time efficiently."
     },
     {
         "id": 92,
@@ -1093,8 +1093,8 @@
             "c) Technology",
             "d) Energy"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Time",
+        "explanation": "Unlike money, technology, or energy—which can be earned, replaced, or renewed—time once spent can never be recovered or recreated. This irreversible nature makes time the most valuable non-renewable resource available to both individuals and organizations."
     },
     {
         "id": 93,
@@ -1105,8 +1105,8 @@
             "c) Dependent on others",
             "d) Hesitant and fearful"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Logical, confident and responsible",
+        "explanation": "Good decision-making requires logical thinking to analyze facts objectively, confidence to commit to a chosen course of action, and a sense of responsibility to accept accountability for outcomes. These three qualities together enable sound, professional judgment."
     },
     {
         "id": 94,
@@ -1117,8 +1117,8 @@
             "c) Ask for random opinions",
             "d) Evaluate all options first"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Identify the problem",
+        "explanation": "The decision-making process always begins with clearly identifying and defining the problem at hand. Without understanding what needs to be solved, evaluating alternatives or implementing solutions becomes meaningless. Problem identification provides direction for all subsequent steps."
     },
     {
         "id": 95,
@@ -1129,8 +1129,8 @@
             "c) Avoiding decisions",
             "d) Acting without thinking"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) Choosing a career branch based on aptitude and demand",
+        "explanation": "Selecting a career path by evaluating one's own strengths (aptitude) and market needs (demand) is a practical example of structured decision-making. It involves gathering information, weighing options, and making an informed, rational choice—rather than copying others or acting impulsively."
     },
     {
         "id": 96,
@@ -1141,8 +1141,8 @@
             "c) Ignoring advice",
             "d) Avoiding responsibility"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Learning from past experiences",
+        "explanation": "Reflecting on previous decisions—both successes and failures—provides valuable lessons that sharpen future judgment. Learning from past experiences builds a mental database of outcomes that helps managers anticipate consequences and make better-informed choices."
     },
     {
         "id": 97,
@@ -1153,8 +1153,8 @@
             "c) Ignoring emotional health",
             "d) Increasing anxiety intentionally"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Handling stress calmly and positively",
+        "explanation": "Stress management does not mean eliminating all pressure (some stress is natural and even helpful). Instead, it means developing the ability to handle stressful situations with composure, maintaining emotional balance, and channeling pressure into productive action rather than anxiety."
     },
     {
         "id": 98,
@@ -1176,8 +1176,8 @@
             "c) Skipping rest",
             "d) Avoiding friends and family"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Regular exercise or meditation",
+        "explanation": "Physical exercise releases endorphins that reduce stress hormones, while meditation calms the mind and improves emotional regulation. Both are scientifically proven, healthy methods for managing stress—unlike overthinking, skipping rest, or social isolation, which worsen it."
     },
     {
         "id": 100,
@@ -1188,8 +1188,8 @@
             "c) Ignoring problems",
             "d) Complaining constantly"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) Taking a 10-minute relaxation break during study sessions",
+        "explanation": "Short, planned relaxation breaks during intense work or study sessions prevent mental fatigue, restore focus, and reduce accumulated stress. This is a practical, everyday example of stress management that maintains productivity while protecting mental health."
     },
     {
         "id": 101,
@@ -1200,8 +1200,8 @@
             "c) Ignoring family responsibilities",
             "d) Working without breaks"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Managing professional and personal life effectively",
+        "explanation": "Work-life balance means creating a healthy equilibrium between career responsibilities and personal needs (family, health, hobbies, rest). It does not mean ignoring either sphere, but rather managing both effectively so that neither consistently dominates at the expense of the other."
     },
     {
         "id": 102,
@@ -1212,8 +1212,8 @@
             "c) Reduce productivity",
             "d) Eliminate teamwork"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Improve happiness and performance",
+        "explanation": "When employees maintain a healthy balance between work and personal life, they experience less burnout, higher job satisfaction, and improved mental well-being. This increased happiness directly translates into better focus, creativity, and sustained high performance at work."
     },
     {
         "id": 103,
@@ -1224,8 +1224,8 @@
             "c) Ignoring personal needs",
             "d) Working 24/7"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Prioritizing rest, hobbies and family time",
+        "explanation": "Actively scheduling time for rest, personal hobbies, and family engagement ensures that work does not consume all of a person's energy. This deliberate prioritization recharges mental and physical resources, preventing chronic stress and maintaining long-term productivity."
     },
     {
         "id": 104,
@@ -1236,8 +1236,8 @@
             "c) Avoiding difficult work",
             "d) Working carelessly"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Performing several activities efficiently at once",
+        "explanation": "Multitasking refers to the ability to handle multiple tasks or activities simultaneously while maintaining quality and efficiency. It requires strong organizational skills and the ability to switch between tasks without losing focus or productivity."
     },
     {
         "id": 105,
@@ -1248,8 +1248,8 @@
             "c) Constantly checking the phone while studying",
             "d) Ignoring priorities"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Combining similar tasks efficiently without losing quality",
+        "explanation": "Smart multitasking is not about doing everything at once randomly. It involves strategically grouping similar or complementary tasks together so they can be performed efficiently without compromising the quality of any individual task—maximizing output while minimizing cognitive overload."
     },
     {
         "id": 106,
@@ -1271,8 +1271,8 @@
             "c) Create conflicts among departments",
             "d) Avoid teamwork"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Achieve goals efficiently and effectively",
+        "explanation": "The fundamental objective of management is to accomplish organizational goals in a manner that is both efficient (using minimum resources) and effective (achieving the desired results). This dual focus ensures that organizations maximize output while minimizing waste."
     },
     {
         "id": 108,
@@ -1283,8 +1283,8 @@
             "c) Management is limited to top executives",
             "d) Management principles change completely in each field"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Management applies to all types of organizations",
+        "explanation": "The principle of 'Universal Application' means that management concepts and practices are not restricted to business firms alone. They apply equally to government agencies, hospitals, educational institutions, NGOs, military organizations, and any other structured group working toward goals."
     },
     {
         "id": 109,
@@ -1295,8 +1295,8 @@
             "c) It stops after goals are achieved",
             "d) It applies only during crises"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) It involves ongoing planning, implementation and evaluation",
+        "explanation": "Management never truly 'ends.' Once goals are achieved, new goals emerge; plans require continuous revision; performance must be constantly monitored. This ongoing cycle of planning, executing, evaluating, and improving makes management a perpetual, continuous process."
     },
     {
         "id": 110,
@@ -1307,8 +1307,8 @@
             "c) It depends only on machines",
             "d) It excludes employee participation"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) It requires teamwork and co-ordination among people",
+        "explanation": "No single individual can perform all management functions alone. Management inherently involves multiple people working together—setting collective goals, dividing responsibilities, coordinating efforts, and collaborating to achieve shared objectives. This makes it fundamentally a group activity."
     },
     {
         "id": 111,
@@ -1319,8 +1319,8 @@
             "c) Sometimes",
             "d) None of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) False",
+        "explanation": "The statement is false. Marketing information is absolutely essential for a marketer. It helps in understanding customer needs, analyzing market trends, evaluating competition, making pricing decisions, and developing effective marketing strategies. Without accurate marketing information, a marketer cannot make informed business decisions."
     },
     {
         "id": 112,
@@ -1331,8 +1331,8 @@
             "c) Can't say",
             "d) None of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) True",
+        "explanation": "A sole proprietorship is indeed a one-person business unit where the owner has unlimited liability. This means the owner is personally responsible for all debts and obligations of the business—there is no legal separation between the owner's personal assets and the business assets."
     },
     {
         "id": 113,
@@ -1343,8 +1343,8 @@
             "c) Link between producer and consumer",
             "d) None of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Link between producer and consumer",
+        "explanation": "A middleman (intermediary) serves as a connecting link in the distribution chain between producers who manufacture goods and consumers who purchase them. Middlemen include wholesalers, retailers, agents, and brokers who facilitate the smooth flow of goods from production to final consumption."
     },
     {
         "id": 114,
@@ -1366,8 +1366,8 @@
             "c) Motivation",
             "d) All of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "d) All of the above",
+        "explanation": "Successful entrepreneurs possess a wide range of qualities. Vision helps them see future opportunities, communication skills enable them to convey ideas and build relationships, and motivation drives them to persist through challenges. All three—along with confidence, leadership, and risk-taking ability—are essential entrepreneurial qualities."
     },
     {
         "id": 116,
@@ -1378,8 +1378,8 @@
             "c) Individual",
             "d) Family"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Individual",
+        "explanation": "A sole proprietor is by definition an individual—a single person who independently owns, finances, manages, and controls the entire business. Unlike partnerships or companies, there are no co-owners or shareholders; the business is entirely the responsibility of one individual person."
     },
     {
         "id": 117,
@@ -1390,8 +1390,8 @@
             "c) Process",
             "d) All of the above"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Process",
+        "explanation": "Management is most accurately defined as a 'process'—a systematic series of actions involving planning, organizing, staffing, directing, and controlling. The word 'process' captures the continuous, step-by-step nature of management activities that collectively direct resources toward achieving organizational goals."
     },
     {
         "id": 118,
@@ -1402,8 +1402,8 @@
             "c) It is only practical experience",
             "d) It does not involve human skills"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) It has systematic knowledge and requires creativity",
+        "explanation": "Management is a science because it is based on a systematic body of knowledge with established principles, theories, and cause-and-effect relationships. It is simultaneously an art because applying these principles effectively requires personal creativity, intuition, judgment, and practical skill that varies from manager to manager."
     },
     {
         "id": 119,
@@ -1414,8 +1414,8 @@
             "c) It is based on luck",
             "d) It avoids responsibility"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) It requires specialized knowledge, ethics and competence",
+        "explanation": "Modern management meets the criteria of a profession: it requires formal education and specialized knowledge (management degrees), adherence to a code of professional ethics, demonstrated competence through practice, and a commitment to serving organizational and societal interests responsibly."
     },
     {
         "id": 120,
@@ -1426,8 +1426,8 @@
             "c) Continuous, goal-oriented and group activity",
             "d) Irregular and unorganized activity"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Continuous, goal-oriented and group activity",
+        "explanation": "The nature of management is best summarized as: continuous (it never stops—new challenges constantly arise), goal-oriented (every action is directed toward achieving specific objectives), and a group activity (it involves coordinating the efforts of many people working together)."
     },
     {
         "id": 121,
@@ -1438,8 +1438,8 @@
             "c) Reduce productivity",
             "d) Avoid supervision"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Achieve goals efficiently and effectively",
+        "explanation": "The core purpose of management is to achieve organizational objectives efficiently (with minimum resource wastage) and effectively (producing the desired results). Every management function—planning, organizing, staffing, directing, and controlling—ultimately serves this central purpose."
     },
     {
         "id": 122,
@@ -1461,8 +1461,8 @@
             "c) Avoid communication",
             "d) Promote competition among departments"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) Bring clarity in roles and create structure",
+        "explanation": "The primary aim of organizing is to create a clear, logical structure within the organization. By defining roles, responsibilities, reporting relationships, and authority levels, organizing eliminates confusion among workers and ensures everyone knows exactly what they are expected to do."
     },
     {
         "id": 124,
@@ -1473,8 +1473,8 @@
             "c) Measuring performance",
             "d) Hiring new employees"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Turning plans into action by building a working structure",
+        "explanation": "Organizing is the bridge between planning and execution. Once plans are created, the organizing function builds the operational framework—assigning tasks, grouping activities into departments, and establishing authority relationships—that enables those plans to be implemented effectively."
     },
     {
         "id": 125,
@@ -1485,8 +1485,8 @@
             "c) Supervision only",
             "d) Financial management"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Recruitment, selection and development of people",
+        "explanation": "Staffing is the management function specifically focused on the human resource dimension. It encompasses the entire employee lifecycle: identifying manpower needs, recruiting candidates, selecting the best fit, providing training and development, and ensuring the organization has a competent workforce."
     },
     {
         "id": 126,
@@ -1497,8 +1497,8 @@
             "c) Poor communication",
             "d) Low morale"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Skilled and motivated workforce",
+        "explanation": "The staffing function ensures that an organization has the right number of qualified, trained, and motivated employees in the right positions. Through proper recruitment, training, performance appraisals, and career development, staffing builds a workforce capable of achieving organizational objectives."
     },
     {
         "id": 127,
@@ -1509,8 +1509,8 @@
             "c) Controlling",
             "d) Directing"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Staffing",
+        "explanation": "The principle of placing the 'right person in the right job' is the core philosophy of the staffing function. It emphasizes matching individual capabilities, qualifications, and aptitudes with specific job requirements to maximize both employee satisfaction and organizational productivity."
     },
     {
         "id": 128,
@@ -1521,8 +1521,8 @@
             "c) Performance appraisal",
             "d) Budget planning"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "d) Budget planning",
+        "explanation": "Staffing includes recruitment, training, performance appraisal, promotions, transfers, and other human resource activities. Budget planning, however, is a financial management activity that falls under the planning function—it deals with allocating monetary resources, not managing people."
     },
     {
         "id": 129,
@@ -1533,8 +1533,8 @@
             "c) Arranging resources",
             "d) Comparing results"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Guiding, leading and motivating employees",
+        "explanation": "Directing is the management function that activates the human element of the organization. It involves providing guidance on how tasks should be performed, leading by example to inspire confidence, and motivating employees to give their best effort toward achieving organizational goals."
     },
     {
         "id": 130,
@@ -1556,8 +1556,8 @@
             "c) Organizing",
             "d) Controlling"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Directing",
+        "explanation": "While planning decides 'what to do' and organizing establishes 'who does what,' directing is the function that actually converts plans into performance. Through leadership, motivation, supervision, and communication, directing initiates action and gets people moving toward goal achievement."
     },
     {
         "id": 132,
@@ -1568,8 +1568,8 @@
             "c) Enforce strict punishment",
             "d) Avoid communication"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Inspire and guide employees toward goals",
+        "explanation": "The main aim of directing is to inspire employees through motivation, guide their actions through effective leadership, and ensure they understand and work toward organizational goals. It is about energizing and steering human effort in the right direction—not punishing or creating conflict."
     },
     {
         "id": 133,
@@ -1580,8 +1580,8 @@
             "c) Avoiding measurement of work",
             "d) Increasing mistakes"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Monitoring and comparing actual performance with standards",
+        "explanation": "Controlling ensures that organizational activities proceed according to plan. It involves setting performance standards, measuring actual performance against those standards, identifying deviations, and taking corrective actions. This systematic monitoring keeps the organization on track toward its goals."
     },
     {
         "id": 134,
@@ -1592,8 +1592,8 @@
             "c) Taking corrective actions",
             "d) Planning again"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Taking corrective actions",
+        "explanation": "The controlling process follows three sequential steps: (1) Setting performance standards, (2) Measuring and comparing actual performance against standards, and (3) Taking corrective actions to fix any deviations. Corrective action is the final step that closes the gap between planned and actual results."
     },
     {
         "id": 135,
@@ -1604,8 +1604,8 @@
             "c) Reducing supervision",
             "d) Ignoring feedback"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Ensuring goals are achieved efficiently",
+        "explanation": "The importance of controlling lies in its ability to ensure that organizational goals are achieved as planned. By continuously monitoring performance and correcting deviations, controlling prevents small problems from becoming major failures and keeps all operations aligned with strategic objectives."
     },
     {
         "id": 136,
@@ -1616,8 +1616,8 @@
             "c) Taking corrective action",
             "d) Evaluating results"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Setting performance standards",
+        "explanation": "The controlling process begins with establishing clear, measurable performance standards. These standards serve as benchmarks against which actual performance will be compared. Without defined standards, there would be no basis for evaluating whether performance is satisfactory or needs correction."
     },
     {
         "id": 137,
@@ -1628,8 +1628,8 @@
             "c) Creating competition between teams",
             "d) Dividing employees into groups"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Harmonizing efforts of individuals and departments",
+        "explanation": "Co-ordination in management means synchronizing and integrating the activities of different individuals, teams, and departments so they work together harmoniously toward common organizational goals. It prevents duplication of efforts, resolves interdepartmental conflicts, and ensures unity of action."
     },
     {
         "id": 138,
@@ -1651,8 +1651,8 @@
             "c) Ensuring unity of direction and teamwork",
             "d) Reducing communication"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Ensuring unity of direction and teamwork",
+        "explanation": "Co-ordination ensures that all parts of the organization move in the same direction toward shared goals (unity of direction) and work together collaboratively (teamwork). It aligns individual and departmental efforts, preventing fragmented or contradictory actions that would waste resources."
     },
     {
         "id": 140,
@@ -1663,8 +1663,8 @@
             "c) Recruiting new employees",
             "d) Giving training to workers"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Comparing monthly sales with targets",
+        "explanation": "Comparing actual monthly sales figures against pre-set targets is a classic example of the controlling function. It involves measuring real performance (actual sales), comparing it with the standard (sales targets), and identifying whether corrective action is needed to close any gap."
     },
     {
         "id": 141,
@@ -1675,8 +1675,8 @@
             "c) Hiring a new accountant",
             "d) Buying new machines"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) A manager motivating his team to finish a project",
+        "explanation": "When a manager motivates, guides, and leads a team toward completing a project, they are performing the directing function. Directing involves energizing employees through leadership, motivation, and communication—exactly what is demonstrated in this example."
     },
     {
         "id": 142,
@@ -1687,8 +1687,8 @@
             "c) Directing",
             "d) Controlling"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Planning",
+        "explanation": "Planning is the management function concerned with deciding in advance what to do, when to do it, how to do it, and who will do it. It involves setting objectives, developing strategies, and creating action plans that provide a roadmap for all future organizational activities."
     },
     {
         "id": 143,
@@ -1699,8 +1699,8 @@
             "c) Planning",
             "d) Controlling"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) Organizing",
+        "explanation": "Organizing is the function that creates the organization's structure by identifying required activities, grouping them into departments, assigning roles and responsibilities, establishing reporting relationships, and delegating authority. It builds the framework within which all work gets done."
     },
     {
         "id": 144,
@@ -1711,8 +1711,8 @@
             "c) Controlling",
             "d) Planning"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "c) Controlling",
+        "explanation": "Controlling is the management function specifically designed to measure actual performance against predetermined standards and take corrective actions when deviations are found. It acts as a quality check that ensures the organization stays on course toward its planned objectives."
     },
     {
         "id": 145,
@@ -1723,8 +1723,8 @@
             "c) Separate and unrelated",
             "d) Fixed and unchangeable"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Interrelated and continuous",
+        "explanation": "All management functions—planning, organizing, staffing, directing, and controlling—are deeply interconnected and operate as a continuous cycle. Planning leads to organizing, which requires staffing, followed by directing, and monitored through controlling. No function works in isolation; each depends on and influences the others."
     },
     {
         "id": 146,
@@ -1734,8 +1734,8 @@
             "b) Competing in international markets and managing cross-cultural teams",
             "c) Ignoring foreign customers(Note: This question contains only three choices in the source document and is missing from the answer key text, but choice 'b' is the definitive response)."
         ],
-        "answer": "",
-        "explanation": "Globalization expands the geographic boundaries of business. This forces managers to deal with foreign competitors, comply with international trading laws, and harmoniously lead complex, geographically dispersed teams with diverse cultural backgrounds."
+        "answer": "b) Competing in international markets and managing cross-cultural teams",
+        "explanation": "Globalization expands the geographic boundaries of business, requiring managers to compete against international companies, comply with foreign trade regulations, and effectively lead teams composed of members from diverse cultural, linguistic, and social backgrounds—a significant management challenge."
     },
     {
         "id": 147,
@@ -1746,8 +1746,8 @@
             "c) Reducing the use of technology",
             "d) Depending only on manual systems"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Adapting to innovations like automation and AI",
+        "explanation": "Rapid technological advancement demands that managers continuously adapt their processes, skills, and strategies. Embracing innovations like automation, artificial intelligence, and digital tools is essential for maintaining competitiveness, improving efficiency, and meeting evolving customer expectations."
     },
     {
         "id": 148,
@@ -1758,8 +1758,8 @@
             "c) Globalization",
             "d) Crisis management"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) Ethical issues",
+        "explanation": "Maintaining honesty, transparency, and social responsibility in business dealings directly relates to ethical issues in management. Business ethics involves conducting operations with integrity, being truthful with stakeholders, and taking responsibility for the organization's impact on society and the environment."
     },
     {
         "id": 149,
@@ -1770,8 +1770,8 @@
             "c) Communication",
             "d) Competition"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "b) Resource management",
+        "explanation": "The challenge of effectively managing limited time, money, and manpower is the core of resource management. Since all organizations operate with finite resources, managers must strategically prioritize, allocate, and optimize these scarce assets to achieve maximum results without waste."
     },
     {
         "id": 150,
@@ -1782,8 +1782,8 @@
             "c) Employee motivation",
             "d) Policy formulation"
         ],
-        "answer": "",
-        "explanation": ""
+        "answer": "a) Crisis management",
+        "explanation": "Crisis management refers to the process of preparing for, responding to, and recovering from unexpected, high-impact events such as strikes, natural disasters, market crashes, or supply chain disruptions. It requires rapid decision-making, contingency planning, and effective communication to minimize damage."
     },
     {
         "id": 151,
@@ -1955,12 +1955,12 @@
         "id": 165,
         "question": "The correct order of management levels from top to bottom is",
         "options": [
-            "a) Supervisory \u2192 Middle \u2192 Top",
-            "b) Top \u2192 Supervisory \u2192 Middle",
-            "c) Top \u2192 Middle \u2192 Supervisory",
-            "d) Middle \u2192 Top \u2192 Supervisory"
+            "a) Supervisory → Middle → Top",
+            "b) Top → Supervisory → Middle",
+            "c) Top → Middle → Supervisory",
+            "d) Middle → Top → Supervisory"
         ],
-        "answer": "c) Top \u2192 Middle \u2192 Supervisory",
+        "answer": "c) Top → Middle → Supervisory",
         "explanation": "The traditional corporate hierarchy follows a descending pyramid order: Top Management at the apex, Middle Management in the center, and Supervisory/Lower Management at the baseline."
     },
     {
@@ -2032,7 +2032,7 @@
             "d) Overconfidence"
         ],
         "answer": "c) Listening skills",
-        "explanation": "Good negotiators do not just talk\u2014they listen intently. Active listening helps a manager discover the underlying interests and hidden constraints of the other party, exposing pathways to mutual agreement."
+        "explanation": "Good negotiators do not just talk—they listen intently. Active listening helps a manager discover the underlying interests and hidden constraints of the other party, exposing pathways to mutual agreement."
     },
     {
         "id": 172,
@@ -2091,8 +2091,8 @@
             "c) Avoiding delegation",
             "d) Supervising without communication"
         ],
-        "answer": "",
-        "explanation": "Team management is focused on collaborative synergy. It is the process of coordinating individual efforts, assigning roles transparently, and guiding the collective group to hit targets efficiently."
+        "answer": "b) Organizing and guiding a group to achieve common goals",
+        "explanation": "Team management is the process of organizing individuals into a cohesive group, assigning clear roles, providing direction and support, and guiding the collective effort toward achieving shared objectives. It emphasizes collaboration, communication, and coordination rather than working alone or avoiding delegation."
     },
     {
         "id": 177,
