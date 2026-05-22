@@ -1,0 +1,1262 @@
+[
+    {
+        "id": 1,
+        "question": "Creativity primarily refers to ____",
+        "options": [
+            "a) Implementing ideas in the market",
+            "b) Generating new and original ideas",
+            "c) Reducing product costs only",
+            "d) Advertising a product"
+        ],
+        "answer": "b) Generating new and original ideas",
+        "explanation": "Creativity means coming up with new and original ideas. It is the starting point before innovation."
+    },
+    {
+        "id": 2,
+        "question": "According to Torrance (1974), creativity involves all EXCEPT ____",
+        "options": [
+            "a) Sensing problems or gaps",
+            "b) Testing hypotheses",
+            "c) Communicating results",
+            "d) Fixing selling price"
+        ],
+        "answer": "d) Fixing selling price",
+        "explanation": "Torrance defined creativity as sensing problems, testing hypotheses, and communicating results. Fixing selling price is a business/finance activity, not part of creativity."
+    },
+    {
+        "id": 3,
+        "question": "Which is NOT a characteristic of creative thinking?",
+        "options": [
+            "a) Originality",
+            "b) Flexibility",
+            "c) Curiosity",
+            "d) Rigidity"
+        ],
+        "answer": "d) Rigidity",
+        "explanation": "Creative thinking requires openness and flexibility. Rigidity means being stuck to fixed ideas, which blocks creativity."
+    },
+    {
+        "id": 4,
+        "question": "Innovation at best means ____",
+        "options": [
+            "a) Daydreaming new possibilities",
+            "b) Implementing creative ideas into value-adding outcomes",
+            "c) Collecting customer complaints",
+            "d) Copying existing solutions"
+        ],
+        "answer": "b) Implementing creative ideas into value-adding outcomes",
+        "explanation": "Innovation is not just thinking — it means actually turning creative ideas into something useful and valuable."
+    },
+    {
+        "id": 5,
+        "question": "Peter Drucker called innovation the instrument of ____",
+        "options": [
+            "a) Finance",
+            "b) Production",
+            "c) Entrepreneurship",
+            "d) Marketing"
+        ],
+        "answer": "c) Entrepreneurship",
+        "explanation": "Peter Drucker said entrepreneurs use innovation as a tool to create new opportunities and businesses."
+    },
+    {
+        "id": 6,
+        "question": "Example of innovation from the content ____",
+        "options": [
+            "a) Sketching a concept car",
+            "b) Turning EVs idea into production cars",
+            "c) Reading about AI",
+            "d) Using leaked iPad phones"
+        ],
+        "answer": "b) Turning EVs idea into production cars",
+        "explanation": "Innovation means taking an idea and making it real. Turning the EV concept into actual production cars is a real-world example of innovation."
+    },
+    {
+        "id": 7,
+        "question": "Which point is NOT listed as an important creativity/innovation in management ____",
+        "options": [
+            "a) Product development",
+            "b) Improved productivity",
+            "c) Competitive advantage",
+            "d) Increased taxation"
+        ],
+        "answer": "d) Increased taxation",
+        "explanation": "Taxation has nothing to do with creativity or innovation in management. The other three are genuine benefits."
+    },
+    {
+        "id": 8,
+        "question": "A common barrier to creativity and innovation is ____",
+        "options": [
+            "a) Management support",
+            "b) Failure",
+            "c) Long-term focus",
+            "d) Teamwork"
+        ],
+        "answer": "b) Failure",
+        "explanation": "Fear of failure stops people from trying new ideas. It is one of the most common barriers to creativity and innovation."
+    },
+    {
+        "id": 9,
+        "question": "A manager's role in innovation includes ____",
+        "options": [
+            "a) Punishing new instincts",
+            "b) Blocking communication",
+            "c) Linking innovation to goals and rewards",
+            "d) Eliminating collaboration"
+        ],
+        "answer": "c) Linking innovation to goals and rewards",
+        "explanation": "A good manager encourages innovation by connecting it to organizational goals and rewarding creative efforts."
+    },
+    {
+        "id": 10,
+        "question": "Creativity techniques are used mainly to ____",
+        "options": [
+            "a) Enforce strict rules",
+            "b) Think differently and generate useful ideas",
+            "c) Replace teamwork",
+            "d) Eliminate imagination"
+        ],
+        "answer": "b) Think differently and generate useful ideas",
+        "explanation": "Creativity techniques help people think outside the box and come up with useful, new ideas."
+    },
+    {
+        "id": 11,
+        "question": "Who developed Brainstorming?",
+        "options": [
+            "a) Edward de Bono",
+            "b) Fritz Zwicky",
+            "c) Alex Osborn",
+            "d) Tony Buzan"
+        ],
+        "answer": "c) Alex Osborn",
+        "explanation": "Alex Osborn developed brainstorming in the 1940s as a group creativity technique."
+    },
+    {
+        "id": 12,
+        "question": "Which is a core rule of brainstorming?",
+        "options": [
+            "a) Criticize bad ideas immediately",
+            "b) Limit quantity of ideas",
+            "c) Encourage unusual ideas",
+            "d) Keep ideas secret"
+        ],
+        "answer": "c) Encourage unusual ideas",
+        "explanation": "In brainstorming, all ideas are welcome including wild ones. Criticism is not allowed during the session."
+    },
+    {
+        "id": 13,
+        "question": "A listed limitation of brainstorming is ____",
+        "options": [
+            "a) Always ensures focus",
+            "b) Groupthink can reduce independent thinking",
+            "c) Guarantees high-quality ideas only",
+            "d) Eliminates evaluation time"
+        ],
+        "answer": "b) Groupthink can reduce independent thinking",
+        "explanation": "In brainstorming, people may follow the group's thinking instead of sharing their own unique ideas — this is called groupthink."
+    },
+    {
+        "id": 14,
+        "question": "Checklist technique mainly uses ____",
+        "options": [
+            "a) Random selection of ideas",
+            "b) Standard \"idea-spurring\" questions",
+            "c) Secret voting",
+            "d) Only numerical analysis"
+        ],
+        "answer": "b) Standard \"idea-spurring\" questions",
+        "explanation": "The checklist technique uses a set of standard questions to prompt new thinking and spark creative ideas."
+    },
+    {
+        "id": 15,
+        "question": "Which pair belongs to Osborn's checklist?",
+        "options": [
+            "a) Synthesize",
+            "b) Put to other uses - Reverse",
+            "c) Adapt - Benchmark",
+            "d) Combine - Compare"
+        ],
+        "answer": "b) Put to other uses - Reverse",
+        "explanation": "Osborn's checklist includes verbs like Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, and Reverse (SCAMPER)."
+    },
+    {
+        "id": 16,
+        "question": "Reverse Brainstorming primarily by asking ____",
+        "options": [
+            "a) How to cause or worsen the problem?",
+            "b) What is the best idea?",
+            "c) How to avoid any ideas?",
+            "d) What to increase for brainstorming?"
+        ],
+        "answer": "a) How to cause or worsen the problem?",
+        "explanation": "Reverse brainstorming flips the question — instead of solving the problem, you ask how to cause it, then reverse those answers to find solutions."
+    },
+    {
+        "id": 17,
+        "question": "Correct sequence → Reverse Brainstorming ____",
+        "options": [
+            "a) Reverse question → Generate negative ideas → Reverse problem → Select solutions → Pick a problem → Celebrate",
+            "b) Pick a problem → Reverse problem → Generate negative ideas → Reverse solutions → Select solutions",
+            "c) Evaluate first → Collect negative ideas → Define problem",
+            "d) Assign tasks → Punish errors → Archive"
+        ],
+        "answer": "b) Pick a problem → Reverse problem → Generate negative ideas → Reverse solutions → Select solutions",
+        "explanation": "This is the correct 5-step sequence for reverse brainstorming."
+    },
+    {
+        "id": 18,
+        "question": "First step in Morphological Analysis ____",
+        "options": [
+            "a) Create ads",
+            "b) Define problem clearly",
+            "c) Set selling price",
+            "d) Conduct brand survey only"
+        ],
+        "answer": "b) Define problem clearly",
+        "explanation": "In Morphological Analysis, the first step is always to clearly define the problem before breaking it into components."
+    },
+    {
+        "id": 19,
+        "question": "End step in Morphological Analysis ____",
+        "options": [
+            "a) Peter Drucker",
+            "b) Fritz Zwicky",
+            "c) Alex Osborn",
+            "d) Tony Buzan"
+        ],
+        "answer": "b) Fritz Zwicky",
+        "explanation": "Fritz Zwicky developed Morphological Analysis. The end step involves evaluating and selecting the best combination from the morphological chart."
+    },
+    {
+        "id": 20,
+        "question": "In Six Thinking Hats, which hat is for facts and data?",
+        "options": [
+            "a) Red",
+            "b) White",
+            "c) Yellow",
+            "d) Green"
+        ],
+        "answer": "b) White",
+        "explanation": "The White Hat in Six Thinking Hats represents facts, data, and objective information."
+    },
+    {
+        "id": 21,
+        "question": "In Six Thinking Hats, which hat focuses on ____",
+        "options": [
+            "a) Emotions",
+            "b) Risks and cautions",
+            "c) Creativity",
+            "d) Process control"
+        ],
+        "answer": "b) Risks and cautions",
+        "explanation": "The Black Hat focuses on risks, cautions, and critical thinking — identifying what could go wrong."
+    },
+    {
+        "id": 22,
+        "question": "In Six Thinking Hats, the Blue Hat mainly handles ____",
+        "options": [
+            "a) Feelings",
+            "b) Benefits",
+            "c) Process control and next steps",
+            "d) Data"
+        ],
+        "answer": "c) Process control and next steps",
+        "explanation": "The Blue Hat manages the thinking process itself — it controls the session, sets the agenda, and decides next steps."
+    },
+    {
+        "id": 23,
+        "question": "Mind Mapping primarily helps to ____",
+        "options": [
+            "a) Replace teamwork",
+            "b) Visualize relationships around a central idea",
+            "c) Decide salaries",
+            "d) Enforce rigid procedures"
+        ],
+        "answer": "b) Visualize relationships around a central idea",
+        "explanation": "Mind Mapping is a visual tool that shows how different ideas and concepts connect around one central topic."
+    },
+    {
+        "id": 24,
+        "question": "In SCAMPER, 'P' stands for ____",
+        "options": [
+            "a) Expand",
+            "b) Estimate",
+            "c) Eliminate",
+            "d) Put to other uses"
+        ],
+        "answer": "d) Put to other uses",
+        "explanation": "SCAMPER stands for Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, Reverse."
+    },
+    {
+        "id": 25,
+        "question": "Brain writing differs from brainstorming because it ____",
+        "options": [
+            "a) Is done silently in writing to avoid dominance",
+            "b) Requires constant speaking",
+            "c) Allows criticism during idea entry",
+            "d) Uses only digital tools"
+        ],
+        "answer": "a) Is done silently in writing to avoid dominance",
+        "explanation": "In brainwriting, participants write ideas silently instead of speaking, which prevents loud personalities from dominating the session."
+    },
+    {
+        "id": 26,
+        "question": "New Product Development (NPD) primarily means ____",
+        "options": [
+            "a) Cutting costs in production only",
+            "b) Turning new ideas into marketable products",
+            "c) Advertising existing products",
+            "d) Outsourcing manufacturing"
+        ],
+        "answer": "b) Turning new ideas into marketable products",
+        "explanation": "NPD is the complete process of bringing a new product from idea to market."
+    },
+    {
+        "id": 27,
+        "question": "Which stage is NOT typically part of NPD?",
+        "options": [
+            "a) Idea generation",
+            "b) Concept testing",
+            "c) Product launch",
+            "d) Unplanned buy out"
+        ],
+        "answer": "d) Unplanned buy out",
+        "explanation": "Unplanned buy out is not part of NPD. The standard stages include idea generation, concept testing, development, and product launch."
+    },
+    {
+        "id": 28,
+        "question": "A core aim of NPD is to create products that are ____",
+        "options": [
+            "a) Innovative, useful and profitable",
+            "b) Expensive and exclusive only",
+            "c) Hard to copy and legally risky",
+            "d) Produced without customer input"
+        ],
+        "answer": "a) Innovative, useful and profitable",
+        "explanation": "NPD aims to develop products that bring value to customers and profit to the business."
+    },
+    {
+        "id": 29,
+        "question": "Which is a key need for NPD?",
+        "options": [
+            "a) Stable customer preferences",
+            "b) Lack of competition",
+            "c) Technological advancements",
+            "d) Unlimited resources"
+        ],
+        "answer": "c) Technological advancements",
+        "explanation": "Technology drives the need for new product development as it opens up new possibilities and changes customer expectations."
+    },
+    {
+        "id": 30,
+        "question": "NPD supports growth by ____",
+        "options": [
+            "a) Replacing obsolete products",
+            "b) Reducing staff benefits",
+            "c) Avoiding market expansion",
+            "d) Following trends"
+        ],
+        "answer": "a) Replacing obsolete products",
+        "explanation": "NPD keeps a company relevant by replacing old or outdated products with new, improved ones."
+    },
+    {
+        "id": 31,
+        "question": "Which of the following improves brand image via NPD?",
+        "options": [
+            "a) Frequent product recalls",
+            "b) Launching creative, customer-valued products",
+            "c) Cutting after-sales support",
+            "d) Hiding environmental impacts"
+        ],
+        "answer": "b) Launching creative, customer-valued products",
+        "explanation": "When a company launches innovative products that customers love, it builds a strong and positive brand image."
+    },
+    {
+        "id": 32,
+        "question": "Which point relates to legal/environmental drivers of NPD?",
+        "options": [
+            "a) Copying competitors' designs",
+            "b) Meeting safety and regulatory regulations",
+            "c) Increasing packaging layers",
+            "d) Reducing product lifetime deliberately"
+        ],
+        "answer": "b) Meeting safety and regulatory regulations",
+        "explanation": "Laws and environmental regulations push companies to develop new products that meet safety and compliance standards."
+    },
+    {
+        "id": 33,
+        "question": "Product Management mainly involves ____",
+        "options": [
+            "a) Only pricing decisions",
+            "b) Planning, developing, launching and managing a product across its life cycle",
+            "c) HR and design",
+            "d) Internal auditing and taxes"
+        ],
+        "answer": "b) Planning, developing, launching and managing a product across its life cycle",
+        "explanation": "Product management covers the entire journey of a product from idea to end-of-life."
+    },
+    {
+        "id": 34,
+        "question": "Product Management requires co-ordination primarily among",
+        "options": [
+            "a) Only marketing and sales",
+            "b) Design, production, finance, marketing and sales",
+            "c) Legal and taxation only",
+            "d) Vendors only"
+        ],
+        "answer": "b) Design, production, finance, marketing and sales",
+        "explanation": "Product management is cross-functional — it needs all these departments to work together for a product to succeed."
+    },
+    {
+        "id": 35,
+        "question": "Change Management focuses on ____",
+        "options": [
+            "a) Avoiding change",
+            "b) Planning, implementing and monitoring change with minimal resistance",
+            "c) Punishing resistors",
+            "d) Outsourcing all operations"
+        ],
+        "answer": "b) Planning, implementing and monitoring change with minimal resistance",
+        "explanation": "Change management is about handling organizational change smoothly with least disruption and resistance."
+    },
+    {
+        "id": 36,
+        "question": "Which is NOT a listed type of organizational change?",
+        "options": [
+            "a) Strategic change",
+            "b) Structural change",
+            "c) Culinary change",
+            "d) People-centric change"
+        ],
+        "answer": "c) Culinary change",
+        "explanation": "Culinary change (related to cooking/food) is not a type of organizational change. The real types are strategic, structural, and people-centric."
+    },
+    {
+        "id": 37,
+        "question": "A good first step in the Change Management process is to ____",
+        "options": [
+            "a) Ignore resistors",
+            "b) Recognize the need for change",
+            "c) Downsize staff",
+            "d) Ignore communication"
+        ],
+        "answer": "b) Recognize the need for change",
+        "explanation": "Before managing change, you must first identify and acknowledge that change is needed."
+    },
+    {
+        "id": 38,
+        "question": "A common barrier to change is ____",
+        "options": [
+            "a) Clear leadership vision",
+            "b) Employee resistance or insecurity",
+            "c) Adequate resources",
+            "d) Effective training"
+        ],
+        "answer": "b) Employee resistance or insecurity",
+        "explanation": "Employees often fear the unknown or worry about job security when changes happen, making them resist it."
+    },
+    {
+        "id": 39,
+        "question": "Which technique helps overcome resistance to change?",
+        "options": [
+            "a) Hiding information",
+            "b) Effective communication and participation",
+            "c) Eliminating training",
+            "d) Delaying feedback"
+        ],
+        "answer": "b) Effective communication and participation",
+        "explanation": "When employees are kept informed and involved in the change process, they are more likely to accept and support it."
+    },
+    {
+        "id": 40,
+        "question": "A key advantage of Change Management is ____",
+        "options": [
+            "a) More disruption",
+            "b) Lower employee morale",
+            "c) Faster achievement of organizational goals",
+            "d) Increased confusion"
+        ],
+        "answer": "c) Faster achievement of organizational goals",
+        "explanation": "Proper change management ensures smoother transitions, helping the organization reach its goals faster."
+    },
+    {
+        "id": 41,
+        "question": "Sustainable product design primarily aims to ____",
+        "options": [
+            "a) Maximize short-term profits only",
+            "b) Meet needs while minimizing environmental impact",
+            "c) Use the cheapest materials regardless of impact",
+            "d) Increase packaging weight"
+        ],
+        "answer": "b) Meet needs while minimizing environmental impact",
+        "explanation": "Sustainable design balances meeting customer needs with protecting the environment for future generations."
+    },
+    {
+        "id": 42,
+        "question": "Which is an example of material selection for sustainability?",
+        "options": [
+            "a) Toxic paints",
+            "b) Virgin plastics only",
+            "c) Bamboo or recycled metals",
+            "d) Lead-based solder in all products"
+        ],
+        "answer": "c) Bamboo or recycled metals",
+        "explanation": "Bamboo and recycled metals are eco-friendly materials that reduce environmental harm."
+    },
+    {
+        "id": 43,
+        "question": "Design for energy efficiency means ____",
+        "options": [
+            "a) Adding power-hungry features",
+            "b) Reducing use of energy in manufacturing process",
+            "c) Ignoring water consumption",
+            "d) Extending process times"
+        ],
+        "answer": "b) Reducing use of energy in manufacturing process",
+        "explanation": "Energy-efficient design minimizes the amount of energy used during manufacturing and product use."
+    },
+    {
+        "id": 44,
+        "question": "Designing for durability and reuse typically includes ____",
+        "options": [
+            "a) Non-repairable construction",
+            "b) Modular designs and replaceable parts",
+            "c) Gluing all components permanently",
+            "d) Single-use materials"
+        ],
+        "answer": "b) Modular designs and replaceable parts",
+        "explanation": "Products designed with replaceable parts last longer and reduce waste."
+    },
+    {
+        "id": 45,
+        "question": "A step that reduces environmental impact of packaging is to ____",
+        "options": [
+            "a) Use unnecessary layers",
+            "b) Prefer lightweight, recyclable materials",
+            "c) Print heavy inks excessively",
+            "d) Use mixed, non-recyclable laminates"
+        ],
+        "answer": "b) Prefer lightweight, recyclable materials",
+        "explanation": "Using less material and making it recyclable reduces the environmental footprint of packaging."
+    },
+    {
+        "id": 46,
+        "question": "End-of-life planning in sustainable design involves ____",
+        "options": [
+            "a) Making disassembly difficult",
+            "b) Designing for easy recycling and take-back",
+            "c) Ignoring waste streams",
+            "d) Banning disassembly"
+        ],
+        "answer": "b) Designing for easy recycling and take-back",
+        "explanation": "Sustainable design thinks ahead — products should be easy to disassemble, recycle, or return at end of life."
+    },
+    {
+        "id": 47,
+        "question": "A listed economic benefit of sustainable design is ____",
+        "options": [
+            "a) Guaranteed higher costs",
+            "b) Cost savings via energy-efficient processes",
+            "c) Reduced market demand",
+            "d) Higher carbon taxes"
+        ],
+        "answer": "b) Cost savings via energy-efficient processes",
+        "explanation": "Using less energy and resources during manufacturing reduces costs, making it economically beneficial."
+    },
+    {
+        "id": 48,
+        "question": "A listed social benefit of sustainable design is ____",
+        "options": [
+            "a) Increased pollution",
+            "b) Weaker brand image",
+            "c) Improved public health and responsible consumption",
+            "d) Shorter product lifespan"
+        ],
+        "answer": "c) Improved public health and responsible consumption",
+        "explanation": "Sustainable products reduce pollution and harmful materials, which improves public health and promotes responsible buying habits."
+    },
+    {
+        "id": 49,
+        "question": "Which organizational benefit is associated with sustainability?",
+        "options": [
+            "a) Employee satisfaction",
+            "b) Less compliance laws",
+            "c) Option 3",
+            "d) Option 4"
+        ],
+        "answer": "a) Employee satisfaction",
+        "explanation": "Employees feel proud and motivated working for a company that cares about sustainability and the environment."
+    },
+    {
+        "id": 50,
+        "question": "Which sequence best represents a practical flow from strategy to result in sustainable NPD?",
+        "options": [
+            "a) Design for efficiency/durability — Optimize manufacturing — Minimize packaging — Plan end-of-life — Monitor and improve",
+            "b) Set sustainable goals — Select green materials",
+            "c) Launch products — Plan goals — Recycle — Choose materials",
+            "d) Manufacture — Package — Design — Set goals — Exercise — Set goals — Ignore manufacturing — Dispose"
+        ],
+        "answer": "a) Design for efficiency/durability — Optimize manufacturing — Minimize packaging — Plan end-of-life — Monitor and improve",
+        "explanation": "This is the correct logical flow for implementing sustainable NPD from design to continuous improvement."
+    },
+    {
+        "id": 51,
+        "question": "Product Management mainly focuses on ____",
+        "options": [
+            "a) Rigid long-term plans",
+            "b) Continuous improvement and customer feedback",
+            "c) Ignoring customer input",
+            "d) Annual project reviews only"
+        ],
+        "answer": "b) Continuous improvement and customer feedback",
+        "explanation": "Product management is an ongoing process that keeps improving the product based on what customers need."
+    },
+    {
+        "id": 52,
+        "question": "The term iteration or sprints in Agile refers to ____",
+        "options": [
+            "a) One-time final product launches",
+            "b) Small, manageable development cycles",
+            "c) Annual meetings",
+            "d) Marketing campaigns"
+        ],
+        "answer": "b) Small, manageable development cycles",
+        "explanation": "In Agile, a sprint is a short development cycle (usually 1-4 weeks) where a specific set of features is built and tested."
+    },
+    {
+        "id": 53,
+        "question": "Agile Product Management is most suitable for ____",
+        "options": [
+            "a) Static, unchanging markets",
+            "b) Government accounting systems",
+            "c) Dynamic industries with rapid technology changes",
+            "d) Manufacturing of traditional goods only"
+        ],
+        "answer": "c) Dynamic industries with rapid technology changes",
+        "explanation": "Agile works best where requirements change frequently, like in software and tech industries."
+    },
+    {
+        "id": 54,
+        "question": "Which of the following is a key benefit of Agile Product Management?",
+        "options": [
+            "a) Slow delivery cycles",
+            "b) Continuous customer feedback and faster releases",
+            "c) Ignoring errors until the end",
+            "d) Avoiding team discussions"
+        ],
+        "answer": "b) Continuous customer feedback and faster releases",
+        "explanation": "Agile keeps customers involved throughout and delivers working parts faster, reducing risk."
+    },
+    {
+        "id": 55,
+        "question": "In Agile, a sprint generally ends with ____",
+        "options": [
+            "a) A complete final product",
+            "b) A usable, testable version of the product",
+            "c) Only planning documents",
+            "d) Employee evaluations"
+        ],
+        "answer": "b) A usable, testable version of the product",
+        "explanation": "At the end of each sprint, the team delivers a working increment of the product that can be tested and reviewed."
+    },
+    {
+        "id": 56,
+        "question": "One of the biggest advantages of Agile is ____",
+        "options": [
+            "a) High documentation and strict plans",
+            "b) Better flexibility and adaptability",
+            "c) No customer involvement",
+            "d) Working alone"
+        ],
+        "answer": "b) Better flexibility and adaptability",
+        "explanation": "Agile allows teams to change direction quickly based on new information or customer feedback."
+    },
+    {
+        "id": 57,
+        "question": "In Agile, customer satisfaction is achieved by ____.",
+        "options": [
+            "a) Delivering value early and frequently",
+            "b) Avoiding changes after planning",
+            "c) Reducing communication",
+            "d) Updating one large release at the end"
+        ],
+        "answer": "a) Delivering value early and frequently",
+        "explanation": "Agile delivers working features early and continuously, keeping customers happy throughout the process."
+    },
+    {
+        "id": 58,
+        "question": "\"Accept Changes Anytime\" means ____.",
+        "options": [
+            "a) Only managers can suggest changes",
+            "b) Teams must resist all new ideas",
+            "c) Teams can adjust to new requirements anytime",
+            "d) Products should never be modified"
+        ],
+        "answer": "c) Teams can adjust to new requirements anytime",
+        "explanation": "Agile welcomes changes even late in development — teams adapt to new requirements whenever needed."
+    },
+    {
+        "id": 59,
+        "question": "Which principle emphasizes teamwork and open communication?",
+        "options": [
+            "a) Keep Things Simple",
+            "b) Work Together as One Team",
+            "c) Continuous Delivery",
+            "d) Customer Value over Targets"
+        ],
+        "answer": "b) Work Together as One Team",
+        "explanation": "This Agile principle encourages collaboration, open communication, and working as a unified team."
+    },
+    {
+        "id": 60,
+        "question": "According to the Agile Manifesto, the most accurate measure of progress is ____.",
+        "options": [
+            "a) Number of reports completed",
+            "b) Amount of documentation",
+            "c) A working product",
+            "d) Budget spent"
+        ],
+        "answer": "c) A working product",
+        "explanation": "The Agile Manifesto states that working software (product) is the primary measure of progress, not documents or reports."
+    },
+    {
+        "id": 61,
+        "question": "\"Empowered Teams over Top-Down Management\" means ____.",
+        "options": [
+            "a) Only senior managers decide everything",
+            "b) Teams are trusted to manage their own work",
+            "c) Decisions must go through multiple approvals",
+            "d) Teams cannot make any changes"
+        ],
+        "answer": "b) Teams are trusted to manage their own work",
+        "explanation": "In Agile, teams are self-organizing and trusted to make decisions without needing approval at every step."
+    },
+    {
+        "id": 62,
+        "question": "\"Continuous Delivery\" in Agile means ____.",
+        "options": [
+            "a) Delivering one big product at the end",
+            "b) Regularly releasing small, working parts of the product",
+            "c) Stopping after initial design",
+            "d) Only testing in the last stage"
+        ],
+        "answer": "b) Regularly releasing small, working parts of the product",
+        "explanation": "Continuous delivery means the team keeps releasing small, functional updates regularly rather than one big final release."
+    },
+    {
+        "id": 63,
+        "question": "The Agile Manifesto values which of the following more?",
+        "options": [
+            "a) Internal Targets over Customer Value",
+            "b) Control over Collaboration",
+            "c) Adaptability over Strict Planning",
+            "d) Assumptions over Feedback"
+        ],
+        "answer": "c) Adaptability over Strict Planning",
+        "explanation": "The Agile Manifesto values responding to change over following a rigid plan."
+    },
+    {
+        "id": 64,
+        "question": "After every sprint, Agile teams should ___.",
+        "options": [
+            "a) Ignore results",
+            "b) Reflect, learn and improve",
+            "c) Start a new project immediately",
+            "d) Take a long break"
+        ],
+        "answer": "b) Reflect, learn and improve",
+        "explanation": "After each sprint, teams hold a retrospective to review what went well and what can be improved — this is continuous improvement."
+    },
+    {
+        "id": 65,
+        "question": "Project management primarily helps organizations to ___.",
+        "options": [
+            "a) Increase paperwork",
+            "b) Plan, organize and complete projects successfully",
+            "c) Delay project deadlines",
+            "d) Avoid teamwork"
+        ],
+        "answer": "b) Plan, organize and complete projects successfully",
+        "explanation": "Project management provides a structured approach to achieve goals within time, budget, and quality constraints."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following ensures all team members work toward a common goal?",
+        "options": [
+            "a) Advertising",
+            "b) Project management",
+            "c) Human resource planning only",
+            "d) Cost accounting"
+        ],
+        "answer": "b) Project management",
+        "explanation": "Project management aligns all team members towards the same objective through planning and coordination."
+    },
+    {
+        "id": 67,
+        "question": "The first step in successful project management is ___.",
+        "options": [
+            "a) Execution",
+            "b) Planning and goal setting",
+            "c) Project closure",
+            "d) Marketing"
+        ],
+        "answer": "b) Planning and goal setting",
+        "explanation": "You must first define what you want to achieve and plan how to do it before any execution begins."
+    },
+    {
+        "id": 68,
+        "question": "Proper project planning helps in ___.",
+        "options": [
+            "a) Increasing confusion",
+            "b) Avoiding organization",
+            "c) Saving time and reducing mistakes",
+            "d) Ignoring deadlines"
+        ],
+        "answer": "c) Saving time and reducing mistakes",
+        "explanation": "Good planning reduces errors, avoids rework, and ensures efficient use of time and resources."
+    },
+    {
+        "id": 69,
+        "question": "Efficient resource use in project management means ___.",
+        "options": [
+            "a) Wasting materials for faster work",
+            "b) Using manpower, money and materials wisely",
+            "c) Ignoring cost control",
+            "d) Hiring more people than required"
+        ],
+        "answer": "b) Using manpower, money and materials wisely",
+        "explanation": "Efficient resource use means getting the most output from available people, budget, and materials without waste."
+    },
+    {
+        "id": 70,
+        "question": "Which factor ensures a project is completed within the deadline?",
+        "options": [
+            "a) Time management",
+            "b) Market research",
+            "c) Customer surveys",
+            "d) Advertising"
+        ],
+        "answer": "a) Time management",
+        "explanation": "Time management in project management involves scheduling, tracking, and controlling activities to meet deadlines."
+    },
+    {
+        "id": 71,
+        "question": "Keeping a project within the approved budget is part of ___.",
+        "options": [
+            "a) Quality management",
+            "b) Cost control",
+            "c) Time management",
+            "d) Marketing"
+        ],
+        "answer": "b) Cost control",
+        "explanation": "Cost control monitors and manages project expenses to ensure the project stays within its approved budget."
+    },
+    {
+        "id": 72,
+        "question": "Quality assurance in project management ensures ___.",
+        "options": [
+            "a) Products are cheap",
+            "b) Output meets required standards",
+            "c) Teams work longer hours",
+            "d) Customers are ignored"
+        ],
+        "answer": "b) Output meets required standards",
+        "explanation": "Quality assurance ensures the deliverables of a project meet the defined quality requirements and standards."
+    },
+    {
+        "id": 73,
+        "question": "Identifying and reducing possible problems early is part of ___.",
+        "options": [
+            "a) Risk management",
+            "b) Cost management",
+            "c) Scope management",
+            "d) Procurement"
+        ],
+        "answer": "a) Risk management",
+        "explanation": "Risk management involves identifying potential problems before they happen and planning how to avoid or minimize them."
+    },
+    {
+        "id": 74,
+        "question": "Team co-ordination in project management helps to ___.",
+        "options": [
+            "a) Promote competition within teams",
+            "b) Ensure smooth communication and teamwork",
+            "c) Create confusion",
+            "d) Reduce efficiency"
+        ],
+        "answer": "b) Ensure smooth communication and teamwork",
+        "explanation": "Good coordination keeps everyone informed, reduces conflicts, and ensures the team works together effectively."
+    },
+    {
+        "id": 75,
+        "question": "Project Management focuses on ___.",
+        "options": [
+            "a) Bringing all project parts together in one plan",
+            "b) Recruiting project staff",
+            "c) Buying raw materials",
+            "d) Marketing project outcomes"
+        ],
+        "answer": "a) Bringing all project parts together in one plan",
+        "explanation": "Project management integrates all aspects — scope, time, cost, quality, and people — into one unified plan."
+    },
+    {
+        "id": 76,
+        "question": "Project Scope Management mainly prevents ___.",
+        "options": [
+            "a) Quality improvement",
+            "b) Scope creep or unnecessary work",
+            "c) Resource allocation",
+            "d) Stakeholder meetings"
+        ],
+        "answer": "b) Scope creep or unnecessary work",
+        "explanation": "Scope management defines what is and isn't included in the project, preventing extra unplanned work (scope creep) from being added."
+    },
+    {
+        "id": 77,
+        "question": "Using tools like Gantt charts or PERT is part of ___.",
+        "options": [
+            "a) Risk management",
+            "b) Schedule/time management",
+            "c) Procurement management",
+            "d) Cost management"
+        ],
+        "answer": "b) Schedule/time management",
+        "explanation": "Gantt charts and PERT are time management tools used to plan, schedule, and track project timelines."
+    },
+    {
+        "id": 78,
+        "question": "Using tools like Gantt Charts or PERT is part of ____.",
+        "options": [
+            "a) Risk management",
+            "b) Schedule (Time) management",
+            "c) Procurement management",
+            "d) Cost estimation"
+        ],
+        "answer": "b) Schedule (Time) management",
+        "explanation": "Both Gantt charts and PERT networks help in scheduling activities and managing project timelines."
+    },
+    {
+        "id": 79,
+        "question": "Project Cost Management includes ____.",
+        "options": [
+            "a) Estimating, budgeting and controlling costs",
+            "b) Hiring more staff",
+            "c) Creating reports only",
+            "d) Ignoring budgets"
+        ],
+        "answer": "a) Estimating, budgeting and controlling costs",
+        "explanation": "Cost management covers estimating how much the project will cost, creating a budget, and controlling spending during execution."
+    },
+    {
+        "id": 80,
+        "question": "Project Human Resource Management focuses on ____.",
+        "options": [
+            "a) Buying raw materials",
+            "b) Selecting, training and motivating team members",
+            "c) Setting budgets",
+            "d) Planning project scope"
+        ],
+        "answer": "b) Selecting, training and motivating team members",
+        "explanation": "HR management in projects deals with getting the right people, developing their skills, and keeping them motivated."
+    },
+    {
+        "id": 81,
+        "question": "Project Configuration Management ensures ____.",
+        "options": [
+            "a) Tracking and timely sharing of information",
+            "b) Speedy communication",
+            "c) Reduced documentation only",
+            "d) More project reports"
+        ],
+        "answer": "a) Tracking and timely sharing of information",
+        "explanation": "Configuration management tracks changes in project documents, designs, and deliverables and ensures everyone has the latest information."
+    },
+    {
+        "id": 82,
+        "question": "In project management, \"Plan\" refers to ____.",
+        "options": [
+            "a) The blueprint of what, when and how work will be done",
+            "b) The number of people under the project manager",
+            "c) The budget of the project",
+            "d) The key \"people\" refers to ____"
+        ],
+        "answer": "a) The blueprint of what, when and how work will be done",
+        "explanation": "The Plan is the detailed document that outlines the entire approach — tasks, timelines, resources, and methods."
+    },
+    {
+        "id": 83,
+        "question": "The key \"people\" refers to ____.",
+        "options": [
+            "a) All individuals involved in the project — team, manager, sponsor",
+            "b) All managers",
+            "c) Only management",
+            "d) The project only"
+        ],
+        "answer": "a) All individuals involved in the project — team, manager, sponsor",
+        "explanation": "\"People\" in the 4Ps of project management refers to everyone involved — team members, the project manager, sponsors, and stakeholders."
+    },
+    {
+        "id": 84,
+        "question": "The \"Power\" element in project management means ____.",
+        "options": [
+            "a) Authority to make decisions and solve problems",
+            "b) Energy consumption of machines",
+            "c) Control over team in a plant",
+            "d) Political influence"
+        ],
+        "answer": "a) Authority to make decisions and solve problems",
+        "explanation": "\"Power\" in the 4Ps means having the authority and decision-making ability needed to manage the project effectively."
+    },
+    {
+        "id": 85,
+        "question": "What is the correct order of the five project phases?",
+        "options": [
+            "a) Initiation → Planning → Execution → Monitoring & Controlling → Closure",
+            "b) Initiation → Planning → Execution → Closure → Monitoring",
+            "c) Execution → Initiation → Closure → Planning → Monitoring",
+            "d) Monitoring → Planning → Initiation → Closure → Execution"
+        ],
+        "answer": "a) Initiation → Planning → Execution → Monitoring & Controlling → Closure",
+        "explanation": "This is the standard Project Management Life Cycle as defined by PMI/PMBOK."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following is NOT an advantage of CPM?",
+        "options": [
+            "a) Helps in project scheduling",
+            "b) Identifies critical and non-critical activities",
+            "c) Ignores time estimation",
+            "d) Assists in resource planning"
+        ],
+        "answer": "c) Ignores time estimation",
+        "explanation": "Ignoring time estimation is a disadvantage, not an advantage. CPM actually uses deterministic time estimates for scheduling."
+    },
+    {
+        "id": 87,
+        "question": "In CPM, time estimates for activities are considered _____",
+        "options": [
+            "a) Deterministic (fixed)",
+            "b) Probabilistic (variable)",
+            "c) Randomly and subjectively",
+            "d) Ignored completely"
+        ],
+        "answer": "a) Deterministic (fixed)",
+        "explanation": "CPM uses single fixed time estimates for each activity, unlike PERT which uses three estimates."
+    },
+    {
+        "id": 88,
+        "question": "The full form of PERT is ____",
+        "options": [
+            "a) Project Examination and Review Technique",
+            "b) Program Evaluation and Review Technique",
+            "c) Performance Evaluation and Resource Technique",
+            "d) Planning and Execution Resource Tool"
+        ],
+        "answer": "b) Program Evaluation and Review Technique",
+        "explanation": "PERT stands for Program Evaluation and Review Technique, developed by the US Navy in 1957."
+    },
+    {
+        "id": 89,
+        "question": "PERT is mainly used when ____",
+        "options": [
+            "a) Activity time is very certain",
+            "b) Project duration is fixed",
+            "c) Cost is the main criterion",
+            "d) There is no need for scheduling"
+        ],
+        "answer": "b) Project duration is fixed",
+        "explanation": "PERT is used when activity times are uncertain and you need to evaluate the probability of completing the project within a fixed duration."
+    },
+    {
+        "id": 90,
+        "question": "In the network, which gives time estimation?",
+        "options": [
+            "a) One-time estimate",
+            "b) Three-time estimates — optimistic, pessimistic and most likely",
+            "c) Four optimistic time",
+            "d) Only average time"
+        ],
+        "answer": "b) Three-time estimates — optimistic, pessimistic and most likely",
+        "explanation": "PERT uses three time estimates: Optimistic (O), Most Likely (M), and Pessimistic (P) to calculate expected time."
+    },
+    {
+        "id": 91,
+        "question": "In PERT, Expected Time (TE) is calculated using the formula ____",
+        "options": [
+            "a) (O + 4M + P) / 6",
+            "b) (O + 4M + P) / 2",
+            "c) (O + 3M + P) / 5",
+            "d) (O + 3M + P) / 5"
+        ],
+        "answer": "a) (O + 4M + P) / 6",
+        "explanation": "This is the standard PERT formula where O = Optimistic time, M = Most Likely time, P = Pessimistic time. Most Likely is given 4x weight."
+    },
+    {
+        "id": 92,
+        "question": "PERT is best suited for ____",
+        "options": [
+            "a) Repetitive projects",
+            "b) Research and development projects",
+            "c) Construction projects only",
+            "d) Manufacturing plants"
+        ],
+        "answer": "b) Research and development projects",
+        "explanation": "PERT is ideal for R&D projects where activity durations are uncertain and hard to predict accurately."
+    },
+    {
+        "id": 93,
+        "question": "Which of the following statements is true about PERT and CPM?",
+        "options": [
+            "a) PERT deals with uncertain time, CPM with fixed time",
+            "b) CPM deals with uncertain time, PERT with fixed time",
+            "c) Both are the same",
+            "d) Both are same"
+        ],
+        "answer": "a) PERT deals with uncertain time, CPM with fixed time",
+        "explanation": "PERT handles uncertainty using three time estimates, while CPM uses one fixed (deterministic) time estimate."
+    },
+    {
+        "id": 94,
+        "question": "A Gantt chart is used for ____",
+        "options": [
+            "a) Planning and tracking progress of activities",
+            "b) Budget estimation only",
+            "c) Identifying project risks",
+            "d) Managing only manpower"
+        ],
+        "answer": "a) Planning and tracking progress of activities",
+        "explanation": "A Gantt chart is a bar chart that shows project tasks along a timeline, used to plan and track progress."
+    },
+    {
+        "id": 95,
+        "question": "In a Gantt chart, the horizontal bars represent ____",
+        "options": [
+            "a) Activities and their duration",
+            "b) Employees and salaries",
+            "c) Project cost",
+            "d) Risks and constraints"
+        ],
+        "answer": "a) Activities and their duration",
+        "explanation": "Each horizontal bar in a Gantt chart represents a task/activity and how long it takes to complete."
+    },
+    {
+        "id": 96,
+        "question": "A Gantt chart is most useful for ____",
+        "options": [
+            "a) Visualizing timelines and overlapping activities",
+            "b) Financial accounting",
+            "c) Quality control",
+            "d) Manpower recruitment"
+        ],
+        "answer": "a) Visualizing timelines and overlapping activities",
+        "explanation": "Gantt charts give a clear visual overview of all activities, their durations, and which ones overlap in time."
+    },
+    {
+        "id": 97,
+        "question": "One limitation of a Gantt chart is ____",
+        "options": [
+            "a) It cannot show task sequence or dependency clearly",
+            "b) It cannot display time and duration",
+            "c) It requires special software",
+            "d) It is only used in small projects"
+        ],
+        "answer": "a) It cannot show task sequence or dependency clearly",
+        "explanation": "Gantt charts show when tasks happen but do not clearly show which tasks depend on others (dependencies)."
+    },
+    {
+        "id": 98,
+        "question": "In project management, an estimate refers to ____",
+        "options": [
+            "a) Guessing project profits",
+            "b) Approximating cost, time and resources required",
+            "c) Only manpower planning",
+            "d) Predicting future profits"
+        ],
+        "answer": "b) Approximating cost, time and resources required",
+        "explanation": "An estimate is an informed approximation of the time, cost, and resources needed to complete a project."
+    },
+    {
+        "id": 99,
+        "question": "The process of estimating total cost of the project is called ____",
+        "options": [
+            "a) Cost budgeting",
+            "b) Cost control",
+            "c) Financial forecasting",
+            "d) Time scheduling"
+        ],
+        "answer": "a) Cost budgeting",
+        "explanation": "Cost budgeting is the process of aggregating all estimated costs to establish a total cost baseline for the project."
+    },
+    {
+        "id": 100,
+        "question": "A project budget is ____",
+        "options": [
+            "a) A fixed amount for project promotion",
+            "b) A financial plan showing expected costs and resource allocations",
+            "c) Only a record of past expenses",
+            "d) An informal guess of project spending"
+        ],
+        "answer": "b) A financial plan showing expected costs and resource allocations",
+        "explanation": "A project budget is a formal financial document that outlines all expected costs and how resources will be allocated."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following is NOT an objective of budgeting?",
+        "options": [
+            "a) Controlling project expenditure",
+            "b) Tracking progress and deliverables",
+            "c) Wasting resources intentionally",
+            "d) Ensuring financial discipline"
+        ],
+        "answer": "c) Wasting resources intentionally",
+        "explanation": "Budgeting aims to save and control resources, not waste them. All other options are valid budgeting objectives."
+    },
+    {
+        "id": 102,
+        "question": "A good cost estimate should be ____",
+        "options": [
+            "a) Random and approximate",
+            "b) Accurate, realistic and based on data",
+            "c) Based on opinion only",
+            "d) Avoiding cost only"
+        ],
+        "answer": "b) Accurate, realistic and based on data",
+        "explanation": "A reliable cost estimate must be based on real data, past experience, and logical analysis — not guesswork."
+    },
+    {
+        "id": 103,
+        "question": "Budget monitoring during project execution helps ____",
+        "options": [
+            "a) Identifying cost overruns early",
+            "b) Reducing teamwork",
+            "c) Ignoring financial goals",
+            "d) Increasing unnecessary costs"
+        ],
+        "answer": "a) Identifying cost overruns early",
+        "explanation": "Regular budget monitoring lets the project manager catch when spending is exceeding the plan early enough to take corrective action."
+    },
+    {
+        "id": 104,
+        "question": "Which of the following tools can be used together with budgeting for time control?",
+        "options": [
+            "a) PERT and CPM",
+            "b) SWOT analysis",
+            "c) Fishbone diagram",
+            "d) Pareto chart"
+        ],
+        "answer": "a) PERT and CPM",
+        "explanation": "PERT and CPM are scheduling tools that help control both time and costs together in project management."
+    },
+    {
+        "id": 105,
+        "question": "The main relationship among CPM, PERT and Gantt chart is that ____",
+        "options": [
+            "a) All are planning and scheduling tools in project management",
+            "b) All are budgeting tools",
+            "c) All are quality control tools",
+            "d) None of the above"
+        ],
+        "answer": "a) All are planning and scheduling tools in project management",
+        "explanation": "CPM, PERT, and Gantt charts are all used to plan, schedule, and track project activities and timelines."
+    }
+]
