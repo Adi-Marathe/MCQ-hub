@@ -1,1125 +1,1003 @@
 import json
 import re
 
-text = """**1. The main purpose of a Quality Circle is to ____**
-a) Solve workplace problems through teamwork
-b) Conduct financial audits
-c) Replace management
-d) Supervise marketing activities
-
-**Correct: a) Solve workplace problems through teamwork**
-Explanation: Quality Circles are small groups of employees who meet regularly to identify and solve work-related problems together as a team.
-
----
-
-**2. Quality Circles operate on the principle of ____.**
-a) Hierarchical control
-b) Employee participation and empowerment
-c) Autocratic leadership
-d) None of the above
-
-**Correct: b) Employee participation and empowerment**
-Explanation: Quality Circles believe that employees at all levels should be involved in decision-making and given power to improve their work area.
+text = """**1.** Marketing Management mainly involves ____.
+a) Only selling products
+b) Planning, organizing, directing and controlling marketing activities
+c) Managing only finance and production
+d) Delivering services without promotion
+**Answer: b)**
+Marketing management is not just selling — it covers all activities like planning what to sell, organizing teams, directing efforts, and controlling results.
 
 ---
 
-**3. The concept of Quality Circles originated in ____.**
-a) USA
-b) Japan
-c) Germany
-d) India
-
-**Correct: b) Japan**
-Explanation: Quality Circles were developed in Japan in the 1960s as part of their quality improvement movement after World War II.
+**2.** The main aim of marketing management is to ____.
+a) Increase costs
+b) Satisfy customer needs and achieve business goals
+c) Produce as much as possible without demand
+d) Focus only on pricing
+**Answer: b)**
+The whole point of marketing management is to understand what customers want and fulfill those needs while also achieving the company's goals.
 
 ---
 
-**4. The founder of the Quality Circle concept is ____**
-a) Kaoru Ishikawa
-b) W. Edwards Deming
-c) Joseph Juran
+**3.** Who defined marketing management as the process of planning and executing the conception, pricing, promotion and distribution of ideas, goods and services?
+a) Peter Drucker
+b) Philip Kotler
+c) Henry Fayol
 d) F.W. Taylor
-
-**Correct: a) Kaoru Ishikawa**
-Explanation: Kaoru Ishikawa, a Japanese professor, is credited with developing the Quality Circle concept in Japan in the early 1960s.
-
----
-
-**5. A typical Quality Circle includes ____**
-a) 5-10 members from the same department
-b) Only managers
-c) Outsiders and consultants
-d) Directors and shareholders
-
-**Correct: a) 5-10 members from the same department**
-Explanation: A Quality Circle is a small group of 5 to 10 workers from the same work area who voluntarily meet to solve problems related to their work.
+**Answer: b)**
+Philip Kotler is known as the "Father of Marketing" and gave this famous definition covering all aspects of marketing.
 
 ---
 
-**6. Quality Circles aim at ____**
-a) Developing creativity and problem-solving skills
-b) Punishing poor performers
-c) Cutting salaries
-d) Reducing communication
-
-**Correct: a) Developing creativity and problem-solving skills**
-Explanation: Quality Circles encourage employees to think creatively, identify problems, and come up with practical solutions, which improves their skills.
-
----
-
-**7. The main outcome of a Quality Circle meeting is ____**
-a) New rules
-b) Suggestions for improvement
-c) Promotions
-d) Financial reports
-
-**Correct: b) Suggestions for improvement**
-Explanation: The primary output of Quality Circle meetings is practical suggestions and solutions that can improve quality, productivity, and the work environment.
+**4.** According to Stanton, marketing management involves ____.
+a) Only advertising and sales
+b) Planning, organizing, directing and controlling exchange activities
+c) Financial decision-making
+d) Human resource management
+**Answer: b)**
+Stanton defined marketing management as managing all exchange activities — buying and selling — through planning, organizing, directing, and controlling.
 
 ---
 
-**8. Which of these is often used in Quality Circles?**
-a) Fishbone diagram
-b) Balance sheet
-c) SWOT matrix only
-d) Ledger book
-
-**Correct: a) Fishbone diagram**
-Explanation: The Fishbone (Cause and Effect) diagram is a common tool used in Quality Circles to identify the root causes of a problem in a visual way.
-
----
-
-**9. Quality Circle members enhance ____**
-a) Motivation and teamwork
-b) Isolation among workers
-c) Political influence
-d) Financial accounting
-
-**Correct: a) Motivation and teamwork**
-Explanation: Working in Quality Circles makes employees feel valued and involved, which boosts their motivation and strengthens teamwork.
+**5.** Marketing management connects the company with ____.
+a) The government
+b) The suppliers
+c) The customers
+d) The employees only
+**Answer: c)**
+Marketing management acts as the bridge between the company and its customers by understanding and fulfilling their needs.
 
 ---
 
-**10. Quality Circles were first introduced in India at ____**
-a) BHEL
-b) Tata Steel
-c) Indian Railways
-d) Hindustan Motors
-
-**Correct: a) BHEL**
-Explanation: BHEL (Bharat Heavy Electricals Limited) was the first organization in India to introduce Quality Circles in the early 1980s.
-
----
-
-**11. The ultimate benefit of Quality Circles is ____**
-a) Improved quality and productivity
-b) Higher bureaucracy
-c) Increased absenteeism
-d) Less employee involvement
-
-**Correct: a) Improved quality and productivity**
-Explanation: When employees regularly identify and solve problems together, it directly leads to better quality products/services and higher productivity.
+**6.** Marketing management focuses on building ____.
+a) Machinery
+b) Strong customer relationships
+c) Employee unions
+d) Government ties
+**Answer: b)**
+The core focus of marketing management is building long-term, strong relationships with customers so they keep coming back.
 
 ---
 
-**12. Quality Circles operate on a ____ management approach**
-a) Bottom-up
-b) Top-down
-c) Centralized
-d) Bureaucratic
-
-**Correct: a) Bottom-up**
-Explanation: In Quality Circles, ideas and improvements come from workers at the ground level (bottom) and go up to management, not the other way around.
-
----
-
-**13. The term Kaizen means ____**
-a) Continuous improvement
-b) Sudden innovation
-c) Large-scale change
-d) Temporary solution
-
-**Correct: a) Continuous improvement**
-Explanation: "Kaizen" is a Japanese word where "Kai" means change and "Zen" means good/better. Together it means making continuous small improvements every day.
+**7.** In simple terms, marketing management means ____.
+a) Managing only advertisements
+b) Managing all marketing activities for business success
+c) Controlling employee attendance
+d) Creating only product designs
+**Answer: b)**
+Simply put, marketing management means handling everything related to marketing — from research to promotion — to make the business successful.
 
 ---
 
-**14. Kaizen is a concept developed in ____**
-a) China
-b) Japan
-c) USA
-d) France
-
-**Correct: b) Japan**
-Explanation: Kaizen originated in Japan after World War II and was widely used by Japanese companies like Toyota to improve their manufacturing processes continuously.
-
----
-
-**15. The philosophy of Kaizen emphasizes ____**
-a) Small improvements made regularly
-b) Major one-time reforms
-c) Only technological upgrades
-d) Top management control
-
-**Correct: a) Small improvements made regularly**
-Explanation: Kaizen focuses on making many small, incremental improvements on a daily basis rather than waiting for one big change.
-
----
-
-**16. Which statement is most true about Kaizen?**
-a) It depends only on expensive equipment
-b) It requires employee involvement at all levels
-c) It ignores small changes
-d) It is used only in manufacturing
-
-**Correct: b) It requires employee involvement at all levels**
-Explanation: Kaizen works best when every employee — from top management to floor workers — participates and contributes improvement ideas regularly.
-
----
-
-**17. The main goal of Kaizen is to ____**
-a) Maintain current standards
-b) Achieve continuous betterment
-c) Increase cost
-d) Focus on individuals only
-
-**Correct: b) Achieve continuous betterment**
-Explanation: Kaizen's core goal is to never stop improving. It pushes for constant betterment in processes, quality, safety, and efficiency.
-
----
-
-**18. Which Japanese management practice is closely related to Kaizen?**
-a) Just-in-time (JIT)
-b) Benchmarking
-c) Outsourcing
-d) Downsizing
-
-**Correct: a) Just-in-time (JIT)**
-Explanation: Just-in-Time (JIT) and Kaizen are both part of the Toyota Production System. JIT reduces waste by producing only what is needed, which aligns with Kaizen's waste-elimination philosophy.
-
----
-
-**19. A good example of Kaizen is ____**
-a) Re-arranging tools to save motion time
-b) Hiring more supervisors
-c) Conducting annual party
-d) Ignoring small details
-
-**Correct: a) Re-arranging tools to save motion time**
-Explanation: Rearranging tools so workers can reach them faster is a classic small improvement that saves time and reduces waste — a perfect example of Kaizen in action.
-
----
-
-**20. Kaizen primarily depends on ____**
-a) Continuous employee suggestions
-b) Large investments
-c) Expensive consultants
-d) High turnover
-
-**Correct: a) Continuous employee suggestions**
-Explanation: Kaizen relies on employees regularly sharing small ideas and suggestions for improvement rather than expensive technology or outside experts.
-
----
-
-**21. Which of the following is NOT a principle of Kaizen?**
-a) Involve everyone
-b) Think improvement every day
-c) Blame employees for mistakes
-d) Eliminate waste
-
-**Correct: c) Blame employees for mistakes**
-Explanation: Kaizen focuses on improving the process, not blaming people. It encourages a positive, blame-free culture where mistakes are seen as opportunities to improve.
-
----
-
-**22. The PDCA cycle (Plan-Do-Check-Act) is often associated with ____**
-a) Kaizen
-b) TQM
-c) Six Sigma
-d) QFD, A and B
-
-**Correct: d) QFD, A and B**
-Explanation: The PDCA cycle is used in both Kaizen and TQM. It is a key tool for continuous improvement — plan a change, do it, check the results, and act to standardize it.
-
----
-
-**23. Six Sigma aims to ____**
-a) Reduce defects and variation
-b) Increase wastage
-c) Limit employee participation
-d) Focus on hiring
-
-**Correct: a) Reduce defects and variation**
-Explanation: Six Sigma is a data-driven methodology that focuses on identifying and eliminating defects and reducing variation in any process to improve quality.
-
----
-
-**24. Six Sigma was developed by ____.**
-a) Motorola
-b) Toyota
-c) General Electric
-d) Ford
-
-**Correct: a) Motorola**
-Explanation: Six Sigma was developed by Motorola engineer Bill Smith in 1986 as a way to improve manufacturing quality and reduce product defects.
-
----
-
-**25. The statistical goal of Six Sigma is ____.**
-a) 3.4 defects per million opportunities
-b) 100 defects per million
-c) 99% accuracy
-d) Zero defects
-
-**Correct: a) 3.4 defects per million opportunities**
-Explanation: Six Sigma targets a very high quality level — only 3.4 defects per million opportunities, which means achieving 99.99966% accuracy.
-
----
-
-**26. The term 'Sigma' represents ____.**
-a) Standard deviation
-b) Mean value
-c) Frequency
-d) Total quality
-
-**Correct: a) Standard deviation**
-Explanation: Sigma (σ) is a statistical term representing standard deviation, which measures how much variation or spread exists in a process. Higher sigma = less variation = better quality.
-
----
-
-**27. The DMAIC cycle stands for ____.**
-a) Define, Measure, Analyze, Improve, Control
-b) Design, Manage, Apply, Implement, Control
-c) Direct, Motivate, Assess, Improve, Conclude
-d) Define, Monitor, Act, Integrate, Conclude
-
-**Correct: a) Define, Measure, Analyze, Improve, Control**
-Explanation: DMAIC is the core problem-solving framework of Six Sigma. Each step helps systematically find the root cause of defects and make lasting improvements.
-
----
-
-**28. Six Sigma focuses on ____.**
-a) Data-driven decision-making
-b) Guesswork
-c) Top-level authority only
-d) Financial auditing
-
-**Correct: a) Data-driven decision-making**
-Explanation: Six Sigma uses statistical tools and data analysis to make decisions, not opinions or guesses. Every improvement is backed by measurable evidence.
-
----
-
-**29. In Six Sigma, Green Belts are ____.**
-a) Employees trained to support improvement projects
-b) Senior executives
-c) Accountants
-d) Temporary workers
-
-**Correct: a) Employees trained to support improvement projects**
-Explanation: Green Belts are employees trained in Six Sigma methods who work part-time on improvement projects while continuing their regular jobs.
-
----
-
-**30. Black Belts in Six Sigma are ____.**
-a) Team leaders and experts who mentor others
-b) New interns
-c) Managers of HR department
-d) Outsiders
-
-**Correct: a) Team leaders and experts who mentor others**
-Explanation: Black Belts are full-time Six Sigma experts who lead improvement projects and mentor Green Belts. They have deep knowledge of statistical tools and DMAIC.
-
----
-
-**31. Master Black Belt refers to ____.**
-a) Person who leads Six Sigma program company-wide
-b) Marketing executive
-c) Junior trainee
-d) None of these
-
-**Correct: a) Person who leads Six Sigma program company-wide**
-Explanation: Master Black Belts are the highest level Six Sigma experts who train and coach Black Belts and oversee the entire Six Sigma program across the organization.
-
----
-
-**32. The main focus of Six Sigma is ____.**
-a) Customer satisfaction through defect prevention
-b) Product advertising
-c) Financial reporting
-d) Staff reduction
-
-**Correct: a) Customer satisfaction through defect prevention**
-Explanation: Six Sigma ultimately aims to satisfy customers by delivering products and services with minimal defects and consistent quality.
-
----
-
-**33. Six Sigma projects use which key tool?**
-a) Statistical analysis
-b) Astrology
-c) Random guessing
-d) Marketing mix
-
-**Correct: a) Statistical analysis**
-Explanation: Six Sigma heavily relies on statistical tools like control charts, regression analysis, and hypothesis testing to identify root causes and measure improvements.
-
----
-
-**34. Which company popularized Six Sigma after Motorola?**
-a) General Electric (GE)
-b) Toyota
-c) Sony
-d) Apple
-
-**Correct: a) General Electric (GE)**
-Explanation: Jack Welch, CEO of General Electric, adopted Six Sigma in 1995 and made it famous worldwide by achieving billions of dollars in savings using this methodology.
-
----
-
-**35. In Six Sigma, process capability is measured in terms of ____.**
-a) Sigma levels
-b) Mean deviation
-c) Cost per unit
-d) Time only
-
-**Correct: a) Sigma levels**
-Explanation: Sigma levels (1σ to 6σ) indicate how capable a process is. A higher sigma level means fewer defects and better process performance.
-
----
-
-**36. The ultimate goal of Six Sigma is to achieve ____.**
-a) 99.99966% accuracy
-b) 80% efficiency
-c) Average quality
-d) Maximum supervision
-
-**Correct: a) 99.99966% accuracy**
-Explanation: At Six Sigma level, a process produces only 3.4 defects per million opportunities, which equals 99.99966% accuracy — near perfection.
-
----
-
-**37. TQM stands for ____.**
-a) Total Quality Management
-b) Technical Quality Measurement
-c) Team Quality Monitoring
-d) Total Quantity Management
-
-**Correct: a) Total Quality Management**
-Explanation: TQM stands for Total Quality Management — a management approach focused on long-term success through customer satisfaction and continuous improvement involving everyone in the organization.
-
----
-
-**38. The key objective of TQM is ____.**
-a) Continuous improvement and customer satisfaction
-b) Cost cutting only
-c) Bureaucratic control
-d) Quick profit
-
-**Correct: a) Continuous improvement and customer satisfaction**
-Explanation: TQM's main purpose is to keep improving all processes and make sure customers are always satisfied with the product or service quality.
-
----
-
-**39. The foundation of TQM lies in ____.**
-a) Quality at every stage
-b) Inspection only
-c) Blaming workers
-d) Reducing production
-
-**Correct: a) Quality at every stage**
-Explanation: TQM believes quality should be built into every step of the process — from raw materials to final delivery — not just checked at the end.
-
----
-
-**40. TQM requires participation of ____.**
-a) All employees
-b) Only managers
-c) Only production staff
-d) External consultants
-
-**Correct: a) All employees**
-Explanation: TQM is a company-wide approach. Every single employee, from top management to the shop floor, must be committed to quality improvement for TQM to work.
-
----
-
-**41. The famous 14 points of quality management were proposed by ____.**
-a) W. Edwards Deming
-b) Joseph Juran
-c) Kaoru Ishikawa
-d) Philip Crosby
-
-**Correct: a) W. Edwards Deming**
-Explanation: W. Edwards Deming proposed his famous 14 Points for Management as a guide for transforming business effectiveness and achieving quality.
-
----
-
-**42. "Fitness for use" definition of quality was given by ____.**
-a) Juran
-b) Deming
-c) Taylor
-d) Crosby
-
-**Correct: a) Juran**
-Explanation: Joseph Juran defined quality as "fitness for use," meaning a product or service should meet the needs and expectations of the customer when they use it.
-
----
-
-**43. The "Zero Defect" concept was given by ____.**
-a) Philip Crosby
-b) Ishikawa
-c) Juran
-d) Deming
-
-**Correct: a) Philip Crosby**
-Explanation: Philip Crosby introduced the "Zero Defects" concept, arguing that the standard should be to do things right the first time with no defects acceptable.
-
----
-
-**44. A core principle of TQM is ____.**
-a) Doing things right the first time
-b) Reacting after errors
-c) Blaming others
-d) Ignoring feedback
-
-**Correct: a) Doing things right the first time**
-Explanation: TQM promotes prevention over correction. The idea is to get quality right from the start rather than fixing mistakes later, which saves time and cost.
-
----
-
-**45. TQM promotes ____.**
-a) Customer-driven organization
-b) Profit-driven only
-c) Technology-driven only
-d) Manager-driven
-
-**Correct: a) Customer-driven organization**
-Explanation: In TQM, the customer's needs and satisfaction are the driving force behind every decision and process improvement in the organization.
-
----
-
-**46. TQM emphasizes the use of ____.**
-a) Quality tools like Pareto chart, Histogram, Check Sheet
-b) Financial tools
-c) Advertising campaigns
-d) Sales analysis
-
-**Correct: a) Quality tools like Pareto chart, Histogram, Check Sheet**
-Explanation: TQM uses specific quality tools such as Pareto charts (to find major problems), Histograms (to show data distribution), and Check Sheets (to collect data) to analyze and improve processes.
-
----
-
-**47. Which of the following is NOT an element of TQM?**
-a) Continuous improvement
-b) Employee participation
-c) Customer focus
-d) Rigid hierarchy
-
-**Correct: d) Rigid hierarchy**
-Explanation: TQM promotes open communication, teamwork, and employee involvement at all levels. A rigid hierarchy goes against TQM principles by blocking participation.
-
----
-
-**48. The Plan-Do-Check-Act (PDCA) cycle is used in TQM for ____.**
-a) Continuous improvement
+**8.** The heart of business success, according to marketing management, is ____.
+a) Production
 b) Marketing
-c) Recruitment
-d) Financial planning
-
-**Correct: a) Continuous improvement**
-Explanation: The PDCA cycle is TQM's tool for continuous improvement — Plan what to improve, Do it on a small scale, Check if it worked, and Act to standardize the improvement.
-
----
-
-**49. Which of the following is a benefit of TQM?**
-a) Improved morale and productivity
-b) More errors
-c) Reduced teamwork
-d) Increased supervision
-
-**Correct: a) Improved morale and productivity**
-Explanation: When employees are involved in quality improvement and see their ideas implemented, it boosts their morale. Better processes also naturally lead to higher productivity.
+c) Finance
+d) Accounting
+**Answer: b)**
+Marketing is the heart because without it, even the best product won't reach customers. It drives sales and business growth.
 
 ---
 
-**50. The ultimate aim of TQM is to achieve ____.**
-a) Long-term customer loyalty and organizational excellence
-b) Short-term gains
-c) Maximum supervision
-d) Minimum employee involvement
-
-**Correct: a) Long-term customer loyalty and organizational excellence**
-Explanation: TQM is not about quick fixes. Its ultimate goal is to build an organization that consistently delivers excellent quality, earning long-term customer loyalty.
-
----
-
-**51. The main purpose of 5S is to ____.**
-a) Increase sales
-b) Organize the workplace and improve efficiency
-c) Hire more workers
-d) Reduce salaries
-
-**Correct: b) Organize the workplace and improve efficiency**
-Explanation: 5S is a workplace organization method that creates a clean, organized, and efficient work environment to reduce waste and improve productivity.
+**9.** The first step in effective marketing management is ____.
+a) Pricing the product
+b) Identifying customer needs
+c) Advertising
+d) Recruiting employees
+**Answer: b)**
+Before doing anything else, a company must first understand what customers actually need. Everything else follows from that.
 
 ---
 
-**52. 5S originated in which country?**
-a) China
-b) USA
-c) Japan
-d) Germany
-
-**Correct: c) Japan**
-Explanation: 5S originated in Japan and was developed as part of the Toyota Production System to organize the workplace and eliminate waste.
-
----
-
-**53. In 5S, 'Seiri' stands for ____.**
-a) Set in order
-b) Sort - remove unnecessary items
-c) Shine
-d) Sustain - maintain standards
-
-**Correct: b) Sort - remove unnecessary items**
-Explanation: Seiri (Sort) is the first S. It means going through all items in the workplace and removing everything that is not needed for current work.
+**10.** Marketing management helps in creating demand through ____.
+a) Promotions and advertising
+b) Cost cutting
+c) Employee training
+d) Product maintenance
+**Answer: a)**
+Promotions and advertising inform customers about products and create interest, which leads to demand.
 
 ---
 
-**54. The second 'S', 'Seiton' means ____.**
-a) Standardize
-b) Set things in order for easy access
-c) Shine
-d) Sustain improvements
-
-**Correct: b) Set things in order for easy access**
-Explanation: Seiton (Set in Order) means arranging all necessary items in a proper place so they can be easily found, used, and returned after use.
-
----
-
-**55. 'Seiso' refers to ____.**
-a) Keeping the workplace neat and clean
-b) Sorting out materials
-c) Labeling items
-d) Conducting audits
-
-**Correct: a) Keeping the workplace neat and clean**
-Explanation: Seiso (Shine) means regularly cleaning the workplace. A clean environment helps identify problems like leaks, damage, or misplaced items quickly.
+**11.** Marketing management encourages companies to develop ____.
+a) Outdated products
+b) New and innovative products
+c) Only cheap products
+d) Products with no packaging
+**Answer: b)**
+To stay competitive and meet changing customer needs, marketing management pushes companies to innovate and develop new products.
 
 ---
 
-**56. The fourth 'S' - 'Seiketsu' means ____.**
-a) Shining tools
-b) Standardizing procedures
-c) Sustaining improvements
-d) Sorting and discarding waste
-
-**Correct: b) Standardizing procedures**
-Explanation: Seiketsu (Standardize) means creating standard rules and procedures so that the first three S's (Sort, Set, Shine) are done consistently every day.
-
----
-
-**57. The fifth 'S', 'Shitsuke,' means ____.**
-a) Sorting
-b) Discipline and sustaining the habit of 5S
-c) Supervising workers
-d) Scheduling production
-
-**Correct: b) Discipline and sustaining the habit of 5S**
-Explanation: Shitsuke (Sustain) means making 5S a habit through self-discipline. It ensures that all the improvements made are maintained long-term without being forced.
+**12.** Efficient distribution in marketing ensures products reach ____.
+a) Suppliers on time
+b) Customers at the right place and right time
+c) Government agencies
+d) Competitors
+**Answer: b)**
+Distribution is about making sure the product is available where and when the customer wants it — right place, right time.
 
 ---
 
-**58. The main benefit of 5S is ____.**
-a) Lower product quality
-b) Clean, safe and efficient workplace
-c) Increased paperwork
-d) Less teamwork
-
-**Correct: b) Clean, safe and efficient workplace**
-Explanation: 5S creates a workplace that is clean, well-organized, and safe, which reduces accidents, saves time searching for items, and improves overall efficiency.
-
----
-
-**59. Which of the following is NOT part of the 5S system?**
-a) Seiri
-b) Seiso
-c) Shitsuke
-d) Six Sigma
-
-**Correct: d) Six Sigma**
-Explanation: The 5S system consists of Seiri, Seiton, Seiso, Seiketsu, and Shitsuke. Six Sigma is a completely separate quality improvement methodology.
+**13.** Customer satisfaction and loyalty are achieved by ____.
+a) Ignoring customer feedback
+b) Overcharging customers
+c) Providing value and good relationships
+d) Avoiding service after sales
+**Answer: c)**
+When a company gives customers good value for money and maintains a good relationship, customers are happy and stay loyal.
 
 ---
 
-**60. The 5S method is most closely related to ____.**
-a) Lean manufacturing and continuous improvement
-b) Advertising strategy
-c) Finance and accounting
-d) Marketing management
-
-**Correct: a) Lean manufacturing and continuous improvement**
-Explanation: 5S is a foundational tool of Lean Manufacturing. It eliminates waste through workplace organization and supports the continuous improvement culture.
-
----
-
-**61. A red tag is commonly used during which 5S stage?**
-a) Seiketsu
-b) Seiri (Sorting)
-c) Seiso
-d) Shitsuke
-
-**Correct: b) Seiri (Sorting)**
-Explanation: During Seiri (Sort), red tags are placed on items that are unnecessary or questionable. These tagged items are then evaluated for removal, relocation, or disposal.
+**14.** Marketing helps in facing competition by ____.
+a) Copying competitors' products
+b) Studying the market and developing better strategies
+c) Ignoring customer needs
+d) Reducing product quality
+**Answer: b)**
+By studying the market and competitors, a company can create smarter strategies to stand out and beat the competition.
 
 ---
 
-**62. The goal of 'Set in Order' is to ____.**
-a) Arrange items so they are easy to find and return
-b) Store items randomly
-c) Remove all tools from the area
-d) Paint the walls
-
-**Correct: a) Arrange items so they are easy to find and return**
-Explanation: Set in Order (Seiton) means every item has a fixed place. This saves time, reduces frustration, and ensures tools are always available when needed.
-
----
-
-**63. Regular cleaning, inspection and maintenance belong to which S?**
-a) Seiso (Shine)
-b) Seiketsu (Standardize)
-c) Shitsuke (Sustain)
-d) Seiri (Sort)
-
-**Correct: a) Seiso (Shine)**
-Explanation: Seiso (Shine) involves not just cleaning but also inspecting equipment during cleaning to detect any abnormalities or problems early.
+**15.** Which of the following is a contribution of marketing to the economy?
+a) Job creation and trade growth
+b) Reduction in innovation
+c) Lower employment
+d) Limiting product variety
+**Answer: a)**
+Marketing creates jobs (salespeople, advertisers, etc.) and boosts trade, which helps the overall economy grow.
 
 ---
 
-**64. 5S helps to eliminate which of the following wastes?**
-a) Overproduction
-b) Unnecessary motion and time waste
-c) Marketing costs
-d) None of these
-
-**Correct: b) Unnecessary motion and time waste**
-Explanation: By organizing the workplace properly, 5S eliminates time wasted searching for tools, unnecessary movements, and delays due to clutter.
-
----
-
-**65. The ultimate goal of 5S is to ____.**
-a) Create a culture of discipline and continuous improvement
-b) Reduce prices
-c) Maintain paperwork
-d) Focus only on profits
-
-**Correct: a) Create a culture of discipline and continuous improvement**
-Explanation: Beyond just cleaning, the ultimate purpose of 5S is to build a disciplined workplace culture where employees continuously improve their work environment.
+**16.** Marketing management helps in efficient use of resources by ____.
+a) Focusing only on profitable markets
+b) Ignoring consumer feedback
+c) Using manpower randomly
+d) Producing more than required
+**Answer: a)**
+By targeting only profitable and relevant markets, resources like money, time, and manpower are not wasted.
 
 ---
 
-**66. The word 'Kanban' is derived from which language?**
-a) English
-b) Japanese
-c) Chinese
-d) Korean
-
-**Correct: b) Japanese**
-Explanation: Kanban is a Japanese word. "Kan" means visual and "Ban" means card or board, so Kanban literally means "visual card" or "signboard."
-
----
-
-**67. The meaning of 'kanban' is ____.**
-a) Visual signal or card
-b) Machine maintenance
-c) Work scheduling software
-d) Raw material storage
-
-**Correct: a) Visual signal or card**
-Explanation: Kanban means a visual signal (usually a card) used to trigger an action — like replenishing a part or starting production of an item.
+**17.** Brand image building through marketing means ____.
+a) Creating a negative reputation
+b) Building a positive public perception
+c) Focusing only on pricing
+d) Avoiding advertisements
+**Answer: b)**
+Marketing helps companies create a good image in the minds of customers, making them trust and prefer that brand.
 
 ---
 
-**68. The Kanban system was first developed by ____.**
-a) Motorola
-b) Toyota Motor Corporation
-c) Ford Motor Company
-d) General Electric
-
-**Correct: b) Toyota Motor Corporation**
-Explanation: Taiichi Ohno at Toyota developed the Kanban system in the late 1940s inspired by supermarket restocking methods, as part of the Toyota Production System.
-
----
-
-**69. Kanban is mainly used in which production system?**
-a) Just-in-Time (JIT)
-b) Mass production
-c) Batch production
-d) Project-based production
-
-**Correct: a) Just-in-Time (JIT)**
-Explanation: Kanban is the signaling tool used in JIT production. It ensures materials and products are made and delivered exactly when needed — not before, not after.
+**18.** The 7 Ps model was expanded from the original ____.
+a) 3 Ps
+b) 4 Ps
+c) 5 Ps
+d) 6 Ps
+**Answer: b)**
+The original marketing mix had 4 Ps (Product, Price, Place, Promotion). Three more were added later to make it 7 Ps.
 
 ---
 
-**70. The main purpose of a Kanban system is to _____**
-a) Increase inventory levels
-b) Control production and material flow visually
-c) Increase paperwork
-d) Delay production
-
-**Correct: b) Control production and material flow visually**
-Explanation: Kanban uses visual cards/signals to control how materials move through the production process, preventing overproduction and reducing inventory.
-
----
-
-**71. In the Kanban method, each card represents _____**
-a) A maintenance report
-b) A production order or part requirement
-c) A customer complaint
-d) A financial record
-
-**Correct: b) A production order or part requirement**
-Explanation: Each Kanban card acts as an authorization signal — it tells the previous workstation to produce more or supply more of a specific item.
+**19.** Which of the following is NOT part of the 7 Ps of marketing?
+a) Product
+b) People
+c) Promotion
+d) Partnership
+**Answer: d)**
+The 7 Ps are: Product, Price, Place, Promotion, People, Process, Physical Evidence. "Partnership" is not one of them.
 
 ---
 
-**72. Kanban helps in achieving which of the following?**
-a) Overproduction
-b) Continuous flow and reduced waste
-c) Maximum storage
-d) Increased downtime
-
-**Correct: b) Continuous flow and reduced waste**
-Explanation: By producing only what is needed when it is needed, Kanban creates a smooth continuous flow of production and eliminates waste from overproduction and excess inventory.
-
----
-
-**73. Which of the following best describes the Kanban principle?**
-a) Push system of production
-b) Pull system of production
-c) Mixed system
-d) Random system
-
-**Correct: b) Pull system of production**
-Explanation: Kanban is a pull system — production is triggered by actual customer demand or consumption. Work starts only when the next step "pulls" for it, not in advance.
+**20.** Product in marketing mix refers to ____.
+a) Advertising methods
+b) Goods or services offered to customers
+c) Company profit goals
+d) Employee performance
+**Answer: b)**
+In the 7 Ps, "Product" means what the company is selling — whether it's a physical good or a service.
 
 ---
 
-**74. In a pull-based Kanban system _____.**
-a) Work is started only when there is demand from the next process
-b) Production continues regardless of demand
-c) Raw materials are ordered in bulk
-d) Workers guess production levels
-
-**Correct: a) Work is started only when there is demand from the next process**
-Explanation: In a pull system, each stage of production only produces what the next stage actually needs. This avoids building up unnecessary stock or work-in-progress.
-
----
-
-**75. The two-card Kanban system consists of _____.**
-a) Transport Kanban and Production Kanban
-b) Delivery Kanban and Finance Kanban
-c) Planning Kanban and Cost Kanban
-d) Service Kanban and Product Kanban
-
-**Correct: a) Transport Kanban and Production Kanban**
-Explanation: The two-card system uses a Production Kanban (to authorize making parts) and a Transport/Withdrawal Kanban (to authorize moving parts to the next process).
+**21.** Price in the 7 Ps represents ____.
+a) Company investment
+b) Amount customers pay for the product
+c) Employee salary
+d) Factory cost only
+**Answer: b)**
+"Price" is what the customer pays to get the product. It must be set carefully to attract customers and still earn profit.
 
 ---
 
-**76. Kanban is mainly used to _____**
-a) Signal the need to move materials or produce parts
-b) Replace supervisors
-c) Increase inspection frequency
-d) Eliminate teamwork
-
-**Correct: a) Signal the need to move materials or produce parts**
-Explanation: The main function of Kanban is to act as a visual signal that tells workers when to produce more or when to move materials from one process to another.
-
----
-
-**77. Which of the following is NOT an advantage of Kanban?**
-a) Reduces inventory
-b) Improves workflow
-c) Increases complexity
-d) Visualizes the production process
-
-**Correct: c) Increases complexity**
-Explanation: Kanban actually simplifies the production process. Reducing inventory, improving workflow, and visual management are all advantages. Increasing complexity is not.
+**22.** Place in marketing refers to ____.
+a) Location where products are stored only
+b) Distribution channels used to reach customers
+c) Only retail shops
+d) Manufacturing plants
+**Answer: b)**
+"Place" means how the product gets from the company to the customer — through shops, online, agents, etc.
 
 ---
 
-**78. Kanban cards can be replaced by which of the following modern equivalents?**
-a) Electronic signals, barcodes, or RFID tags
-b) Manual logs
-c) Paper forms
-d) Phone calls
-
-**Correct: a) Electronic signals, barcodes, or RFID tags**
-Explanation: In modern digital factories, physical Kanban cards have been replaced by electronic systems like barcodes, RFID tags, and digital dashboards that serve the same signaling purpose.
-
----
-
-**79. The Kanban system supports which key Lean concept?**
-a) Just-in-Time (JIT)
-b) Six Sigma
-c) Total Quality Management (TQM)
-d) Batch production
-
-**Correct: a) Just-in-Time (JIT)**
-Explanation: Kanban is the practical tool that makes JIT possible. It ensures materials and production happen exactly when needed, which is the core idea of JIT.
+**23.** Which element of the 7 Ps involves advertising, sales promotion and public relations?
+a) Product
+b) Promotion
+c) Process
+d) People
+**Answer: b)**
+"Promotion" covers all activities used to communicate and promote the product — ads, discounts, PR campaigns, etc.
 
 ---
 
-**80. The goal of Kanban in production is to ____**
-a) Produce only what is needed, when it is needed
-b) Produce maximum quantity regardless of demand
-c) Stop production frequently
-d) Store large quantities of finished goods
-
-**Correct: a) Produce only what is needed, when it is needed**
-Explanation: This is the fundamental goal of Kanban — eliminate overproduction by making sure each item is produced only when there is an actual need for it.
-
----
-
-**81. Which of the following is a type of Total Maintenance?**
-a) Total Planned Maintenance
-b) Total Productive Maintenance
-c) Total Product Management
-d) Total Preventive Management
-
-**Correct: b) Total Productive Maintenance**
-Explanation: TPM stands for Total Productive Maintenance. It is a system that involves all employees in maintaining equipment to maximize productivity and minimize breakdowns.
+**24.** People in the marketing mix includes ____.
+a) Only customers
+b) Employees, sales staff and service providers
+c) Only management
+d) Suppliers
+**Answer: b)**
+"People" in the 7 Ps refers to everyone involved in delivering the product/service — staff, salespeople, and service providers.
 
 ---
 
-**82. The main objective of TPM is to ____**
-a) Increase machine breakdowns
-b) Maximize equipment efficiency and eliminate waste
-c) Decrease supervision
-d) Reduce operator involvement
-
-**Correct: b) Maximize equipment efficiency and eliminate waste**
-Explanation: TPM aims to achieve maximum equipment effectiveness by involving operators in daily maintenance, preventing breakdowns before they happen.
-
----
-
-**83. JIT (Just-in-time) is a _____ philosophy**
-a) Waste driven
-b) Demand driven
-c) Process driven
-d) Profit driven
-
-**Correct: b) Demand driven**
-Explanation: JIT produces and delivers goods based on actual customer demand. Nothing is made in advance or stored as excess inventory — production is triggered only by demand.
+**25.** Physical Evidence in marketing refers to ____.
+a) Tangible elements that represent service quality
+b) Company budget
+c) Human behavior
+d) Legal proof
+**Answer: a)**
+Since services are intangible, "Physical Evidence" means the physical things customers can see/feel — like a clean office, uniform, or brochure — that show quality.
 
 ---
 
-**84. Kanban is a**
-a) Visual tool
-b) Bar graph
-c) Pie chart
-d) Process chart
-
-**Correct: a) Visual tool**
-Explanation: Kanban is fundamentally a visual management tool. It uses cards, boards, or signals that can be seen by everyone to communicate the status and flow of work.
-
----
-
-**85. Poka yoke is a**
-a) Mistake proofing technique
-b) Japanese concept
-c) Process improvement technique
-d) Quality improvement tool
-
-**Correct: a) Mistake proofing technique**
-Explanation: Poka-Yoke is a Japanese term meaning "mistake proofing." It involves designing processes or devices in a way that prevents errors from happening or makes them immediately obvious.
+**26.** In marketing, needs are defined as ____.
+a) Things that people desire for luxury
+b) Basic human requirements for survival and well-being
+c) Cultural preferences
+d) Marketing products sold by companies
+**Answer: b)**
+Needs are the basic things every human requires — food, shelter, clothing, safety. They exist naturally without marketing.
 
 ---
 
-**86. The five pillars of 5S are**
-a) Sort, Set in order, Shine, Standardize, Sustain
-b) Safety, Security, Sanitation, Scheduling, Sales
-c) Sort, Store, Ship, Sell, Save
-d) Speed, Service, Safety, Satisfaction, Success
-
-**Correct: a) Sort, Set in order, Shine, Standardize, Sustain**
-Explanation: The 5S pillars are: Sort (Seiri), Set in Order (Seiton), Shine (Seiso), Standardize (Seiketsu), and Sustain (Shitsuke) — five steps to organize and maintain a productive workplace.
-
----
-
-**87. Gemba refers to**
-a) The actual place where work happens
-b) A type of Japanese management philosophy
-c) A quality control technique
-d) A production system
-
-**Correct: a) The actual place where work happens**
-Explanation: Gemba is a Japanese term meaning "the real place" — it refers to the actual workplace (factory floor, shop, site) where value is created and problems should be observed directly.
+**27.** Which of the following is NOT a basic human need?
+a) Food
+b) Shelter
+c) Respect
+d) Television
+**Answer: d)**
+Food, shelter, and respect are basic needs. A television is a want or luxury, not a basic survival requirement.
 
 ---
 
-**88. SMED stands for**
-a) Single Minute Exchange of Die
-b) System for Managing Equipment and Dies
-c) Standard Method for Equipment Development
-d) Structured Manufacturing Efficiency Development
-
-**Correct: a) Single Minute Exchange of Die**
-Explanation: SMED is a Lean manufacturing technique that aims to reduce machine changeover/setup time to under 10 minutes (single-digit minutes), improving flexibility and reducing downtime.
-
----
-
-**89. TPM emphasizes which type of maintenance?**
-a) Breakdown maintenance
-b) Preventive and Autonomous maintenance
-c) Emergency maintenance
-d) Extensive maintenance only
-
-**Correct: b) Preventive and Autonomous maintenance**
-Explanation: TPM stresses Preventive Maintenance (scheduled maintenance to prevent failures) and Autonomous Maintenance (operators maintain their own machines daily).
+**28.** Wants are best described as ____.
+a) The same for all humans
+b) Specific preferences influenced by culture and personality
+c) Completely independent of needs
+d) Fixed and unchanging
+**Answer: b)**
+Wants are shaped by culture, society, and personal taste. For example, everyone needs food, but one person may want pizza while another wants rice.
 
 ---
 
-**90. The TPM concept includes how many major pillars?**
-a) 3
-b) 5
-c) 8
-d) 10
-
-**Correct: c) 8**
-Explanation: TPM is built on 8 pillars: Autonomous Maintenance, Focused Improvement, Planned Maintenance, Quality Maintenance, Early Equipment Management, Education and Training, Safety & Environment, and TPM in Administration.
-
----
-
-**91. Which of the following is NOT one of the 8 Pillars of TPM?**
-a) Autonomous Maintenance
-b) Focused Improvement
-c) Product Design
-d) Education and Training
-
-**Correct: c) Product Design**
-Explanation: Product Design is not one of the 8 TPM pillars. The 8 pillars focus on maintenance, improvement, safety, training, and equipment management — not product design.
+**29.** When a person has both desire and ability to pay for a product, it is called ____.
+a) Need
+b) Want
+c) Demand
+d) Expectation
+**Answer: c)**
+Demand = Want + Ability to pay. When someone wants something AND has the money to buy it, it becomes a demand.
 
 ---
 
-**92. The first pillar of TPM, 'Autonomous Maintenance', means ____.**
-a) Operators clean, inspect and maintain their own machines
-b) Only maintenance staff clean machines
-c) Maintenance is ignored
-d) Outsiders repair machines
-
-**Correct: a) Operators clean, inspect and maintain their own machines**
-Explanation: Autonomous Maintenance empowers machine operators to take ownership of their equipment by performing daily cleaning, inspection, and basic maintenance themselves.
-
----
-
-**93. Which of the following is a key benefit of TPM?**
-a) Reduced downtime and improved productivity
-b) Increased waste
-c) Higher defect rate
-d) More accidents
-
-**Correct: a) Reduced downtime and improved productivity**
-Explanation: TPM prevents unexpected machine breakdowns through regular maintenance, which reduces downtime, improves equipment reliability, and boosts overall productivity.
+**30.** According to marketing principles, the starting point of marketing is ____.
+a) The product
+b) The promotion
+c) Understanding customer needs
+d) The distribution channel
+**Answer: c)**
+Marketing always starts by understanding what customers need. Only then can you create the right product and strategy.
 
 ---
 
-**94. The formula for Overall Equipment Effectiveness (OEE) involves**
-a) Availability × Performance × Quality
-b) Quantity × Time × Speed
-c) Cost × Profit × Revenue
-d) Safety × Speed × Staff
-
-**Correct: a) Availability × Performance × Quality**
-Explanation: OEE measures how effectively equipment is used. Availability (is machine running?), Performance (is it running at full speed?), and Quality (is it producing good parts?) are multiplied together.
-
----
-
-**95. TPM aims to create a work culture of ____.**
-a) Reactive actions
-b) Proactive participation and ownership by all employees
-c) Blaming maintenance staff
-d) Minimal operator training
-
-**Correct: b) Proactive participation and ownership by all employees**
-Explanation: TPM shifts the culture from reacting to breakdowns to proactively preventing them. Every employee takes ownership of equipment care rather than waiting for problems to occur.
+**31.** A person feels hungry – this is an example of ____.
+a) A want
+b) A demand
+c) A need
+d) A product
+**Answer: c)**
+Hunger is a basic biological need — a requirement for survival that exists naturally.
 
 ---
 
-**96. The main objective of Lean Manufacturing is to ____.**
-a) Reduce workforce
-b) Eliminate waste and improve value to the customer
-c) Increase paperwork
-d) Expand bureaucracy
-
-**Correct: b) Eliminate waste and improve value to the customer**
-Explanation: Lean Manufacturing focuses on delivering maximum value to the customer while using minimum resources by identifying and eliminating all forms of waste in the production process.
-
----
-
-**97. Lean Manufacturing originated from which company?**
-a) Ford Motors
-b) Toyota Motor Corporation
-c) General Electric
-d) Motorola
-
-**Correct: b) Toyota Motor Corporation**
-Explanation: Lean Manufacturing evolved from the Toyota Production System (TPS) developed by Taiichi Ohno and Eiji Toyoda at Toyota in post-war Japan.
+**32.** A customer wanting to buy a pizza instead of home-cooked food shows ____.
+a) Need
+b) Want
+c) Demand
+d) Desire
+**Answer: b)**
+The person needs food (basic need), but specifically choosing pizza is a want — a preference shaped by taste and culture.
 
 ---
 
-**98. The Toyota Production System (TPS) is the foundation of ____**
-a) Total Quality Management
-b) Lean Manufacturing
-c) Six Sigma
-d) Kaizen only
-
-**Correct: b) Lean Manufacturing**
-Explanation: Lean Manufacturing is based on the principles and practices of the Toyota Production System (TPS), which pioneered the concepts of waste elimination and continuous flow.
-
----
-
-**99. The Japanese term 'Muda' refers to ____.**
-a) Improvement
-b) Waste or non-value-added activity
-c) Speed
-d) Quality control
-
-**Correct: b) Waste or non-value-added activity**
-Explanation: Muda means waste in Japanese — any activity that consumes resources (time, materials, money) without adding value to the customer. Lean aims to eliminate all Muda.
+**33.** When someone orders a Domino's pizza using their salary money, it becomes a ____.
+a) Need
+b) Want
+c) Demand
+d) Preference
+**Answer: c)**
+Now the person has the desire (want) AND the money (ability to pay) — so it becomes demand.
 
 ---
 
-**100. How many types of waste (Muda) are identified in Lean?**
-a) 3
-b) 5
-c) 7
-d) 9
-
-**Correct: c) 7**
-Explanation: Lean identifies 7 types of waste (Muda): Overproduction, Waiting, Transportation, Over-processing, Inventory, Motion, and Defects — remembered by the acronym TIMWOOD or DOWNTIME.
-
----
-
-**101. Which of the following is NOT one of the seven wastes in Lean?**
-a) Overproduction
-b) Waiting time
-c) Product design
-d) Defects
-
-**Correct: c) Product design**
-Explanation: Product design is not one of the 7 wastes. The seven wastes are Overproduction, Waiting, Transportation, Over-processing, Inventory, Motion, and Defects.
+**34.** Which statement correctly shows the relationship between the three?
+a) Demand → Want → Need
+b) Need → Want → Demand
+c) Want → Demand → Need
+d) Need → Demand → Want
+**Answer: b)**
+The correct flow is: Need (basic requirement) → Want (specific preference) → Demand (want + buying power).
 
 ---
 
-**102. The Lean principle that focuses on 'producing only what is needed when it is needed' is known as ____**
-a) JIT (Just-In-Time)
-b) TQM
-c) MRP
-d) ERP
+**35.** Marketing begins not with products but with ____.
+a) Pricing
+b) Advertising
+c) Customer needs
+d) Profit
+**Answer: c)**
+Good marketing always starts by identifying what the customer needs, not by making a product first.
 
-**Correct: a) JIT (Just-In-Time)**
-Explanation: Just-In-Time (JIT) is the Lean principle of producing the right product, in the right quantity, at the right time — eliminating overproduction and excess inventory."""
+---
+
+**36.** A customer saying, "I want a cheap mobile phone," refers to ____.
+a) Secret need
+b) Stated need
+c) Delight need
+d) Unstated need
+**Answer: b)**
+A stated need is what the customer says openly. Here, the customer clearly states they want a cheap phone.
+
+---
+
+**37.** A customer actually requiring a durable, long-lasting mobile phone refers to a ____.
+a) Real need
+b) Stated need
+c) Secret need
+d) Hidden want
+**Answer: a)**
+A real need is what the customer actually needs behind their stated need. They said "cheap" but actually need "durable."
+
+---
+
+**38.** A customer expecting good after-sales service but not mentioning it shows ____.
+a) Unstated need
+b) Stated need
+c) Real need
+d) Delight need
+**Answer: a)**
+An unstated need is something the customer expects but doesn't say out loud — like good service after purchase.
+
+---
+
+**39.** Getting free accessories or surprise gifts with a product represents a ____.
+a) Secret need
+b) Delight need
+c) Real need
+d) Stated need
+**Answer: b)**
+A delight need is something unexpected that pleasantly surprises the customer — like a free gift they didn't ask for.
+
+---
+
+**40.** Buying a premium brand for status or recognition indicates a ____.
+a) Secret need
+b) Real need
+c) Stated need
+d) Unstated need
+**Answer: a) Secret need**
+A secret need is what the customer wants but won't admit openly — like buying a luxury brand just to impress others.
+
+---
+
+**41.** Understanding customer needs is the ___ of marketing.
+a) End point
+b) Foundation
+c) Optional part
+d) Final step
+**Answer: b)**
+Understanding needs is the foundation — the base on which all marketing strategies are built.
+
+---
+
+**42.** Identifying needs and wants helps companies in ____.
+a) Guessing demand
+b) Developing products that meet real expectations
+c) Increasing production only
+d) Avoiding product innovation
+**Answer: b)**
+When companies know what customers truly need, they can make products that actually satisfy them, not just guess.
+
+---
+
+**43.** When marketers understand true customer needs, they can ____.
+a) Reduce business risk
+b) Increase confusion
+c) Waste resources
+d) Ignore feedback
+**Answer: a)**
+Understanding needs means you make the right product for the right audience, which reduces the risk of failure.
+
+---
+
+**44.** Different customer groups with different needs and wants help in ____.
+a) Advertising only
+b) Market segmentation and targeting
+c) Cost control
+d) Product packaging
+**Answer: b)**
+When customers have different needs, the market is divided into segments, and companies target each segment specifically.
+
+---
+
+**45.** A company that meets customer needs better than competitors gains ____.
+a) Customer dissatisfaction
+b) Competitive advantage
+c) Legal risk
+d) Market confusion
+**Answer: b)**
+If your product satisfies customers better than rivals, you gain a competitive advantage — customers prefer you over others.
+
+---
+
+**46.** In the smartphone market, the need is for ____.
+a) A particular brand
+b) Communication and connectivity
+c) Entertainment only
+d) Brand recognition
+**Answer: b)**
+The basic need is to communicate and stay connected. Specific brands or features are wants, not the core need.
+
+---
+
+**47.** The want in the smartphone market example is ____.
+a) Owning any phone
+b) A smartphone with camera and internet
+c) Having no phone
+d) Using a landline
+**Answer: b)**
+The want is a specific version of the need — wanting a smartphone with camera and internet, not just any phone.
+
+---
+
+**48.** The demand in the smartphone example occurs when ____.
+a) The customer has no money
+b) The customer purchases an iPhone or Samsung
+c) The customer just browses online
+d) The customer asks for product details
+**Answer: b)**
+Demand is when the customer actually buys — purchases an iPhone or Samsung — using their money.
+
+---
+
+**49.** The main difference between want and demand is ____.
+a) Want has financial support demand does not
+b) Demand has willingness and ability to pay want may not
+c) Both are same
+d) Demand is emotional want is practical
+**Answer: b)**
+The key difference: Demand = Want + Ability to pay. A want is just a desire; demand is backed by purchasing power.
+
+---
+
+**50.** Marketers study needs, wants and demands primarily to ____.
+a) Produce what is easiest
+b) Force customers to buy
+c) Design products that satisfy real human requirements
+d) Focus only on profit
+**Answer: c)**
+Marketers study these to make products that genuinely fulfill what people need, want, and can afford.
+
+---
+
+**51.** Marketing is mainly concerned with ____.
+a) Producing goods only
+b) Promoting and selling products or services
+c) Accounting and finance
+d) Hiring employees
+**Answer: b)**
+Marketing's main job is to promote products/services and ensure they reach the right customers to generate sales.
+
+---
+
+**52.** The main difference between traditional and digital marketing is ____.
+a) Target audience
+b) Use of the internet and technology
+c) Company size
+d) Type of product sold
+**Answer: b)**
+Traditional marketing uses offline methods; digital marketing uses the internet and technology — that's the core difference.
+
+---
+
+**53.** Both traditional and digital marketing aim to ____.
+a) Reduce customer engagement
+b) Reach customers and increase sales
+c) Eliminate advertising
+d) Focus only on local areas
+**Answer: b)**
+Both types have the same goal — reach as many customers as possible and increase sales, just through different methods.
+
+---
+
+**54.** Traditional marketing refers to ____.
+a) Online promotion through websites
+b) Offline promotion using print, radio and TV
+c) Email and social media marketing
+d) Mobile app advertising
+**Answer: b)**
+Traditional marketing uses offline channels — newspapers, TV, radio, billboards, hoardings — no internet needed.
+
+---
+
+**55.** Which of the following is NOT a traditional marketing method?
+a) Television commercials
+b) Newspaper ads
+c) Search engine optimization
+d) Billboards
+**Answer: c)**
+SEO (Search Engine Optimization) is a digital marketing technique. TV, newspaper ads, and billboards are all traditional.
+
+---
+
+**56.** Direct marketing in traditional methods includes ____.
+a) Door-to-door sales and phone calls
+b) Social media posts
+c) YouTube ads
+d) Website pop-ups
+**Answer: a)**
+Traditional direct marketing means going directly to the customer — door-to-door visits and phone calls, not online methods.
+
+---
+
+**57.** Outdoor advertising includes ____.
+a) Brochures
+b) TV commercials
+c) Billboards and posters
+d) Email newsletters
+**Answer: c)**
+Outdoor advertising is anything placed in public spaces — billboards, hoardings, and posters are classic examples.
+
+---
+
+**58.** Which of the following is an advantage of traditional marketing?
+a) High flexibility
+b) Builds trust through personal contact
+c) Global reach
+d) Real-time feedback
+**Answer: b)**
+Traditional marketing, especially face-to-face selling and print ads, builds trust through personal interaction — something digital can't always replicate.
+
+---
+
+**59.** One major limitation of traditional marketing is that ____.
+a) It is cheap and fast
+b) It is difficult to measure results
+c) It is mostly online
+d) It requires no manpower
+**Answer: b)**
+With a newspaper ad or TV commercial, you can't easily track exactly how many people responded or bought — measurement is hard.
+
+---
+
+**60.** Traditional marketing is most suitable for ____.
+a) Businesses targeting a local audience
+b) Online-only companies
+c) Global e-commerce firms
+d) Virtual reality advertising
+**Answer: a)**
+Traditional methods like local newspapers or radio work best for businesses targeting nearby, local customers.
+
+---
+
+**61.** Digital marketing promotes products through ____.
+a) Offline methods
+b) The internet and digital platforms
+c) Physical stores
+d) Newspapers
+**Answer: b)**
+Digital marketing uses online platforms — websites, social media, apps, email — all powered by the internet.
+
+---
+
+**62.** Which of the following is NOT a method of digital marketing?
+a) Search Engine Optimization (SEO)
+b) Radio advertising
+c) Email marketing
+d) Social media marketing
+**Answer: b)**
+Radio advertising is a traditional method. SEO, email marketing, and social media marketing are all digital.
+
+---
+
+**63.** Social media marketing uses platforms such as ____.
+a) Facebook, Instagram and YouTube
+b) Newspapers and magazines
+c) Radio and TV
+d) Door-to-door sales
+**Answer: a)**
+Social media marketing uses online platforms like Facebook, Instagram, and YouTube to reach and engage customers.
+
+---
+
+**64.** SEO in digital marketing helps to ____.
+a) Increase website visibility on search engines
+b) Design attractive posters
+c) Print advertisements
+d) Reduce website traffic
+**Answer: a)**
+SEO (Search Engine Optimization) makes your website appear higher in Google/Bing search results, bringing more visitors.
+
+---
+
+**65.** Pay-Per-Click (PPC) advertising means ____.
+a) Paying employees per task
+b) Paying only when users click your advertisement
+c) Paying for TV commercials
+d) Paying for product packaging
+**Answer: b)**
+In PPC, you only pay when someone actually clicks on your online ad — making it cost-efficient and measurable.
+
+---
+
+**66.** An advantage of digital marketing is ____.
+a) Expensive and time-consuming
+b) Hard to measure performance
+c) Real-time feedback and analytics
+d) No global access
+**Answer: c)**
+Digital marketing lets you instantly see how your campaign is performing — clicks, views, sales — all in real time.
+
+---
+
+**67.** Which of the following is a limitation of digital marketing?
+a) Requires internet access and digital skills
+b) Limited customer engagement
+c) High printing costs
+d) Hard to target specific audiences
+**Answer: a)**
+Not everyone has internet access or knows how to use digital platforms, which limits digital marketing's reach.
+
+---
+
+**68.** Influencer marketing refers to ____.
+a) Hiring famous personalities on social media to promote products
+b) Sending flyers to houses
+c) Radio promotion
+d) Buying billboard space
+**Answer: a)**
+Influencer marketing uses popular social media personalities (influencers) to promote products to their followers.
+
+---
+
+**69.** Mobile marketing involves ____.
+a) Only email campaigns
+b) SMS, app notifications and mobile ads
+c) Door-to-door campaigns
+d) TV sponsorships
+**Answer: b)**
+Mobile marketing targets customers through their smartphones — via SMS, push notifications, and mobile ads.
+
+---
+
+**70.** Traditional marketing provides mostly ____.
+a) One-way communication
+b) Two-way interaction
+c) Real-time feedback
+d) Personalized experience
+**Answer: a)**
+Traditional marketing (TV, newspaper) broadcasts a message to the audience — no immediate reply or interaction possible.
+
+---
+
+**71.** Digital marketing provides ____.
+a) One-way communication
+b) Limited reach
+c) Two-way communication and engagement
+d) Only local advertising
+**Answer: c)**
+Digital marketing allows customers to like, comment, share, and reply — creating a two-way conversation.
+
+---
+
+**72.** Which of the following has higher flexibility?
+a) Traditional marketing
+b) Digital marketing
+c) Both are equal
+d) None
+**Answer: b)**
+Digital campaigns can be changed instantly — you can edit an online ad in minutes, unlike a printed newspaper ad.
+
+---
+
+**73.** Measuring results and analytics are easier in ____.
+a) Traditional marketing
+b) Digital marketing
+c) Both are same
+d) None
+**Answer: b)**
+Digital marketing tools (Google Analytics, Facebook Insights) give detailed data on performance — traditional can't match this.
+
+---
+
+**74.** In terms of cost, digital marketing is generally ____.
+a) More expensive than TV advertising
+b) Lower in cost and affordable for small businesses
+c) Not measurable
+d) Useless for startups
+**Answer: b)**
+Running a social media or email campaign costs far less than a TV commercial, making it ideal for small businesses.
+
+---
+
+**75.** Which of the following statements is TRUE?
+a) Traditional marketing has global reach
+b) Digital marketing allows instant feedback
+c) Traditional marketing uses social media platforms
+d) Digital marketing cannot be measured
+**Answer: b)**
+Digital marketing allows instant feedback — customers can comment, review, and respond immediately online.
+
+---
+
+**76.** Event Management mainly involves ____.
+a) Producing goods for sale
+b) Planning, organizing and executing events
+c) Managing financial accounts only
+d) Hiring employees for companies
+**Answer: b)**
+Event management is all about planning, organizing, and successfully executing events — from small meetings to big concerts.
+
+---
+
+**77.** The main purpose of event management is to ____.
+a) Entertain only the organizers
+b) Plan and conduct events efficiently to achieve goals
+c) Spend money without planning
+d) Focus only on decorations
+**Answer: b)**
+Events are organized with specific goals — brand promotion, celebration, education — and event management ensures those goals are met efficiently.
+
+---
+
+**78.** Events can be divided based on ____.
+a) Season and weather
+b) Purpose, audience and scale
+c) Price and size
+d) Number of participants only
+**Answer: b)**
+Events are classified by their purpose (corporate, social, etc.), the audience they target, and how large or small they are.
+
+---
+
+**79.** Corporate events are mainly organized by ____.
+a) Government departments
+b) NGOs
+c) Business organizations and companies
+d) Individuals for family gatherings
+**Answer: c)**
+Corporate events like conferences, product launches, and trade shows are organized by businesses for professional purposes.
+
+---
+
+**80.** Which of the following is NOT an example of a corporate event?
+a) Conferences
+b) Product launches
+c) Weddings
+d) Trade shows
+**Answer: c)**
+Weddings are social/personal events. Conferences, product launches, and trade shows are all corporate events.
+
+---
+
+**81.** The main purpose of corporate events is to ____.
+a) Celebrate festivals
+b) Build brand image and strengthen business relations
+c) Promote local art and culture
+d) Organize community fairs
+**Answer: b)**
+Corporate events help companies build their brand reputation and strengthen relationships with clients, partners, and employees.
+
+---
+
+**82.** Social events are related to ____.
+a) Professional development
+b) Family and personal celebrations
+c) Government awareness campaigns
+d) Sports competitions
+**Answer: b)**
+Social events are personal in nature — weddings, birthdays, anniversaries, and other family celebrations.
+
+---
+
+**83.** Which of the following is a social event?
+a) Seminar
+b) Marathon
+c) Wedding
+d) Product exhibition
+**Answer: c)**
+A wedding is a personal/family celebration — a social event. Seminars and marathons fall under other categories.
+
+---
+
+**84.** Cultural events mainly aim to ____.
+a) Discuss business strategies
+b) Preserve art, music and traditions
+c) Conduct examinations
+d) Promote health awareness
+**Answer: b)**
+Cultural events celebrate and preserve a community's art, music, dance, and traditions — like festivals and cultural fests.
+
+---
+
+**85.** Which of the below given is a cultural event?
+a) Job fair
+b) Dance competition
+c) Science exhibition
+d) Sports day
+**Answer: b)**
+A dance competition showcases artistic and cultural expression, making it a cultural event.
+
+---
+
+**86.** Educational events are generally conducted by ____.
+a) Schools, colleges and training institutions
+b) Hospitals
+c) Sports clubs only
+d) The army
+**Answer: a)**
+Educational events like seminars, workshops, and exhibitions are conducted by schools, colleges, and training centers.
+
+---
+
+**87.** The main goal of educational events is ____.
+a) Profit generation
+b) Fun and recreation
+c) Knowledge sharing and skill enhancement
+d) Business promotion
+**Answer: c)**
+The primary purpose of educational events is to share knowledge and help participants learn new skills.
+
+---
+
+**88.** Sports events primarily promote ____.
+a) Teamwork and sportsmanship
+b) Religious beliefs
+c) Political awareness
+d) Cultural heritage
+**Answer: a)**
+Sports events bring people together to compete and build teamwork, discipline, and sportsmanship.
+
+---
+
+**89.** Which of the following is NOT a sports event?
+a) Marathon
+b) Cricket match
+c) DJ night
+d) Football tournament
+**Answer: c)**
+A DJ night is an entertainment event, not a sports event. Marathons, cricket, and football tournaments are all sports.
+
+---
+
+**90.** Entertainment events are organized for ____.
+a) Fun, relaxation and enjoyment
+b) Education only
+c) Employee training
+d) Religious teaching
+**Answer: a)**
+Entertainment events — concerts, award shows, DJ nights — are purely for enjoyment and relaxation.
+
+---
+
+**91.** Which of these is an example of an entertainment event?
+a) Film award function
+b) Blood donation camp
+c) Republic Day parade
+d) Science exhibition
+**Answer: a)**
+A film award function (like Filmfare Awards) is organized for entertainment and celebration of the film industry.
+
+---
+
+**92.** Government and public events are usually organized for ____.
+a) Citizens awareness and national pride
+b) Private family celebration
+c) Product advertising
+d) Sports competitions only
+**Answer: a)**
+Government events like Republic Day, Independence Day, and awareness campaigns are for public benefit and national pride.
+
+---
+
+**93.** Which of the following is a government or public event?
+a) Marriage reception
+b) Independence Day celebration
+c) Music concert
+d) Dance festival
+**Answer: b)**
+Independence Day is a national/public event organized by the government to celebrate the country's freedom.
+
+---
+
+**94.** Religious events mainly focus on ____.
+a) Marketing products
+b) Spiritual growth and community bonding
+c) Political campaigning
+d) Product training
+**Answer: b)**
+Religious events like Ganesh Utsav, Eid, or Christmas gatherings focus on faith, spirituality, and bringing communities together.
+
+---
+
+**95.** Which is an example of a religious event?
+a) Ganesh Utsav
+b) Business conference
+c) Sports day
+d) Career fair
+**Answer: a)**
+Ganesh Utsav is a well-known religious festival celebrated with devotion and community participation.
+
+---
+
+**96.** Fundraising events are organized to ____.
+a) Raise funds for social causes
+b) Promote luxury brands
+c) Entertain celebrities
+d) Sell expensive tickets
+**Answer: a)**
+Fundraising events collect money for charities, NGOs, and social welfare activities — helping people in need.
+
+---
+
+**97.** Which of the following is a fundraising event?
+a) Charity dinner
+b) Music award show
+c) Workshop
+d) Science fair
+**Answer: a)**
+A charity dinner is organized specifically to collect donations for a cause — a classic fundraising event.
+
+---
+
+**98.** The purpose of fundraising and charity events is to ____.
+a) Support social welfare and development
+b) Increase entertainment value
+c) Train government employees
+d) Celebrate family milestones
+**Answer: a)**
+These events exist to raise money and support social causes — like education for the poor, disaster relief, etc.
+
+---
+
+**99.** A college's Annual Day or Cultural Fest is an example of ____.
+a) Religious event
+b) Corporate event
+c) Educational and cultural event
+d) Fundraising event
+**Answer: c)**
+College Annual Days combine education (achievements, awards) and culture (performances, competitions) — making them educational and cultural events.
+
+---
+
+**100.** Which of the following correctly matches the event type with its purpose?
+a) Corporate – Entertainment
+b) Social – Business growth
+c) Religious – Faith and devotion
+d) Educational – Family celebration
+**Answer: c)**
+Religious events are correctly matched with faith and devotion. Corporate events are for business, social for personal celebrations, and educational for learning."""
 
 blocks = re.split(r'\n---\n+', text.strip())
 result = []
@@ -1129,7 +1007,7 @@ for block in blocks:
         continue
         
     lines = block.strip().split('\n')
-    question_match = re.match(r'\*\*\d+\.\s+(.*?)\*\*', lines[0])
+    question_match = re.match(r'\*\*\d+\.\*\*\s+(.*?)$', lines[0])
     if not question_match:
         continue
     
@@ -1137,7 +1015,7 @@ for block in blocks:
     
     options = []
     i = 1
-    while i < len(lines) and not lines[i].startswith('**Correct:'):
+    while i < len(lines) and not lines[i].startswith('**Answer:'):
         if lines[i].strip():
             options.append(lines[i].strip())
         i += 1
@@ -1145,23 +1023,39 @@ for block in blocks:
     if i >= len(lines):
         continue
         
-    answer_match = re.match(r'\*\*Correct:\s+(.*?)\*\*', lines[i])
-    answer = answer_match.group(1).strip() if answer_match else ""
+    answer_match = re.match(r'\*\*Answer:\s+(.*?)\*\*', lines[i])
+    if answer_match:
+        answer_key = answer_match.group(1).strip()
+    else:
+        answer_key = ""
+        
+    # Reconstruct the full answer line based on the key
+    answer = ""
+    for opt in options:
+        if opt.startswith(answer_key):
+            answer = opt
+            break
+            
+    # Sometimes it's "**Answer: a) Secret need**"
+    if not answer and answer_match:
+        answer = answer_match.group(1).strip()
     
     i += 1
     explanation = ""
-    if i < len(lines) and lines[i].startswith('Explanation:'):
-        explanation = lines[i].replace('Explanation:', '').strip()
+    while i < len(lines):
+        if lines[i].strip():
+            explanation += lines[i].strip() + " "
+        i += 1
         
     result.append({
         "id": len(result) + 1,
         "question": question,
         "options": options,
-        "answer": answer,
-        "explanation": explanation
+        "answer": answer.strip(),
+        "explanation": explanation.strip()
     })
 
-with open("e:/Web Development/Projects/ETI mcq/src/data/management_unit3.json", "w", encoding='utf-8') as f:
+with open("e:/Web Development/Projects/ETI mcq/src/data/management_unit4.json", "w", encoding='utf-8') as f:
     json.dump(result, f, indent=4, ensure_ascii=False)
 
 print(f"Parsed {len(result)} questions successfully!")
