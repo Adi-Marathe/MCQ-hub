@@ -12,6 +12,7 @@ import eteUnit4 from '../data/ete_unit4.json';
 import eteUnit5 from '../data/ete_unit5.json';
 import managementUnit1 from '../data/management_unit1.json';
 import managementUnit2 from '../data/management_unit2.json';
+import managementUnit3 from '../data/management_unit3.json';
 import confetti from 'canvas-confetti';
 import { FiTarget, FiStar, FiCheckCircle, FiXCircle, FiAward, FiArrowLeft, FiArrowRight, FiRefreshCw } from 'react-icons/fi';
 
@@ -34,6 +35,7 @@ const eteUnitDataMap = {
 const managementUnitDataMap = {
   1: managementUnit1,
   2: managementUnit2,
+  3: managementUnit3,
 };
 
 function Quiz() {

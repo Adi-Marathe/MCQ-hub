@@ -1,0 +1,1226 @@
+[
+    {
+        "id": 1,
+        "question": "The main purpose of a Quality Circle is to ____",
+        "options": [
+            "a) Solve workplace problems through teamwork",
+            "b) Conduct financial audits",
+            "c) Replace management",
+            "d) Supervise marketing activities"
+        ],
+        "answer": "a) Solve workplace problems through teamwork",
+        "explanation": "Quality Circles are small groups of employees who meet regularly to identify and solve work-related problems together as a team."
+    },
+    {
+        "id": 2,
+        "question": "Quality Circles operate on the principle of ____.",
+        "options": [
+            "a) Hierarchical control",
+            "b) Employee participation and empowerment",
+            "c) Autocratic leadership",
+            "d) None of the above"
+        ],
+        "answer": "b) Employee participation and empowerment",
+        "explanation": "Quality Circles believe that employees at all levels should be involved in decision-making and given power to improve their work area."
+    },
+    {
+        "id": 3,
+        "question": "The concept of Quality Circles originated in ____.",
+        "options": [
+            "a) USA",
+            "b) Japan",
+            "c) Germany",
+            "d) India"
+        ],
+        "answer": "b) Japan",
+        "explanation": "Quality Circles were developed in Japan in the 1960s as part of their quality improvement movement after World War II."
+    },
+    {
+        "id": 4,
+        "question": "The founder of the Quality Circle concept is ____",
+        "options": [
+            "a) Kaoru Ishikawa",
+            "b) W. Edwards Deming",
+            "c) Joseph Juran",
+            "d) F.W. Taylor"
+        ],
+        "answer": "a) Kaoru Ishikawa",
+        "explanation": "Kaoru Ishikawa, a Japanese professor, is credited with developing the Quality Circle concept in Japan in the early 1960s."
+    },
+    {
+        "id": 5,
+        "question": "A typical Quality Circle includes ____",
+        "options": [
+            "a) 5-10 members from the same department",
+            "b) Only managers",
+            "c) Outsiders and consultants",
+            "d) Directors and shareholders"
+        ],
+        "answer": "a) 5-10 members from the same department",
+        "explanation": "A Quality Circle is a small group of 5 to 10 workers from the same work area who voluntarily meet to solve problems related to their work."
+    },
+    {
+        "id": 6,
+        "question": "Quality Circles aim at ____",
+        "options": [
+            "a) Developing creativity and problem-solving skills",
+            "b) Punishing poor performers",
+            "c) Cutting salaries",
+            "d) Reducing communication"
+        ],
+        "answer": "a) Developing creativity and problem-solving skills",
+        "explanation": "Quality Circles encourage employees to think creatively, identify problems, and come up with practical solutions, which improves their skills."
+    },
+    {
+        "id": 7,
+        "question": "The main outcome of a Quality Circle meeting is ____",
+        "options": [
+            "a) New rules",
+            "b) Suggestions for improvement",
+            "c) Promotions",
+            "d) Financial reports"
+        ],
+        "answer": "b) Suggestions for improvement",
+        "explanation": "The primary output of Quality Circle meetings is practical suggestions and solutions that can improve quality, productivity, and the work environment."
+    },
+    {
+        "id": 8,
+        "question": "Which of these is often used in Quality Circles?",
+        "options": [
+            "a) Fishbone diagram",
+            "b) Balance sheet",
+            "c) SWOT matrix only",
+            "d) Ledger book"
+        ],
+        "answer": "a) Fishbone diagram",
+        "explanation": "The Fishbone (Cause and Effect) diagram is a common tool used in Quality Circles to identify the root causes of a problem in a visual way."
+    },
+    {
+        "id": 9,
+        "question": "Quality Circle members enhance ____",
+        "options": [
+            "a) Motivation and teamwork",
+            "b) Isolation among workers",
+            "c) Political influence",
+            "d) Financial accounting"
+        ],
+        "answer": "a) Motivation and teamwork",
+        "explanation": "Working in Quality Circles makes employees feel valued and involved, which boosts their motivation and strengthens teamwork."
+    },
+    {
+        "id": 10,
+        "question": "Quality Circles were first introduced in India at ____",
+        "options": [
+            "a) BHEL",
+            "b) Tata Steel",
+            "c) Indian Railways",
+            "d) Hindustan Motors"
+        ],
+        "answer": "a) BHEL",
+        "explanation": "BHEL (Bharat Heavy Electricals Limited) was the first organization in India to introduce Quality Circles in the early 1980s."
+    },
+    {
+        "id": 11,
+        "question": "The ultimate benefit of Quality Circles is ____",
+        "options": [
+            "a) Improved quality and productivity",
+            "b) Higher bureaucracy",
+            "c) Increased absenteeism",
+            "d) Less employee involvement"
+        ],
+        "answer": "a) Improved quality and productivity",
+        "explanation": "When employees regularly identify and solve problems together, it directly leads to better quality products/services and higher productivity."
+    },
+    {
+        "id": 12,
+        "question": "Quality Circles operate on a ____ management approach",
+        "options": [
+            "a) Bottom-up",
+            "b) Top-down",
+            "c) Centralized",
+            "d) Bureaucratic"
+        ],
+        "answer": "a) Bottom-up",
+        "explanation": "In Quality Circles, ideas and improvements come from workers at the ground level (bottom) and go up to management, not the other way around."
+    },
+    {
+        "id": 13,
+        "question": "The term Kaizen means ____",
+        "options": [
+            "a) Continuous improvement",
+            "b) Sudden innovation",
+            "c) Large-scale change",
+            "d) Temporary solution"
+        ],
+        "answer": "a) Continuous improvement",
+        "explanation": "\"Kaizen\" is a Japanese word where \"Kai\" means change and \"Zen\" means good/better. Together it means making continuous small improvements every day."
+    },
+    {
+        "id": 14,
+        "question": "Kaizen is a concept developed in ____",
+        "options": [
+            "a) China",
+            "b) Japan",
+            "c) USA",
+            "d) France"
+        ],
+        "answer": "b) Japan",
+        "explanation": "Kaizen originated in Japan after World War II and was widely used by Japanese companies like Toyota to improve their manufacturing processes continuously."
+    },
+    {
+        "id": 15,
+        "question": "The philosophy of Kaizen emphasizes ____",
+        "options": [
+            "a) Small improvements made regularly",
+            "b) Major one-time reforms",
+            "c) Only technological upgrades",
+            "d) Top management control"
+        ],
+        "answer": "a) Small improvements made regularly",
+        "explanation": "Kaizen focuses on making many small, incremental improvements on a daily basis rather than waiting for one big change."
+    },
+    {
+        "id": 16,
+        "question": "Which statement is most true about Kaizen?",
+        "options": [
+            "a) It depends only on expensive equipment",
+            "b) It requires employee involvement at all levels",
+            "c) It ignores small changes",
+            "d) It is used only in manufacturing"
+        ],
+        "answer": "b) It requires employee involvement at all levels",
+        "explanation": "Kaizen works best when every employee — from top management to floor workers — participates and contributes improvement ideas regularly."
+    },
+    {
+        "id": 17,
+        "question": "The main goal of Kaizen is to ____",
+        "options": [
+            "a) Maintain current standards",
+            "b) Achieve continuous betterment",
+            "c) Increase cost",
+            "d) Focus on individuals only"
+        ],
+        "answer": "b) Achieve continuous betterment",
+        "explanation": "Kaizen's core goal is to never stop improving. It pushes for constant betterment in processes, quality, safety, and efficiency."
+    },
+    {
+        "id": 18,
+        "question": "Which Japanese management practice is closely related to Kaizen?",
+        "options": [
+            "a) Just-in-time (JIT)",
+            "b) Benchmarking",
+            "c) Outsourcing",
+            "d) Downsizing"
+        ],
+        "answer": "a) Just-in-time (JIT)",
+        "explanation": "Just-in-Time (JIT) and Kaizen are both part of the Toyota Production System. JIT reduces waste by producing only what is needed, which aligns with Kaizen's waste-elimination philosophy."
+    },
+    {
+        "id": 19,
+        "question": "A good example of Kaizen is ____",
+        "options": [
+            "a) Re-arranging tools to save motion time",
+            "b) Hiring more supervisors",
+            "c) Conducting annual party",
+            "d) Ignoring small details"
+        ],
+        "answer": "a) Re-arranging tools to save motion time",
+        "explanation": "Rearranging tools so workers can reach them faster is a classic small improvement that saves time and reduces waste — a perfect example of Kaizen in action."
+    },
+    {
+        "id": 20,
+        "question": "Kaizen primarily depends on ____",
+        "options": [
+            "a) Continuous employee suggestions",
+            "b) Large investments",
+            "c) Expensive consultants",
+            "d) High turnover"
+        ],
+        "answer": "a) Continuous employee suggestions",
+        "explanation": "Kaizen relies on employees regularly sharing small ideas and suggestions for improvement rather than expensive technology or outside experts."
+    },
+    {
+        "id": 21,
+        "question": "Which of the following is NOT a principle of Kaizen?",
+        "options": [
+            "a) Involve everyone",
+            "b) Think improvement every day",
+            "c) Blame employees for mistakes",
+            "d) Eliminate waste"
+        ],
+        "answer": "c) Blame employees for mistakes",
+        "explanation": "Kaizen focuses on improving the process, not blaming people. It encourages a positive, blame-free culture where mistakes are seen as opportunities to improve."
+    },
+    {
+        "id": 22,
+        "question": "The PDCA cycle (Plan-Do-Check-Act) is often associated with ____",
+        "options": [
+            "a) Kaizen",
+            "b) TQM",
+            "c) Six Sigma",
+            "d) QFD, A and B"
+        ],
+        "answer": "d) QFD, A and B",
+        "explanation": "The PDCA cycle is used in both Kaizen and TQM. It is a key tool for continuous improvement — plan a change, do it, check the results, and act to standardize it."
+    },
+    {
+        "id": 23,
+        "question": "Six Sigma aims to ____",
+        "options": [
+            "a) Reduce defects and variation",
+            "b) Increase wastage",
+            "c) Limit employee participation",
+            "d) Focus on hiring"
+        ],
+        "answer": "a) Reduce defects and variation",
+        "explanation": "Six Sigma is a data-driven methodology that focuses on identifying and eliminating defects and reducing variation in any process to improve quality."
+    },
+    {
+        "id": 24,
+        "question": "Six Sigma was developed by ____.",
+        "options": [
+            "a) Motorola",
+            "b) Toyota",
+            "c) General Electric",
+            "d) Ford"
+        ],
+        "answer": "a) Motorola",
+        "explanation": "Six Sigma was developed by Motorola engineer Bill Smith in 1986 as a way to improve manufacturing quality and reduce product defects."
+    },
+    {
+        "id": 25,
+        "question": "The statistical goal of Six Sigma is ____.",
+        "options": [
+            "a) 3.4 defects per million opportunities",
+            "b) 100 defects per million",
+            "c) 99% accuracy",
+            "d) Zero defects"
+        ],
+        "answer": "a) 3.4 defects per million opportunities",
+        "explanation": "Six Sigma targets a very high quality level — only 3.4 defects per million opportunities, which means achieving 99.99966% accuracy."
+    },
+    {
+        "id": 26,
+        "question": "The term 'Sigma' represents ____.",
+        "options": [
+            "a) Standard deviation",
+            "b) Mean value",
+            "c) Frequency",
+            "d) Total quality"
+        ],
+        "answer": "a) Standard deviation",
+        "explanation": "Sigma (σ) is a statistical term representing standard deviation, which measures how much variation or spread exists in a process. Higher sigma = less variation = better quality."
+    },
+    {
+        "id": 27,
+        "question": "The DMAIC cycle stands for ____.",
+        "options": [
+            "a) Define, Measure, Analyze, Improve, Control",
+            "b) Design, Manage, Apply, Implement, Control",
+            "c) Direct, Motivate, Assess, Improve, Conclude",
+            "d) Define, Monitor, Act, Integrate, Conclude"
+        ],
+        "answer": "a) Define, Measure, Analyze, Improve, Control",
+        "explanation": "DMAIC is the core problem-solving framework of Six Sigma. Each step helps systematically find the root cause of defects and make lasting improvements."
+    },
+    {
+        "id": 28,
+        "question": "Six Sigma focuses on ____.",
+        "options": [
+            "a) Data-driven decision-making",
+            "b) Guesswork",
+            "c) Top-level authority only",
+            "d) Financial auditing"
+        ],
+        "answer": "a) Data-driven decision-making",
+        "explanation": "Six Sigma uses statistical tools and data analysis to make decisions, not opinions or guesses. Every improvement is backed by measurable evidence."
+    },
+    {
+        "id": 29,
+        "question": "In Six Sigma, Green Belts are ____.",
+        "options": [
+            "a) Employees trained to support improvement projects",
+            "b) Senior executives",
+            "c) Accountants",
+            "d) Temporary workers"
+        ],
+        "answer": "a) Employees trained to support improvement projects",
+        "explanation": "Green Belts are employees trained in Six Sigma methods who work part-time on improvement projects while continuing their regular jobs."
+    },
+    {
+        "id": 30,
+        "question": "Black Belts in Six Sigma are ____.",
+        "options": [
+            "a) Team leaders and experts who mentor others",
+            "b) New interns",
+            "c) Managers of HR department",
+            "d) Outsiders"
+        ],
+        "answer": "a) Team leaders and experts who mentor others",
+        "explanation": "Black Belts are full-time Six Sigma experts who lead improvement projects and mentor Green Belts. They have deep knowledge of statistical tools and DMAIC."
+    },
+    {
+        "id": 31,
+        "question": "Master Black Belt refers to ____.",
+        "options": [
+            "a) Person who leads Six Sigma program company-wide",
+            "b) Marketing executive",
+            "c) Junior trainee",
+            "d) None of these"
+        ],
+        "answer": "a) Person who leads Six Sigma program company-wide",
+        "explanation": "Master Black Belts are the highest level Six Sigma experts who train and coach Black Belts and oversee the entire Six Sigma program across the organization."
+    },
+    {
+        "id": 32,
+        "question": "The main focus of Six Sigma is ____.",
+        "options": [
+            "a) Customer satisfaction through defect prevention",
+            "b) Product advertising",
+            "c) Financial reporting",
+            "d) Staff reduction"
+        ],
+        "answer": "a) Customer satisfaction through defect prevention",
+        "explanation": "Six Sigma ultimately aims to satisfy customers by delivering products and services with minimal defects and consistent quality."
+    },
+    {
+        "id": 33,
+        "question": "Six Sigma projects use which key tool?",
+        "options": [
+            "a) Statistical analysis",
+            "b) Astrology",
+            "c) Random guessing",
+            "d) Marketing mix"
+        ],
+        "answer": "a) Statistical analysis",
+        "explanation": "Six Sigma heavily relies on statistical tools like control charts, regression analysis, and hypothesis testing to identify root causes and measure improvements."
+    },
+    {
+        "id": 34,
+        "question": "Which company popularized Six Sigma after Motorola?",
+        "options": [
+            "a) General Electric (GE)",
+            "b) Toyota",
+            "c) Sony",
+            "d) Apple"
+        ],
+        "answer": "a) General Electric (GE)",
+        "explanation": "Jack Welch, CEO of General Electric, adopted Six Sigma in 1995 and made it famous worldwide by achieving billions of dollars in savings using this methodology."
+    },
+    {
+        "id": 35,
+        "question": "In Six Sigma, process capability is measured in terms of ____.",
+        "options": [
+            "a) Sigma levels",
+            "b) Mean deviation",
+            "c) Cost per unit",
+            "d) Time only"
+        ],
+        "answer": "a) Sigma levels",
+        "explanation": "Sigma levels (1σ to 6σ) indicate how capable a process is. A higher sigma level means fewer defects and better process performance."
+    },
+    {
+        "id": 36,
+        "question": "The ultimate goal of Six Sigma is to achieve ____.",
+        "options": [
+            "a) 99.99966% accuracy",
+            "b) 80% efficiency",
+            "c) Average quality",
+            "d) Maximum supervision"
+        ],
+        "answer": "a) 99.99966% accuracy",
+        "explanation": "At Six Sigma level, a process produces only 3.4 defects per million opportunities, which equals 99.99966% accuracy — near perfection."
+    },
+    {
+        "id": 37,
+        "question": "TQM stands for ____.",
+        "options": [
+            "a) Total Quality Management",
+            "b) Technical Quality Measurement",
+            "c) Team Quality Monitoring",
+            "d) Total Quantity Management"
+        ],
+        "answer": "a) Total Quality Management",
+        "explanation": "TQM stands for Total Quality Management — a management approach focused on long-term success through customer satisfaction and continuous improvement involving everyone in the organization."
+    },
+    {
+        "id": 38,
+        "question": "The key objective of TQM is ____.",
+        "options": [
+            "a) Continuous improvement and customer satisfaction",
+            "b) Cost cutting only",
+            "c) Bureaucratic control",
+            "d) Quick profit"
+        ],
+        "answer": "a) Continuous improvement and customer satisfaction",
+        "explanation": "TQM's main purpose is to keep improving all processes and make sure customers are always satisfied with the product or service quality."
+    },
+    {
+        "id": 39,
+        "question": "The foundation of TQM lies in ____.",
+        "options": [
+            "a) Quality at every stage",
+            "b) Inspection only",
+            "c) Blaming workers",
+            "d) Reducing production"
+        ],
+        "answer": "a) Quality at every stage",
+        "explanation": "TQM believes quality should be built into every step of the process — from raw materials to final delivery — not just checked at the end."
+    },
+    {
+        "id": 40,
+        "question": "TQM requires participation of ____.",
+        "options": [
+            "a) All employees",
+            "b) Only managers",
+            "c) Only production staff",
+            "d) External consultants"
+        ],
+        "answer": "a) All employees",
+        "explanation": "TQM is a company-wide approach. Every single employee, from top management to the shop floor, must be committed to quality improvement for TQM to work."
+    },
+    {
+        "id": 41,
+        "question": "The famous 14 points of quality management were proposed by ____.",
+        "options": [
+            "a) W. Edwards Deming",
+            "b) Joseph Juran",
+            "c) Kaoru Ishikawa",
+            "d) Philip Crosby"
+        ],
+        "answer": "a) W. Edwards Deming",
+        "explanation": "W. Edwards Deming proposed his famous 14 Points for Management as a guide for transforming business effectiveness and achieving quality."
+    },
+    {
+        "id": 42,
+        "question": "\"Fitness for use\" definition of quality was given by ____.",
+        "options": [
+            "a) Juran",
+            "b) Deming",
+            "c) Taylor",
+            "d) Crosby"
+        ],
+        "answer": "a) Juran",
+        "explanation": "Joseph Juran defined quality as \"fitness for use,\" meaning a product or service should meet the needs and expectations of the customer when they use it."
+    },
+    {
+        "id": 43,
+        "question": "The \"Zero Defect\" concept was given by ____.",
+        "options": [
+            "a) Philip Crosby",
+            "b) Ishikawa",
+            "c) Juran",
+            "d) Deming"
+        ],
+        "answer": "a) Philip Crosby",
+        "explanation": "Philip Crosby introduced the \"Zero Defects\" concept, arguing that the standard should be to do things right the first time with no defects acceptable."
+    },
+    {
+        "id": 44,
+        "question": "A core principle of TQM is ____.",
+        "options": [
+            "a) Doing things right the first time",
+            "b) Reacting after errors",
+            "c) Blaming others",
+            "d) Ignoring feedback"
+        ],
+        "answer": "a) Doing things right the first time",
+        "explanation": "TQM promotes prevention over correction. The idea is to get quality right from the start rather than fixing mistakes later, which saves time and cost."
+    },
+    {
+        "id": 45,
+        "question": "TQM promotes ____.",
+        "options": [
+            "a) Customer-driven organization",
+            "b) Profit-driven only",
+            "c) Technology-driven only",
+            "d) Manager-driven"
+        ],
+        "answer": "a) Customer-driven organization",
+        "explanation": "In TQM, the customer's needs and satisfaction are the driving force behind every decision and process improvement in the organization."
+    },
+    {
+        "id": 46,
+        "question": "TQM emphasizes the use of ____.",
+        "options": [
+            "a) Quality tools like Pareto chart, Histogram, Check Sheet",
+            "b) Financial tools",
+            "c) Advertising campaigns",
+            "d) Sales analysis"
+        ],
+        "answer": "a) Quality tools like Pareto chart, Histogram, Check Sheet",
+        "explanation": "TQM uses specific quality tools such as Pareto charts (to find major problems), Histograms (to show data distribution), and Check Sheets (to collect data) to analyze and improve processes."
+    },
+    {
+        "id": 47,
+        "question": "Which of the following is NOT an element of TQM?",
+        "options": [
+            "a) Continuous improvement",
+            "b) Employee participation",
+            "c) Customer focus",
+            "d) Rigid hierarchy"
+        ],
+        "answer": "d) Rigid hierarchy",
+        "explanation": "TQM promotes open communication, teamwork, and employee involvement at all levels. A rigid hierarchy goes against TQM principles by blocking participation."
+    },
+    {
+        "id": 48,
+        "question": "The Plan-Do-Check-Act (PDCA) cycle is used in TQM for ____.",
+        "options": [
+            "a) Continuous improvement",
+            "b) Marketing",
+            "c) Recruitment",
+            "d) Financial planning"
+        ],
+        "answer": "a) Continuous improvement",
+        "explanation": "The PDCA cycle is TQM's tool for continuous improvement — Plan what to improve, Do it on a small scale, Check if it worked, and Act to standardize the improvement."
+    },
+    {
+        "id": 49,
+        "question": "Which of the following is a benefit of TQM?",
+        "options": [
+            "a) Improved morale and productivity",
+            "b) More errors",
+            "c) Reduced teamwork",
+            "d) Increased supervision"
+        ],
+        "answer": "a) Improved morale and productivity",
+        "explanation": "When employees are involved in quality improvement and see their ideas implemented, it boosts their morale. Better processes also naturally lead to higher productivity."
+    },
+    {
+        "id": 50,
+        "question": "The ultimate aim of TQM is to achieve ____.",
+        "options": [
+            "a) Long-term customer loyalty and organizational excellence",
+            "b) Short-term gains",
+            "c) Maximum supervision",
+            "d) Minimum employee involvement"
+        ],
+        "answer": "a) Long-term customer loyalty and organizational excellence",
+        "explanation": "TQM is not about quick fixes. Its ultimate goal is to build an organization that consistently delivers excellent quality, earning long-term customer loyalty."
+    },
+    {
+        "id": 51,
+        "question": "The main purpose of 5S is to ____.",
+        "options": [
+            "a) Increase sales",
+            "b) Organize the workplace and improve efficiency",
+            "c) Hire more workers",
+            "d) Reduce salaries"
+        ],
+        "answer": "b) Organize the workplace and improve efficiency",
+        "explanation": "5S is a workplace organization method that creates a clean, organized, and efficient work environment to reduce waste and improve productivity."
+    },
+    {
+        "id": 52,
+        "question": "5S originated in which country?",
+        "options": [
+            "a) China",
+            "b) USA",
+            "c) Japan",
+            "d) Germany"
+        ],
+        "answer": "c) Japan",
+        "explanation": "5S originated in Japan and was developed as part of the Toyota Production System to organize the workplace and eliminate waste."
+    },
+    {
+        "id": 53,
+        "question": "In 5S, 'Seiri' stands for ____.",
+        "options": [
+            "a) Set in order",
+            "b) Sort - remove unnecessary items",
+            "c) Shine",
+            "d) Sustain - maintain standards"
+        ],
+        "answer": "b) Sort - remove unnecessary items",
+        "explanation": "Seiri (Sort) is the first S. It means going through all items in the workplace and removing everything that is not needed for current work."
+    },
+    {
+        "id": 54,
+        "question": "The second 'S', 'Seiton' means ____.",
+        "options": [
+            "a) Standardize",
+            "b) Set things in order for easy access",
+            "c) Shine",
+            "d) Sustain improvements"
+        ],
+        "answer": "b) Set things in order for easy access",
+        "explanation": "Seiton (Set in Order) means arranging all necessary items in a proper place so they can be easily found, used, and returned after use."
+    },
+    {
+        "id": 55,
+        "question": "'Seiso' refers to ____.",
+        "options": [
+            "a) Keeping the workplace neat and clean",
+            "b) Sorting out materials",
+            "c) Labeling items",
+            "d) Conducting audits"
+        ],
+        "answer": "a) Keeping the workplace neat and clean",
+        "explanation": "Seiso (Shine) means regularly cleaning the workplace. A clean environment helps identify problems like leaks, damage, or misplaced items quickly."
+    },
+    {
+        "id": 56,
+        "question": "The fourth 'S' - 'Seiketsu' means ____.",
+        "options": [
+            "a) Shining tools",
+            "b) Standardizing procedures",
+            "c) Sustaining improvements",
+            "d) Sorting and discarding waste"
+        ],
+        "answer": "b) Standardizing procedures",
+        "explanation": "Seiketsu (Standardize) means creating standard rules and procedures so that the first three S's (Sort, Set, Shine) are done consistently every day."
+    },
+    {
+        "id": 57,
+        "question": "The fifth 'S', 'Shitsuke,' means ____.",
+        "options": [
+            "a) Sorting",
+            "b) Discipline and sustaining the habit of 5S",
+            "c) Supervising workers",
+            "d) Scheduling production"
+        ],
+        "answer": "b) Discipline and sustaining the habit of 5S",
+        "explanation": "Shitsuke (Sustain) means making 5S a habit through self-discipline. It ensures that all the improvements made are maintained long-term without being forced."
+    },
+    {
+        "id": 58,
+        "question": "The main benefit of 5S is ____.",
+        "options": [
+            "a) Lower product quality",
+            "b) Clean, safe and efficient workplace",
+            "c) Increased paperwork",
+            "d) Less teamwork"
+        ],
+        "answer": "b) Clean, safe and efficient workplace",
+        "explanation": "5S creates a workplace that is clean, well-organized, and safe, which reduces accidents, saves time searching for items, and improves overall efficiency."
+    },
+    {
+        "id": 59,
+        "question": "Which of the following is NOT part of the 5S system?",
+        "options": [
+            "a) Seiri",
+            "b) Seiso",
+            "c) Shitsuke",
+            "d) Six Sigma"
+        ],
+        "answer": "d) Six Sigma",
+        "explanation": "The 5S system consists of Seiri, Seiton, Seiso, Seiketsu, and Shitsuke. Six Sigma is a completely separate quality improvement methodology."
+    },
+    {
+        "id": 60,
+        "question": "The 5S method is most closely related to ____.",
+        "options": [
+            "a) Lean manufacturing and continuous improvement",
+            "b) Advertising strategy",
+            "c) Finance and accounting",
+            "d) Marketing management"
+        ],
+        "answer": "a) Lean manufacturing and continuous improvement",
+        "explanation": "5S is a foundational tool of Lean Manufacturing. It eliminates waste through workplace organization and supports the continuous improvement culture."
+    },
+    {
+        "id": 61,
+        "question": "A red tag is commonly used during which 5S stage?",
+        "options": [
+            "a) Seiketsu",
+            "b) Seiri (Sorting)",
+            "c) Seiso",
+            "d) Shitsuke"
+        ],
+        "answer": "b) Seiri (Sorting)",
+        "explanation": "During Seiri (Sort), red tags are placed on items that are unnecessary or questionable. These tagged items are then evaluated for removal, relocation, or disposal."
+    },
+    {
+        "id": 62,
+        "question": "The goal of 'Set in Order' is to ____.",
+        "options": [
+            "a) Arrange items so they are easy to find and return",
+            "b) Store items randomly",
+            "c) Remove all tools from the area",
+            "d) Paint the walls"
+        ],
+        "answer": "a) Arrange items so they are easy to find and return",
+        "explanation": "Set in Order (Seiton) means every item has a fixed place. This saves time, reduces frustration, and ensures tools are always available when needed."
+    },
+    {
+        "id": 63,
+        "question": "Regular cleaning, inspection and maintenance belong to which S?",
+        "options": [
+            "a) Seiso (Shine)",
+            "b) Seiketsu (Standardize)",
+            "c) Shitsuke (Sustain)",
+            "d) Seiri (Sort)"
+        ],
+        "answer": "a) Seiso (Shine)",
+        "explanation": "Seiso (Shine) involves not just cleaning but also inspecting equipment during cleaning to detect any abnormalities or problems early."
+    },
+    {
+        "id": 64,
+        "question": "5S helps to eliminate which of the following wastes?",
+        "options": [
+            "a) Overproduction",
+            "b) Unnecessary motion and time waste",
+            "c) Marketing costs",
+            "d) None of these"
+        ],
+        "answer": "b) Unnecessary motion and time waste",
+        "explanation": "By organizing the workplace properly, 5S eliminates time wasted searching for tools, unnecessary movements, and delays due to clutter."
+    },
+    {
+        "id": 65,
+        "question": "The ultimate goal of 5S is to ____.",
+        "options": [
+            "a) Create a culture of discipline and continuous improvement",
+            "b) Reduce prices",
+            "c) Maintain paperwork",
+            "d) Focus only on profits"
+        ],
+        "answer": "a) Create a culture of discipline and continuous improvement",
+        "explanation": "Beyond just cleaning, the ultimate purpose of 5S is to build a disciplined workplace culture where employees continuously improve their work environment."
+    },
+    {
+        "id": 66,
+        "question": "The word 'Kanban' is derived from which language?",
+        "options": [
+            "a) English",
+            "b) Japanese",
+            "c) Chinese",
+            "d) Korean"
+        ],
+        "answer": "b) Japanese",
+        "explanation": "Kanban is a Japanese word. \"Kan\" means visual and \"Ban\" means card or board, so Kanban literally means \"visual card\" or \"signboard.\""
+    },
+    {
+        "id": 67,
+        "question": "The meaning of 'kanban' is ____.",
+        "options": [
+            "a) Visual signal or card",
+            "b) Machine maintenance",
+            "c) Work scheduling software",
+            "d) Raw material storage"
+        ],
+        "answer": "a) Visual signal or card",
+        "explanation": "Kanban means a visual signal (usually a card) used to trigger an action — like replenishing a part or starting production of an item."
+    },
+    {
+        "id": 68,
+        "question": "The Kanban system was first developed by ____.",
+        "options": [
+            "a) Motorola",
+            "b) Toyota Motor Corporation",
+            "c) Ford Motor Company",
+            "d) General Electric"
+        ],
+        "answer": "b) Toyota Motor Corporation",
+        "explanation": "Taiichi Ohno at Toyota developed the Kanban system in the late 1940s inspired by supermarket restocking methods, as part of the Toyota Production System."
+    },
+    {
+        "id": 69,
+        "question": "Kanban is mainly used in which production system?",
+        "options": [
+            "a) Just-in-Time (JIT)",
+            "b) Mass production",
+            "c) Batch production",
+            "d) Project-based production"
+        ],
+        "answer": "a) Just-in-Time (JIT)",
+        "explanation": "Kanban is the signaling tool used in JIT production. It ensures materials and products are made and delivered exactly when needed — not before, not after."
+    },
+    {
+        "id": 70,
+        "question": "The main purpose of a Kanban system is to _____",
+        "options": [
+            "a) Increase inventory levels",
+            "b) Control production and material flow visually",
+            "c) Increase paperwork",
+            "d) Delay production"
+        ],
+        "answer": "b) Control production and material flow visually",
+        "explanation": "Kanban uses visual cards/signals to control how materials move through the production process, preventing overproduction and reducing inventory."
+    },
+    {
+        "id": 71,
+        "question": "In the Kanban method, each card represents _____",
+        "options": [
+            "a) A maintenance report",
+            "b) A production order or part requirement",
+            "c) A customer complaint",
+            "d) A financial record"
+        ],
+        "answer": "b) A production order or part requirement",
+        "explanation": "Each Kanban card acts as an authorization signal — it tells the previous workstation to produce more or supply more of a specific item."
+    },
+    {
+        "id": 72,
+        "question": "Kanban helps in achieving which of the following?",
+        "options": [
+            "a) Overproduction",
+            "b) Continuous flow and reduced waste",
+            "c) Maximum storage",
+            "d) Increased downtime"
+        ],
+        "answer": "b) Continuous flow and reduced waste",
+        "explanation": "By producing only what is needed when it is needed, Kanban creates a smooth continuous flow of production and eliminates waste from overproduction and excess inventory."
+    },
+    {
+        "id": 73,
+        "question": "Which of the following best describes the Kanban principle?",
+        "options": [
+            "a) Push system of production",
+            "b) Pull system of production",
+            "c) Mixed system",
+            "d) Random system"
+        ],
+        "answer": "b) Pull system of production",
+        "explanation": "Kanban is a pull system — production is triggered by actual customer demand or consumption. Work starts only when the next step \"pulls\" for it, not in advance."
+    },
+    {
+        "id": 74,
+        "question": "In a pull-based Kanban system _____.",
+        "options": [
+            "a) Work is started only when there is demand from the next process",
+            "b) Production continues regardless of demand",
+            "c) Raw materials are ordered in bulk",
+            "d) Workers guess production levels"
+        ],
+        "answer": "a) Work is started only when there is demand from the next process",
+        "explanation": "In a pull system, each stage of production only produces what the next stage actually needs. This avoids building up unnecessary stock or work-in-progress."
+    },
+    {
+        "id": 75,
+        "question": "The two-card Kanban system consists of _____.",
+        "options": [
+            "a) Transport Kanban and Production Kanban",
+            "b) Delivery Kanban and Finance Kanban",
+            "c) Planning Kanban and Cost Kanban",
+            "d) Service Kanban and Product Kanban"
+        ],
+        "answer": "a) Transport Kanban and Production Kanban",
+        "explanation": "The two-card system uses a Production Kanban (to authorize making parts) and a Transport/Withdrawal Kanban (to authorize moving parts to the next process)."
+    },
+    {
+        "id": 76,
+        "question": "Kanban is mainly used to _____",
+        "options": [
+            "a) Signal the need to move materials or produce parts",
+            "b) Replace supervisors",
+            "c) Increase inspection frequency",
+            "d) Eliminate teamwork"
+        ],
+        "answer": "a) Signal the need to move materials or produce parts",
+        "explanation": "The main function of Kanban is to act as a visual signal that tells workers when to produce more or when to move materials from one process to another."
+    },
+    {
+        "id": 77,
+        "question": "Which of the following is NOT an advantage of Kanban?",
+        "options": [
+            "a) Reduces inventory",
+            "b) Improves workflow",
+            "c) Increases complexity",
+            "d) Visualizes the production process"
+        ],
+        "answer": "c) Increases complexity",
+        "explanation": "Kanban actually simplifies the production process. Reducing inventory, improving workflow, and visual management are all advantages. Increasing complexity is not."
+    },
+    {
+        "id": 78,
+        "question": "Kanban cards can be replaced by which of the following modern equivalents?",
+        "options": [
+            "a) Electronic signals, barcodes, or RFID tags",
+            "b) Manual logs",
+            "c) Paper forms",
+            "d) Phone calls"
+        ],
+        "answer": "a) Electronic signals, barcodes, or RFID tags",
+        "explanation": "In modern digital factories, physical Kanban cards have been replaced by electronic systems like barcodes, RFID tags, and digital dashboards that serve the same signaling purpose."
+    },
+    {
+        "id": 79,
+        "question": "The Kanban system supports which key Lean concept?",
+        "options": [
+            "a) Just-in-Time (JIT)",
+            "b) Six Sigma",
+            "c) Total Quality Management (TQM)",
+            "d) Batch production"
+        ],
+        "answer": "a) Just-in-Time (JIT)",
+        "explanation": "Kanban is the practical tool that makes JIT possible. It ensures materials and production happen exactly when needed, which is the core idea of JIT."
+    },
+    {
+        "id": 80,
+        "question": "The goal of Kanban in production is to ____",
+        "options": [
+            "a) Produce only what is needed, when it is needed",
+            "b) Produce maximum quantity regardless of demand",
+            "c) Stop production frequently",
+            "d) Store large quantities of finished goods"
+        ],
+        "answer": "a) Produce only what is needed, when it is needed",
+        "explanation": "This is the fundamental goal of Kanban — eliminate overproduction by making sure each item is produced only when there is an actual need for it."
+    },
+    {
+        "id": 81,
+        "question": "Which of the following is a type of Total Maintenance?",
+        "options": [
+            "a) Total Planned Maintenance",
+            "b) Total Productive Maintenance",
+            "c) Total Product Management",
+            "d) Total Preventive Management"
+        ],
+        "answer": "b) Total Productive Maintenance",
+        "explanation": "TPM stands for Total Productive Maintenance. It is a system that involves all employees in maintaining equipment to maximize productivity and minimize breakdowns."
+    },
+    {
+        "id": 82,
+        "question": "The main objective of TPM is to ____",
+        "options": [
+            "a) Increase machine breakdowns",
+            "b) Maximize equipment efficiency and eliminate waste",
+            "c) Decrease supervision",
+            "d) Reduce operator involvement"
+        ],
+        "answer": "b) Maximize equipment efficiency and eliminate waste",
+        "explanation": "TPM aims to achieve maximum equipment effectiveness by involving operators in daily maintenance, preventing breakdowns before they happen."
+    },
+    {
+        "id": 83,
+        "question": "JIT (Just-in-time) is a _____ philosophy",
+        "options": [
+            "a) Waste driven",
+            "b) Demand driven",
+            "c) Process driven",
+            "d) Profit driven"
+        ],
+        "answer": "b) Demand driven",
+        "explanation": "JIT produces and delivers goods based on actual customer demand. Nothing is made in advance or stored as excess inventory — production is triggered only by demand."
+    },
+    {
+        "id": 84,
+        "question": "Kanban is a",
+        "options": [
+            "a) Visual tool",
+            "b) Bar graph",
+            "c) Pie chart",
+            "d) Process chart"
+        ],
+        "answer": "a) Visual tool",
+        "explanation": "Kanban is fundamentally a visual management tool. It uses cards, boards, or signals that can be seen by everyone to communicate the status and flow of work."
+    },
+    {
+        "id": 85,
+        "question": "Poka yoke is a",
+        "options": [
+            "a) Mistake proofing technique",
+            "b) Japanese concept",
+            "c) Process improvement technique",
+            "d) Quality improvement tool"
+        ],
+        "answer": "a) Mistake proofing technique",
+        "explanation": "Poka-Yoke is a Japanese term meaning \"mistake proofing.\" It involves designing processes or devices in a way that prevents errors from happening or makes them immediately obvious."
+    },
+    {
+        "id": 86,
+        "question": "The five pillars of 5S are",
+        "options": [
+            "a) Sort, Set in order, Shine, Standardize, Sustain",
+            "b) Safety, Security, Sanitation, Scheduling, Sales",
+            "c) Sort, Store, Ship, Sell, Save",
+            "d) Speed, Service, Safety, Satisfaction, Success"
+        ],
+        "answer": "a) Sort, Set in order, Shine, Standardize, Sustain",
+        "explanation": "The 5S pillars are: Sort (Seiri), Set in Order (Seiton), Shine (Seiso), Standardize (Seiketsu), and Sustain (Shitsuke) — five steps to organize and maintain a productive workplace."
+    },
+    {
+        "id": 87,
+        "question": "Gemba refers to",
+        "options": [
+            "a) The actual place where work happens",
+            "b) A type of Japanese management philosophy",
+            "c) A quality control technique",
+            "d) A production system"
+        ],
+        "answer": "a) The actual place where work happens",
+        "explanation": "Gemba is a Japanese term meaning \"the real place\" — it refers to the actual workplace (factory floor, shop, site) where value is created and problems should be observed directly."
+    },
+    {
+        "id": 88,
+        "question": "SMED stands for",
+        "options": [
+            "a) Single Minute Exchange of Die",
+            "b) System for Managing Equipment and Dies",
+            "c) Standard Method for Equipment Development",
+            "d) Structured Manufacturing Efficiency Development"
+        ],
+        "answer": "a) Single Minute Exchange of Die",
+        "explanation": "SMED is a Lean manufacturing technique that aims to reduce machine changeover/setup time to under 10 minutes (single-digit minutes), improving flexibility and reducing downtime."
+    },
+    {
+        "id": 89,
+        "question": "TPM emphasizes which type of maintenance?",
+        "options": [
+            "a) Breakdown maintenance",
+            "b) Preventive and Autonomous maintenance",
+            "c) Emergency maintenance",
+            "d) Extensive maintenance only"
+        ],
+        "answer": "b) Preventive and Autonomous maintenance",
+        "explanation": "TPM stresses Preventive Maintenance (scheduled maintenance to prevent failures) and Autonomous Maintenance (operators maintain their own machines daily)."
+    },
+    {
+        "id": 90,
+        "question": "The TPM concept includes how many major pillars?",
+        "options": [
+            "a) 3",
+            "b) 5",
+            "c) 8",
+            "d) 10"
+        ],
+        "answer": "c) 8",
+        "explanation": "TPM is built on 8 pillars: Autonomous Maintenance, Focused Improvement, Planned Maintenance, Quality Maintenance, Early Equipment Management, Education and Training, Safety & Environment, and TPM in Administration."
+    },
+    {
+        "id": 91,
+        "question": "Which of the following is NOT one of the 8 Pillars of TPM?",
+        "options": [
+            "a) Autonomous Maintenance",
+            "b) Focused Improvement",
+            "c) Product Design",
+            "d) Education and Training"
+        ],
+        "answer": "c) Product Design",
+        "explanation": "Product Design is not one of the 8 TPM pillars. The 8 pillars focus on maintenance, improvement, safety, training, and equipment management — not product design."
+    },
+    {
+        "id": 92,
+        "question": "The first pillar of TPM, 'Autonomous Maintenance', means ____.",
+        "options": [
+            "a) Operators clean, inspect and maintain their own machines",
+            "b) Only maintenance staff clean machines",
+            "c) Maintenance is ignored",
+            "d) Outsiders repair machines"
+        ],
+        "answer": "a) Operators clean, inspect and maintain their own machines",
+        "explanation": "Autonomous Maintenance empowers machine operators to take ownership of their equipment by performing daily cleaning, inspection, and basic maintenance themselves."
+    },
+    {
+        "id": 93,
+        "question": "Which of the following is a key benefit of TPM?",
+        "options": [
+            "a) Reduced downtime and improved productivity",
+            "b) Increased waste",
+            "c) Higher defect rate",
+            "d) More accidents"
+        ],
+        "answer": "a) Reduced downtime and improved productivity",
+        "explanation": "TPM prevents unexpected machine breakdowns through regular maintenance, which reduces downtime, improves equipment reliability, and boosts overall productivity."
+    },
+    {
+        "id": 94,
+        "question": "The formula for Overall Equipment Effectiveness (OEE) involves",
+        "options": [
+            "a) Availability × Performance × Quality",
+            "b) Quantity × Time × Speed",
+            "c) Cost × Profit × Revenue",
+            "d) Safety × Speed × Staff"
+        ],
+        "answer": "a) Availability × Performance × Quality",
+        "explanation": "OEE measures how effectively equipment is used. Availability (is machine running?), Performance (is it running at full speed?), and Quality (is it producing good parts?) are multiplied together."
+    },
+    {
+        "id": 95,
+        "question": "TPM aims to create a work culture of ____.",
+        "options": [
+            "a) Reactive actions",
+            "b) Proactive participation and ownership by all employees",
+            "c) Blaming maintenance staff",
+            "d) Minimal operator training"
+        ],
+        "answer": "b) Proactive participation and ownership by all employees",
+        "explanation": "TPM shifts the culture from reacting to breakdowns to proactively preventing them. Every employee takes ownership of equipment care rather than waiting for problems to occur."
+    },
+    {
+        "id": 96,
+        "question": "The main objective of Lean Manufacturing is to ____.",
+        "options": [
+            "a) Reduce workforce",
+            "b) Eliminate waste and improve value to the customer",
+            "c) Increase paperwork",
+            "d) Expand bureaucracy"
+        ],
+        "answer": "b) Eliminate waste and improve value to the customer",
+        "explanation": "Lean Manufacturing focuses on delivering maximum value to the customer while using minimum resources by identifying and eliminating all forms of waste in the production process."
+    },
+    {
+        "id": 97,
+        "question": "Lean Manufacturing originated from which company?",
+        "options": [
+            "a) Ford Motors",
+            "b) Toyota Motor Corporation",
+            "c) General Electric",
+            "d) Motorola"
+        ],
+        "answer": "b) Toyota Motor Corporation",
+        "explanation": "Lean Manufacturing evolved from the Toyota Production System (TPS) developed by Taiichi Ohno and Eiji Toyoda at Toyota in post-war Japan."
+    },
+    {
+        "id": 98,
+        "question": "The Toyota Production System (TPS) is the foundation of ____",
+        "options": [
+            "a) Total Quality Management",
+            "b) Lean Manufacturing",
+            "c) Six Sigma",
+            "d) Kaizen only"
+        ],
+        "answer": "b) Lean Manufacturing",
+        "explanation": "Lean Manufacturing is based on the principles and practices of the Toyota Production System (TPS), which pioneered the concepts of waste elimination and continuous flow."
+    },
+    {
+        "id": 99,
+        "question": "The Japanese term 'Muda' refers to ____.",
+        "options": [
+            "a) Improvement",
+            "b) Waste or non-value-added activity",
+            "c) Speed",
+            "d) Quality control"
+        ],
+        "answer": "b) Waste or non-value-added activity",
+        "explanation": "Muda means waste in Japanese — any activity that consumes resources (time, materials, money) without adding value to the customer. Lean aims to eliminate all Muda."
+    },
+    {
+        "id": 100,
+        "question": "How many types of waste (Muda) are identified in Lean?",
+        "options": [
+            "a) 3",
+            "b) 5",
+            "c) 7",
+            "d) 9"
+        ],
+        "answer": "c) 7",
+        "explanation": "Lean identifies 7 types of waste (Muda): Overproduction, Waiting, Transportation, Over-processing, Inventory, Motion, and Defects — remembered by the acronym TIMWOOD or DOWNTIME."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following is NOT one of the seven wastes in Lean?",
+        "options": [
+            "a) Overproduction",
+            "b) Waiting time",
+            "c) Product design",
+            "d) Defects"
+        ],
+        "answer": "c) Product design",
+        "explanation": "Product design is not one of the 7 wastes. The seven wastes are Overproduction, Waiting, Transportation, Over-processing, Inventory, Motion, and Defects."
+    },
+    {
+        "id": 102,
+        "question": "The Lean principle that focuses on 'producing only what is needed when it is needed' is known as ____",
+        "options": [
+            "a) JIT (Just-In-Time)",
+            "b) TQM",
+            "c) MRP",
+            "d) ERP"
+        ],
+        "answer": "a) JIT (Just-In-Time)",
+        "explanation": "Just-In-Time (JIT) is the Lean principle of producing the right product, in the right quantity, at the right time — eliminating overproduction and excess inventory."
+    }
+]
