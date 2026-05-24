@@ -19,7 +19,7 @@ const subjects = [
   },
   {
     id: 'management',
-    title: 'Management',
+    title: 'MGT',
     fullName: 'Management Principles and Applications',
     description: 'Evolution of management, self-management, team dynamics',
     icon: <FiBriefcase />
