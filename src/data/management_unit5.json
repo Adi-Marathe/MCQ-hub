@@ -1,0 +1,1442 @@
+[
+    {
+        "id": 1,
+        "question": "Supply Chain Management (SCM) mainly focuses on ________.",
+        "options": [
+            "a) Only manufacturing products",
+            "b) Managing and co-ordinating the flow of goods and services from supplier to customer",
+            "c) Advertising and promotion only",
+            "d) Human resource management"
+        ],
+        "answer": "b) Managing and co-ordinating the flow of goods and services from supplier to customer",
+        "explanation": "SCM is all about managing the entire flow of goods and services — from the supplier who provides raw materials all the way to the final customer. It covers planning, coordination, and control of this flow."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following best describes a supply chain?",
+        "options": [
+            "a) Only the transport system of goods",
+            "b) A network connecting suppliers, manufacturers, warehouses and retailers",
+            "c) A financial accounting system",
+            "d) A marketing strategy"
+        ],
+        "answer": "b) A network connecting suppliers, manufacturers, warehouses and retailers",
+        "explanation": "A supply chain is a complete network that links all the parties involved — suppliers, manufacturers, warehouses, and retailers — so that products reach the customer smoothly."
+    },
+    {
+        "id": 3,
+        "question": "The main goal of SCM is to ensure ________.",
+        "options": [
+            "a) Expensive products and limited availability",
+            "b) Right product, right customer, right time, right cost",
+            "c) Only local distribution",
+            "d) Focus only on production"
+        ],
+        "answer": "b) Right product, right customer, right time, right cost",
+        "explanation": "The core goal of SCM is to deliver the right product to the right customer at the right time and at the right cost. This is often called the \"4 Rights\" of supply chain management."
+    },
+    {
+        "id": 4,
+        "question": "In the supply chain of biscuits, the final stage is ________.",
+        "options": [
+            "a) Milling wheat into flour",
+            "b) Packaging in factories",
+            "c) Selling to the consumer",
+            "d) Storage in warehouse"
+        ],
+        "answer": "c) Selling to the consumer",
+        "explanation": "The supply chain ends when the product reaches the final consumer. In the biscuit example, after production and packaging, the last step is selling the biscuit to the customer."
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is NOT part of a supply chain?",
+        "options": [
+            "a) Supplier",
+            "b) Manufacturer",
+            "c) Warehouse",
+            "d) Accountant"
+        ],
+        "answer": "d) Accountant",
+        "explanation": "A supply chain involves suppliers, manufacturers, warehouses, distributors, retailers, and customers. An accountant is a financial professional and is not a physical part of the supply chain process."
+    },
+    {
+        "id": 6,
+        "question": "Supply Chain Management involves ________.",
+        "options": [
+            "a) Only production and manufacturing",
+            "b) Planning, controlling and improving material and information flow",
+            "c) Only transportation and packaging",
+            "d) Advertising and promotion"
+        ],
+        "answer": "b) Planning, controlling and improving material and information flow",
+        "explanation": "SCM involves planning, controlling, and improving the flow of materials, information, and money across the entire chain — from suppliers to customers."
+    },
+    {
+        "id": 7,
+        "question": "Which of the following is an important benefit of SCM?",
+        "options": [
+            "a) Increased cost and delays",
+            "b) Reduced customer satisfaction",
+            "c) Smooth flow of goods and reduced waste",
+            "d) Ignoring supplier relationships"
+        ],
+        "answer": "c) Smooth flow of goods and reduced waste",
+        "explanation": "A well-managed supply chain ensures goods flow smoothly without unnecessary delays or wastage. This reduces costs and improves efficiency and customer satisfaction."
+    },
+    {
+        "id": 8,
+        "question": "Better co-ordination in SCM means ________.",
+        "options": [
+            "a) Working in isolation",
+            "b) Improved communication among suppliers, factories and dealers",
+            "c) Reducing employee communication",
+            "d) Focusing only on retailers"
+        ],
+        "answer": "b) Improved communication among suppliers, factories and dealers",
+        "explanation": "Better co-ordination means all parties in the supply chain — suppliers, factories, and dealers — communicate and work together effectively, which leads to smoother operations."
+    },
+    {
+        "id": 9,
+        "question": "Logistics Management is a part of ________.",
+        "options": [
+            "a) Finance Management",
+            "b) Supply Chain Management",
+            "c) Marketing Management",
+            "d) Human Resource Management"
+        ],
+        "answer": "b) Supply Chain Management",
+        "explanation": "Logistics Management is a subset of Supply Chain Management. While SCM covers the entire network, logistics focuses specifically on the movement and storage of goods within that chain."
+    },
+    {
+        "id": 10,
+        "question": "The main focus of logistics management is ________.",
+        "options": [
+            "a) Manufacturing new products",
+            "b) Managing transportation, warehousing and distribution",
+            "c) Creating advertisements",
+            "d) Hiring employees"
+        ],
+        "answer": "b) Managing transportation, warehousing and distribution",
+        "explanation": "Logistics management focuses on the physical movement of goods — transportation, storing them in warehouses, and distributing them to the right places at the right time."
+    },
+    {
+        "id": 11,
+        "question": "When an online order is packed, shipped and delivered, it is part of ________.",
+        "options": [
+            "a) Finance operations",
+            "b) Marketing campaign",
+            "c) Logistics management",
+            "d) Accounting"
+        ],
+        "answer": "c) Logistics management",
+        "explanation": "Packing, shipping, and delivering an order are all physical movement activities. These are core functions of logistics management."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following is NOT a major function of logistics management?",
+        "options": [
+            "a) Transportation",
+            "b) Warehousing",
+            "c) Order processing",
+            "d) Advertising design"
+        ],
+        "answer": "d) Advertising design",
+        "explanation": "Logistics management handles transportation, warehousing, inventory control, and order processing. Advertising design is a marketing function, not a logistics function."
+    },
+    {
+        "id": 13,
+        "question": "Inventory control in logistics ensures ________.",
+        "options": [
+            "a) No stock is kept",
+            "b) The right quantity of goods is available when needed",
+            "c) Overproduction of goods",
+            "d) Only storing goods for a long time"
+        ],
+        "answer": "b) The right quantity of goods is available when needed",
+        "explanation": "Inventory control makes sure that goods are available in the right quantity at the right time — not too much (which wastes money) and not too little (which causes shortages)."
+    },
+    {
+        "id": 14,
+        "question": "The main difference between SCM and Logistics is ________.",
+        "options": [
+            "a) Logistics is broader than SCM",
+            "b) SCM focuses on overall co-ordination, while logistics focuses on transport and storage",
+            "c) SCM and logistics are unrelated",
+            "d) SCM only deals with advertising"
+        ],
+        "answer": "b) SCM focuses on overall co-ordination, while logistics focuses on transport and storage",
+        "explanation": "SCM is the broader concept covering the entire chain from supplier to customer. Logistics is a part of SCM that specifically deals with transportation, storage, and delivery of goods."
+    },
+    {
+        "id": 15,
+        "question": "In Samsung's example, logistics management is responsible for ________.",
+        "options": [
+            "a) Designing mobile phones",
+            "b) Advertising and sales promotions",
+            "c) Moving finished phones from factory to customer",
+            "d) Recruiting engineers"
+        ],
+        "answer": "c) Moving finished phones from factory to customer",
+        "explanation": "In a company like Samsung, logistics management takes care of moving the finished products (phones) from the manufacturing factory to the end customer through various distribution channels."
+    },
+    {
+        "id": 16,
+        "question": "Supply Chain Management (SCM) connects ________.",
+        "options": [
+            "a) Only customers and retailers",
+            "b) Only manufacturers and warehouses",
+            "c) Suppliers, manufacturers, warehouses, distributors and customers",
+            "d) Only producers and government agencies"
+        ],
+        "answer": "c) Suppliers, manufacturers, warehouses, distributors and customers",
+        "explanation": "SCM connects all parties in the chain — suppliers, manufacturers, warehouses, distributors, and customers — to ensure the smooth flow of goods and information."
+    },
+    {
+        "id": 17,
+        "question": "The main purpose of logistics management is to ensure ________.",
+        "options": [
+            "a) Smooth financial transactions only",
+            "b) Fast, safe and cost-effective movement of goods",
+            "c) Recruitment of supply staff",
+            "d) Designing new products"
+        ],
+        "answer": "b) Fast, safe and cost-effective movement of goods",
+        "explanation": "The primary purpose of logistics is to move goods from one place to another in the fastest, safest, and most cost-effective way possible."
+    },
+    {
+        "id": 18,
+        "question": "A successful supply chain depends on ________.",
+        "options": [
+            "a) Advertising and sales promotion",
+            "b) Smooth flow of materials, information and money",
+            "c) Reducing suppliers",
+            "d) Closing warehouses"
+        ],
+        "answer": "b) Smooth flow of materials, information and money",
+        "explanation": "A supply chain works well when materials (goods), information (data/orders), and money (payments) all flow smoothly between all the parties involved."
+    },
+    {
+        "id": 19,
+        "question": "The supply chain starts with ________.",
+        "options": [
+            "a) Retailers",
+            "b) Distributors",
+            "c) Suppliers",
+            "d) Customers"
+        ],
+        "answer": "c) Suppliers",
+        "explanation": "The supply chain begins with suppliers who provide raw materials or components. From there, goods move to manufacturers, then distributors, retailers, and finally customers."
+    },
+    {
+        "id": 20,
+        "question": "Suppliers are important because they ________.",
+        "options": [
+            "a) Manufacture finished goods",
+            "b) Provide raw materials and components",
+            "c) Sell products to customers directly",
+            "d) Handle customer service"
+        ],
+        "answer": "b) Provide raw materials and components",
+        "explanation": "Suppliers are the starting point of the supply chain. They provide the raw materials and components that manufacturers use to produce finished goods."
+    },
+    {
+        "id": 21,
+        "question": "Manufacturers convert ________.",
+        "options": [
+            "a) Finished goods into raw materials",
+            "b) Money into information",
+            "c) Raw materials into finished goods",
+            "d) Retail stores into warehouses"
+        ],
+        "answer": "c) Raw materials into finished goods",
+        "explanation": "Manufacturers take raw materials provided by suppliers and convert (transform) them into finished goods that can be sold to customers."
+    },
+    {
+        "id": 22,
+        "question": "Efficiency at the manufacturing level affects ________.",
+        "options": [
+            "a) Production cost and speed",
+            "b) Only advertising budget",
+            "c) Recruitment of employees",
+            "d) Number of suppliers"
+        ],
+        "answer": "a) Production cost and speed",
+        "explanation": "When manufacturing is efficient, it directly impacts how quickly products are made and how much it costs to make them — both of which affect the whole supply chain."
+    },
+    {
+        "id": 23,
+        "question": "Warehouses mainly function as ________.",
+        "options": [
+            "a) Permanent storage for products",
+            "b) Temporary storage centers connecting production and market",
+            "c) Customer service offices",
+            "d) Training centers for staff"
+        ],
+        "answer": "b) Temporary storage centers connecting production and market",
+        "explanation": "Warehouses are temporary storage facilities that hold goods between the production stage and the market. They act as a bridge ensuring goods are available when needed."
+    },
+    {
+        "id": 24,
+        "question": "Modern warehouses use which technology for efficiency?",
+        "options": [
+            "a) Barcoding and automated systems",
+            "b) Typewriters and manual registers",
+            "c) Paper-based reports",
+            "d) Loudspeaker announcements"
+        ],
+        "answer": "a) Barcoding and automated systems",
+        "explanation": "Modern warehouses use barcoding (to track products) and automated systems (like conveyor belts and robots) to manage inventory quickly and accurately."
+    },
+    {
+        "id": 25,
+        "question": "Distributors and wholesalers help by ________.",
+        "options": [
+            "a) Buying in bulk and selling to retailers",
+            "b) Manufacturing products",
+            "c) Advertising to customers",
+            "d) Storing goods permanently"
+        ],
+        "answer": "a) Buying in bulk and selling to retailers",
+        "explanation": "Distributors and wholesalers buy large quantities of goods from manufacturers and then sell smaller quantities to retailers, making it easier for products to reach local markets."
+    },
+    {
+        "id": 26,
+        "question": "Retailers act as the ________.",
+        "options": [
+            "a) First link in the supply chain",
+            "b) Bridge between wholesalers and customers",
+            "c) Supplier of raw materials",
+            "d) Transport operator"
+        ],
+        "answer": "b) Bridge between wholesalers and customers",
+        "explanation": "Retailers are the last link before the customer. They buy goods from wholesalers and sell directly to customers, acting as a bridge between the two."
+    },
+    {
+        "id": 27,
+        "question": "Retailers provide feedback mainly to ________.",
+        "options": [
+            "a) Transport agencies",
+            "b) Manufacturers and wholesalers",
+            "c) Customers only",
+            "d) Local government offices"
+        ],
+        "answer": "b) Manufacturers and wholesalers",
+        "explanation": "Retailers are closest to the customers, so they receive customer feedback and pass it back to manufacturers and wholesalers to help improve products and services."
+    },
+    {
+        "id": 28,
+        "question": "Customers are considered the ________.",
+        "options": [
+            "a) Starting point of the supply chain",
+            "b) Middle stage in the supply chain",
+            "c) Final destination of the supply chain",
+            "d) Warehouse managers"
+        ],
+        "answer": "c) Final destination of the supply chain",
+        "explanation": "Customers are the end point of the supply chain. The entire supply chain exists to deliver products to the final customer."
+    },
+    {
+        "id": 29,
+        "question": "Information flow in the supply chain helps to ________.",
+        "options": [
+            "a) Spread rumors in the market",
+            "b) Track demand, stock levels and deliveries",
+            "c) Increase paperwork",
+            "d) Reduce co-ordination"
+        ],
+        "answer": "b) Track demand, stock levels and deliveries",
+        "explanation": "Information flow allows all parts of the supply chain to stay updated on how much is being demanded, how much stock is available, and where deliveries are — helping everyone plan better."
+    },
+    {
+        "id": 30,
+        "question": "Financial flow refers to ________.",
+        "options": [
+            "a) Movement of goods between warehouses",
+            "b) Movement of money between supply chain participants",
+            "c) Exchange of documents only",
+            "d) Stock counting process"
+        ],
+        "answer": "b) Movement of money between supply chain participants",
+        "explanation": "Financial flow is the movement of money — payments, invoices, credit terms — between all the participants in the supply chain (suppliers, manufacturers, distributors, retailers)."
+    },
+    {
+        "id": 31,
+        "question": "The most visible part of logistics is ________.",
+        "options": [
+            "a) Marketing",
+            "b) Transportation",
+            "c) Accounting",
+            "d) Customer surveys"
+        ],
+        "answer": "b) Transportation",
+        "explanation": "Transportation is the most visible part of logistics because we can physically see trucks, ships, planes, and trains moving goods from one place to another."
+    },
+    {
+        "id": 32,
+        "question": "Selecting the right mode of transport depends on ________.",
+        "options": [
+            "a) Cost, distance and time",
+            "b) Number of employees",
+            "c) Size of warehouse",
+            "d) Advertising budget"
+        ],
+        "answer": "a) Cost, distance and time",
+        "explanation": "The choice of transport (road, rail, air, sea) depends on three main factors: how much it costs, how far the goods need to travel, and how quickly they need to arrive."
+    },
+    {
+        "id": 33,
+        "question": "Warehousing in logistics involves ________.",
+        "options": [
+            "a) Storing goods safely and systematically",
+            "b) Designing advertisements",
+            "c) Selling products directly",
+            "d) Manufacturing spare parts"
+        ],
+        "answer": "a) Storing goods safely and systematically",
+        "explanation": "Warehousing means safely storing goods in an organized and systematic way so they can be retrieved quickly and delivered when needed."
+    },
+    {
+        "id": 34,
+        "question": "Inventory management aims to ________.",
+        "options": [
+            "a) Produce unlimited stock",
+            "b) Avoid both shortage and overstock",
+            "c) Focus only on raw materials",
+            "d) Eliminate suppliers"
+        ],
+        "answer": "b) Avoid both shortage and overstock",
+        "explanation": "Good inventory management ensures there is neither too little stock (causing shortages) nor too much stock (wasting money and space). It maintains the right balance."
+    },
+    {
+        "id": 35,
+        "question": "Order processing starts when ________.",
+        "options": [
+            "a) The warehouse closes",
+            "b) A customer places an order",
+            "c) Goods are shipped to the factory",
+            "d) Raw materials are purchased"
+        ],
+        "answer": "b) A customer places an order",
+        "explanation": "Order processing begins the moment a customer places an order. After that, the system verifies the order, picks and packs the goods, and arranges delivery."
+    },
+    {
+        "id": 36,
+        "question": "Which of the following is part of order processing?",
+        "options": [
+            "a) Hiring employees",
+            "b) Order entry, packaging and tracking",
+            "c) Market research",
+            "d) Product designing"
+        ],
+        "answer": "b) Order entry, packaging and tracking",
+        "explanation": "Order processing includes receiving the order (order entry), preparing the goods (packaging), and keeping the customer informed (tracking) — all part of fulfilling an order."
+    },
+    {
+        "id": 37,
+        "question": "Packaging and material handling are important because ________.",
+        "options": [
+            "a) They protect goods during storage and transport",
+            "b) They increase advertising cost",
+            "c) They reduce employee safety",
+            "d) They help create invoices"
+        ],
+        "answer": "a) They protect goods during storage and transport",
+        "explanation": "Proper packaging protects goods from damage during storage and transportation. Material handling ensures goods are moved carefully without breakage or loss."
+    },
+    {
+        "id": 38,
+        "question": "Customer service in logistics focuses on ________.",
+        "options": [
+            "a) Employee satisfaction",
+            "b) Timely delivery and resolving complaints",
+            "c) Designing packaging",
+            "d) Hiring warehouse staff"
+        ],
+        "answer": "b) Timely delivery and resolving complaints",
+        "explanation": "Customer service in logistics is about ensuring orders are delivered on time and handling any complaints or problems that customers face with their deliveries."
+    },
+    {
+        "id": 39,
+        "question": "Which of the following technologies supports modern logistics management?",
+        "options": [
+            "a) GPS, barcoding and ERP systems",
+            "b) Fax machines and manual registers",
+            "c) Typewriters",
+            "d) Telephone directories"
+        ],
+        "answer": "a) GPS, barcoding and ERP systems",
+        "explanation": "Modern logistics uses GPS (to track vehicles), barcoding (to track products), and ERP systems (to manage all data) to make operations faster and more accurate."
+    },
+    {
+        "id": 40,
+        "question": "The correct link between supply chain and logistics components is ________.",
+        "options": [
+            "a) Retailers – Finance",
+            "b) Warehouses – Inventory Control",
+            "c) Customers – Transportation",
+            "d) Suppliers – Customer Service"
+        ],
+        "answer": "b) Warehouses – Inventory Control",
+        "explanation": "Warehouses are directly linked to inventory control — they are the physical locations where inventory is stored, monitored, and managed."
+    },
+    {
+        "id": 41,
+        "question": "In a modern supply chain, which moves faster than materials?",
+        "options": [
+            "a) Money",
+            "b) Information",
+            "c) Vehicles",
+            "d) Labor"
+        ],
+        "answer": "b) Information",
+        "explanation": "Information (like orders, tracking updates, stock levels) travels digitally and moves much faster than physical materials, which require transportation time."
+    },
+    {
+        "id": 42,
+        "question": "Information Technology (IT) in supply chain refers to ________.",
+        "options": [
+            "a) Using manual systems to record data",
+            "b) Using computers, software and networks to manage data",
+            "c) Hiring more employees for communication",
+            "d) Replacing suppliers"
+        ],
+        "answer": "b) Using computers, software and networks to manage data",
+        "explanation": "IT in supply chain means using computers, software applications, and communication networks to collect, store, process, and share data across the supply chain."
+    },
+    {
+        "id": 43,
+        "question": "The main purpose of IT in supply chain and logistics is to ________.",
+        "options": [
+            "a) Increase paperwork",
+            "b) Delay delivery for accuracy",
+            "c) Improve speed, accuracy and co-ordination",
+            "d) Focus only on marketing"
+        ],
+        "answer": "c) Improve speed, accuracy and co-ordination",
+        "explanation": "IT is used in supply chains to make processes faster (speed), reduce errors (accuracy), and ensure all parts of the chain work together smoothly (co-ordination)."
+    },
+    {
+        "id": 44,
+        "question": "Which statement best defines Supply Chain IT systems?",
+        "options": [
+            "a) They manage human resources",
+            "b) They co-ordinate material, information and money flow",
+            "c) They handle only billing",
+            "d) They record entertainment data"
+        ],
+        "answer": "b) They co-ordinate material, information and money flow",
+        "explanation": "Supply Chain IT systems are designed to co-ordinate the three main flows in a supply chain: the flow of materials (goods), information (data), and money (payments)."
+    },
+    {
+        "id": 45,
+        "question": "Information moves faster than materials means ________.",
+        "options": [
+            "a) Communication supports physical operations",
+            "b) Trucks move slower than computers",
+            "c) Factories stop production",
+            "d) Warehouses need less data"
+        ],
+        "answer": "a) Communication supports physical operations",
+        "explanation": "Since information travels digitally at high speed, it helps plan and support physical operations (like moving goods). Communication (information flow) enables and guides physical work."
+    },
+    {
+        "id": 46,
+        "question": "IT improves communication by ________.",
+        "options": [
+            "a) Disconnecting suppliers and customers",
+            "b) Connecting all partners through real-time data sharing",
+            "c) Reducing the use of emails",
+            "d) Increasing manual paperwork"
+        ],
+        "answer": "b) Connecting all partners through real-time data sharing",
+        "explanation": "IT connects all supply chain partners (suppliers, manufacturers, distributors, retailers) through systems that share real-time data, improving communication and co-ordination."
+    },
+    {
+        "id": 47,
+        "question": "How does IT increase efficiency in the supply chain?",
+        "options": [
+            "a) Through automation and reduced paperwork",
+            "b) By hiring more manual labor",
+            "c) By removing computers",
+            "d) By increasing storage costs"
+        ],
+        "answer": "a) Through automation and reduced paperwork",
+        "explanation": "IT automates repetitive tasks (like order entry, billing, tracking) and reduces paperwork, which saves time, reduces errors, and increases overall efficiency."
+    },
+    {
+        "id": 48,
+        "question": "IT enhances transparency by ________.",
+        "options": [
+            "a) Keeping data secret",
+            "b) Showing real-time shipment and stock details",
+            "c) Limiting access to managers only",
+            "d) Deleting order records"
+        ],
+        "answer": "b) Showing real-time shipment and stock details",
+        "explanation": "IT provides transparency by showing real-time information about where shipments are and what stock levels look like, so everyone in the chain knows what's happening."
+    },
+    {
+        "id": 49,
+        "question": "Using digital records instead of manual entries helps ________.",
+        "options": [
+            "a) Increase typing errors",
+            "b) Reduce human errors and duplication",
+            "c) Delay order processing",
+            "d) Increase cost"
+        ],
+        "answer": "b) Reduce human errors and duplication",
+        "explanation": "Digital records are more accurate than manual entries. They reduce human errors (like wrong numbers) and prevent duplication (entering the same data twice)."
+    },
+    {
+        "id": 50,
+        "question": "Customer satisfaction improves through IT because ________.",
+        "options": [
+            "a) Orders are delayed",
+            "b) Customers can track and receive accurate updates",
+            "c) Complaints are ignored",
+            "d) No communication is done"
+        ],
+        "answer": "b) Customers can track and receive accurate updates",
+        "explanation": "IT allows customers to track their orders online and receive accurate, timely updates about delivery status, which improves their experience and satisfaction."
+    },
+    {
+        "id": 51,
+        "question": "In supply management, IT helps through ________.",
+        "options": [
+            "a) Manual purchase orders",
+            "b) Online procurement systems and supplier tracking",
+            "c) Verbal communication only",
+            "d) Offline cash payments"
+        ],
+        "answer": "b) Online procurement systems and supplier tracking",
+        "explanation": "IT enables online procurement (buying through digital systems) and helps track supplier performance and deliveries, making supply management more efficient."
+    },
+    {
+        "id": 52,
+        "question": "ERP (Enterprise Resource Planning) software mainly supports ________.",
+        "options": [
+            "a) Production planning and co-ordination",
+            "b) Product advertisement",
+            "c) Staff entertainment",
+            "d) Customer complaints"
+        ],
+        "answer": "a) Production planning and co-ordination",
+        "explanation": "ERP software integrates all business functions — production, inventory, finance, HR — into one system, mainly supporting planning and co-ordination across the organization."
+    },
+    {
+        "id": 53,
+        "question": "Inventory control through IT is achieved by ________.",
+        "options": [
+            "a) Random checking",
+            "b) Automatic monitoring and reorder alerts",
+            "c) Physical stock counting only",
+            "d) Manual ledger entry"
+        ],
+        "answer": "b) Automatic monitoring and reorder alerts",
+        "explanation": "IT systems automatically monitor stock levels and send alerts when stock falls below a certain level, triggering reorders — this is much faster and more reliable than manual checking."
+    },
+    {
+        "id": 54,
+        "question": "Which technology is used in warehouses for tracking goods?",
+        "options": [
+            "a) Barcodes and RFID tags",
+            "b) Loudspeakers and signs",
+            "c) GPS alone",
+            "d) CCTV only"
+        ],
+        "answer": "a) Barcodes and RFID tags",
+        "explanation": "Barcodes (scanned by readers) and RFID (Radio Frequency Identification) tags allow warehouses to track the exact location and movement of every item quickly and accurately."
+    },
+    {
+        "id": 55,
+        "question": "Which IT tool is used for customer records and feedback?",
+        "options": [
+            "a) ERP",
+            "b) CRM (Customer Relationship Management)",
+            "c) RFID",
+            "d) TMS"
+        ],
+        "answer": "b) CRM (Customer Relationship Management)",
+        "explanation": "CRM (Customer Relationship Management) software is specifically designed to store customer data, track interactions, manage feedback, and improve customer relationships."
+    },
+    {
+        "id": 56,
+        "question": "Order processing in logistics is improved by ________.",
+        "options": [
+            "a) Receiving and forwarding orders online automatically",
+            "b) Manual phone calls only",
+            "c) Writing orders in notebooks",
+            "d) Ignoring customer emails"
+        ],
+        "answer": "a) Receiving and forwarding orders online automatically",
+        "explanation": "IT automates order processing by receiving customer orders online and automatically forwarding them to the warehouse or delivery team, making the process faster and error-free."
+    },
+    {
+        "id": 57,
+        "question": "Transportation management in logistics uses ________.",
+        "options": [
+            "a) GPS and fleet-tracking systems",
+            "b) Paper maps only",
+            "c) Random routes",
+            "d) Verbal driver instructions"
+        ],
+        "answer": "a) GPS and fleet-tracking systems",
+        "explanation": "GPS helps track vehicles in real time, and fleet-tracking systems monitor all vehicles, routes, and delivery schedules, making transportation management more efficient."
+    },
+    {
+        "id": 58,
+        "question": "Warehouse Management Systems (WMS) help in ________.",
+        "options": [
+            "a) Designing advertisements",
+            "b) Tracking item location and stock movement",
+            "c) Hiring staff",
+            "d) Financial planning"
+        ],
+        "answer": "b) Tracking item location and stock movement",
+        "explanation": "WMS software helps warehouses track exactly where each item is stored, monitor stock movement, and manage operations efficiently."
+    },
+    {
+        "id": 59,
+        "question": "Route optimization software helps logistics companies to ________.",
+        "options": [
+            "a) Choose slower but scenic routes",
+            "b) Find the fastest and most fuel-efficient paths",
+            "c) Increase travel distance",
+            "d) Avoid digital data"
+        ],
+        "answer": "b) Find the fastest and most fuel-efficient paths",
+        "explanation": "Route optimization software analyzes data to find the best (fastest and most fuel-efficient) delivery routes, saving time and reducing fuel costs."
+    },
+    {
+        "id": 60,
+        "question": "Cloud computing in logistics helps by ________.",
+        "options": [
+            "a) Storing data manually",
+            "b) Keeping information safe and accessible across locations",
+            "c) Making data secret",
+            "d) Blocking access to managers"
+        ],
+        "answer": "b) Keeping information safe and accessible across locations",
+        "explanation": "Cloud computing stores data on secure online servers that can be accessed from anywhere. This means logistics teams at different locations can share and access the same information."
+    },
+    {
+        "id": 61,
+        "question": "RFID stands for ________.",
+        "options": [
+            "a) Rapid File Information Data",
+            "b) Radio Frequency Identification",
+            "c) Random Flow Input Device",
+            "d) Remote File Internet Delivery"
+        ],
+        "answer": "b) Radio Frequency Identification",
+        "explanation": "RFID stands for Radio Frequency Identification. It uses radio waves to read and track tags attached to products, enabling automatic identification without manual scanning."
+    },
+    {
+        "id": 62,
+        "question": "TMS (Transportation Management System) is used for ________.",
+        "options": [
+            "a) Staff salaries",
+            "b) Planning, executing and monitoring vehicle movements",
+            "c) Managing human resources",
+            "d) Designing products"
+        ],
+        "answer": "b) Planning, executing and monitoring vehicle movements",
+        "explanation": "TMS is a software system that helps plan delivery routes, execute transportation activities, and monitor the movement of vehicles and shipments."
+    },
+    {
+        "id": 63,
+        "question": "EDI (Electronic Data Interchange) is mainly used to ________.",
+        "options": [
+            "a) Share business documents electronically",
+            "b) Print invoices manually",
+            "c) Conduct physical audits",
+            "d) Replace marketing teams"
+        ],
+        "answer": "a) Share business documents electronically",
+        "explanation": "EDI allows businesses to share standard business documents (like purchase orders, invoices, shipping notices) electronically between companies, replacing paper-based processes."
+    },
+    {
+        "id": 64,
+        "question": "Which IT tool helps in analyzing trends and improving decisions?",
+        "options": [
+            "a) Business Intelligence (BI) software",
+            "b) GPS",
+            "c) Barcodes",
+            "d) Cloud storage"
+        ],
+        "answer": "a) Business Intelligence (BI) software",
+        "explanation": "Business Intelligence (BI) software collects and analyzes large amounts of data to identify trends, patterns, and insights that help managers make better business decisions."
+    },
+    {
+        "id": 65,
+        "question": "E-commerce platforms play a role in supply chain by ________.",
+        "options": [
+            "a) Disconnecting suppliers and buyers",
+            "b) Enabling direct online sales and order co-ordination",
+            "c) Reducing communication",
+            "d) Increasing paper documentation"
+        ],
+        "answer": "b) Enabling direct online sales and order co-ordination",
+        "explanation": "E-commerce platforms (like Amazon, Flipkart) enable customers to order directly online and automatically trigger the supply chain process — order picking, packing, and delivery."
+    },
+    {
+        "id": 66,
+        "question": "HRM primarily deals with managing which organizational resource?",
+        "options": [
+            "a) Money",
+            "b) Materials",
+            "c) People",
+            "d) Machines"
+        ],
+        "answer": "c) People",
+        "explanation": "HRM (Human Resource Management) is specifically focused on managing people — the employees of an organization. It handles everything related to the workforce."
+    },
+    {
+        "id": 67,
+        "question": "Which statement best captures the core meaning of HRM?",
+        "options": [
+            "a) Managing only payroll",
+            "b) Recruiting people and leaving the rest to line managers",
+            "c) Planning, organizing, directing and controlling people-related functions",
+            "d) Outsourcing all people processes"
+        ],
+        "answer": "c) Planning, organizing, directing and controlling people-related functions",
+        "explanation": "HRM covers all people-related functions in an organized way — planning the workforce, organizing roles, directing employees, and controlling HR activities for organizational success."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is NOT typically a function covered under HRM?",
+        "options": [
+            "a) Training and development",
+            "b) Performance appraisal",
+            "c) Product pricing",
+            "d) Recruitment and selection"
+        ],
+        "answer": "c) Product pricing",
+        "explanation": "Product pricing is a marketing/finance function. HRM covers recruitment, training, performance appraisal, employee relations, and similar people-management activities."
+    },
+    {
+        "id": 69,
+        "question": "According to the chapter, HRM ensures growth for ________.",
+        "options": [
+            "a) Only the organization",
+            "b) Only the employees",
+            "c) Both organization and employees",
+            "d) Government regulators"
+        ],
+        "answer": "c) Both organization and employees",
+        "explanation": "Good HRM creates a win-win situation — employees grow in their skills and careers, and the organization grows in productivity and performance."
+    },
+    {
+        "id": 70,
+        "question": "\"Right man for the right job\" is primarily ensured through ________.",
+        "options": [
+            "a) Advertising alone",
+            "b) Scientific recruitment and selection",
+            "c) Overtime allocation",
+            "d) Transfer policies only"
+        ],
+        "answer": "b) Scientific recruitment and selection",
+        "explanation": "Scientific recruitment and selection involves carefully analyzing job requirements and matching them with the right candidate's skills and qualifications — ensuring the right person gets the right job."
+    },
+    {
+        "id": 71,
+        "question": "Which point reflects HRM's role in motivation and morale building?",
+        "options": [
+            "a) Restricting communication",
+            "b) Punitive measures only",
+            "c) Incentives, rewards and recognition",
+            "d) Ignoring employee needs"
+        ],
+        "answer": "c) Incentives, rewards and recognition",
+        "explanation": "HRM motivates employees by providing incentives (bonuses), rewards (prizes/recognition), and recognition (appreciating good work), which builds morale and encourages better performance."
+    },
+    {
+        "id": 72,
+        "question": "Optimum utilization of human resources implies ________.",
+        "options": [
+            "a) Overburdening efficient employees",
+            "b) Underutilizing skilled workers",
+            "c) Matching skills to jobs to reduce waste",
+            "d) Rotating staff randomly"
+        ],
+        "answer": "c) Matching skills to jobs to reduce waste",
+        "explanation": "Optimum utilization means placing the right person in the right role so their skills are fully and effectively used — avoiding both overwork and underutilization."
+    },
+    {
+        "id": 73,
+        "question": "Healthy employer-employee relations in HRM focus on ________.",
+        "options": [
+            "a) Suppressing grievances",
+            "b) Open communication and trust",
+            "c) Avoiding unions at all costs",
+            "d) Eliminating feedback"
+        ],
+        "answer": "b) Open communication and trust",
+        "explanation": "Good employer-employee relations are built on open, honest communication and mutual trust. This reduces conflicts, grievances, and improves the workplace environment."
+    },
+    {
+        "id": 74,
+        "question": "Which of the following is part of Personnel Administration within HRM scope?",
+        "options": [
+            "a) Collective bargaining",
+            "b) Wage and salary administration",
+            "c) Leadership development workshops",
+            "d) CSR initiatives"
+        ],
+        "answer": "b) Wage and salary administration",
+        "explanation": "Personnel Administration within HRM includes managing wages and salaries — ensuring employees are paid fairly and correctly according to their roles and performance."
+    },
+    {
+        "id": 75,
+        "question": "Human Resource Development (HRD) mainly emphasizes ________.",
+        "options": [
+            "a) Only discipline and rules",
+            "b) Short-term staffing fixes",
+            "c) Developing knowledge, skills and attitudes",
+            "d) External hiring only"
+        ],
+        "answer": "c) Developing knowledge, skills and attitudes",
+        "explanation": "HRD focuses on the continuous development of employees — improving their knowledge, building new skills, and shaping positive attitudes to make them more effective."
+    },
+    {
+        "id": 76,
+        "question": "Industrial/Employee Relations primarily includes ________.",
+        "options": [
+            "a) Market research",
+            "b) Grievance handling and collective bargaining",
+            "c) Warehouse design",
+            "d) Pricing strategy"
+        ],
+        "answer": "b) Grievance handling and collective bargaining",
+        "explanation": "Industrial/Employee Relations deals with managing the relationship between employer and employees — including handling grievances (complaints) and collective bargaining (negotiations with unions)."
+    },
+    {
+        "id": 77,
+        "question": "Which is a modern expansion area within HRM?",
+        "options": [
+            "a) Ignoring diversity",
+            "b) HR analytics and technology",
+            "c) Reducing training budgets to zero",
+            "d) Eliminating welfare measures"
+        ],
+        "answer": "b) HR analytics and technology",
+        "explanation": "Modern HRM has expanded to include HR analytics (using data to make HR decisions) and technology (using software for recruitment, training, performance management, etc.)."
+    },
+    {
+        "id": 78,
+        "question": "Which principle highlights fairness and non-discrimination?",
+        "options": [
+            "a) Equity and Fairness",
+            "b) Competition and Punishment",
+            "c) Maximum Control",
+            "d) Silence and Secrecy"
+        ],
+        "answer": "a) Equity and Fairness",
+        "explanation": "The principle of Equity and Fairness ensures that all employees are treated equally, without discrimination based on gender, religion, caste, or any other factor."
+    },
+    {
+        "id": 79,
+        "question": "Team spirit (Esprit de Corps) in HRM aims to ________.",
+        "options": [
+            "a) Promote individualism over collaboration",
+            "b) Encourage co-operation and mutual trust",
+            "c) Reduce communication",
+            "d) Focus only on results, not relationships"
+        ],
+        "answer": "b) Encourage co-operation and mutual trust",
+        "explanation": "Esprit de Corps (team spirit) is about building a sense of unity among employees. It encourages teamwork, mutual trust, and co-operation, which makes the organization stronger."
+    },
+    {
+        "id": 80,
+        "question": "The principle of Effective Communication in HRM promotes ________.",
+        "options": [
+            "a) One-way top-down messaging",
+            "b) Open, honest, two-way communication",
+            "c) Withholding information",
+            "d) Only written memos"
+        ],
+        "answer": "b) Open, honest, two-way communication",
+        "explanation": "Effective communication in HRM means information flows both ways — from management to employees and from employees to management — openly and honestly."
+    },
+    {
+        "id": 81,
+        "question": "Which of the following BEST represents HRM's contribution to legal/ethical compliance?",
+        "options": [
+            "a) Ignoring labor laws for speed",
+            "b) Ensuring policies follow labour and safety standards",
+            "c) Outsourcing all legal issues to vendors",
+            "d) Relying on verbal agreements"
+        ],
+        "answer": "b) Ensuring policies follow labour and safety standards",
+        "explanation": "HRM ensures that the organization follows all labor laws, workplace safety standards, and ethical guidelines — protecting both employees and the organization from legal problems."
+    },
+    {
+        "id": 82,
+        "question": "An example of HRM in practice from the chapter is an HR manager who ________.",
+        "options": [
+            "a) Designs new products",
+            "b) Conducts safety training and motivates employees",
+            "c) Sets market prices",
+            "d) Manages factory machinery repairs"
+        ],
+        "answer": "b) Conducts safety training and motivates employees",
+        "explanation": "A practical HR manager conducts safety training to protect employees and uses motivational techniques to keep the workforce engaged and productive."
+    },
+    {
+        "id": 83,
+        "question": "Stability and security as a principle implies HR should ________.",
+        "options": [
+            "a) Keep roles vague",
+            "b) Provide fair policies and career paths",
+            "c) Use surprise layoffs often",
+            "d) Avoid long-term planning"
+        ],
+        "answer": "b) Provide fair policies and career paths",
+        "explanation": "The principle of stability and security means HR should give employees clear, fair policies and defined career paths so they feel secure in their jobs and can plan their future."
+    },
+    {
+        "id": 84,
+        "question": "Work-life balance, diversity & inclusion and CSR are listed under ________.",
+        "options": [
+            "a) Personnel Administration",
+            "b) HRD only",
+            "c) Additional/modern areas within HRM scope",
+            "d) Finance function"
+        ],
+        "answer": "c) Additional/modern areas within HRM scope",
+        "explanation": "Work-life balance, diversity & inclusion, and CSR (Corporate Social Responsibility) are modern additions to the scope of HRM, reflecting changing workplace values and expectations."
+    },
+    {
+        "id": 85,
+        "question": "National importance of HRM refers to its role in ________.",
+        "options": [
+            "a) Only internal office politics",
+            "b) Reducing employment opportunities",
+            "c) Enhancing productivity, employment and economic growth",
+            "d) Increasing legal disputes"
+        ],
+        "answer": "c) Enhancing productivity, employment and economic growth",
+        "explanation": "At a national level, effective HRM leads to a more productive workforce, creates more employment opportunities, and contributes to the overall economic growth of the country."
+    },
+    {
+        "id": 86,
+        "question": "Recruitment is the process of ________.",
+        "options": [
+            "a) Selecting the best candidate from applications",
+            "b) Identifying and attracting potential candidates to apply for jobs",
+            "c) Conducting performance appraisals",
+            "d) Dismissing unsuitable employees"
+        ],
+        "answer": "b) Identifying and attracting potential candidates to apply for jobs",
+        "explanation": "Recruitment is the process of identifying that a vacancy exists and then attracting suitable people to apply for that job. It is about creating a pool of applicants."
+    },
+    {
+        "id": 87,
+        "question": "Recruitment is called a positive process because ________.",
+        "options": [
+            "a) It eliminates unqualified candidates",
+            "b) It invites and attracts people to apply for jobs",
+            "c) It focuses on rejection",
+            "d) It reduces the labor force"
+        ],
+        "answer": "b) It invites and attracts people to apply for jobs",
+        "explanation": "Recruitment is called positive because it is an inclusive process — it invites and encourages people to apply, expanding the pool of candidates. (Selection, in contrast, is the negative process of elimination.)"
+    },
+    {
+        "id": 88,
+        "question": "Which of the following best defines recruitment?",
+        "options": [
+            "a) Training existing employees",
+            "b) Searching for and encouraging people to apply for employment",
+            "c) Promoting current staff only",
+            "d) Evaluating job performance"
+        ],
+        "answer": "b) Searching for and encouraging people to apply for employment",
+        "explanation": "Recruitment means actively searching for potential candidates and encouraging them to apply for job openings in the organization."
+    },
+    {
+        "id": 89,
+        "question": "The main purpose of recruitment is to ________.",
+        "options": [
+            "a) Decrease the number of applications",
+            "b) Attract maximum qualified candidates for a job",
+            "c) Focus only on internal transfers",
+            "d) Avoid future manpower planning"
+        ],
+        "answer": "b) Attract maximum qualified candidates for a job",
+        "explanation": "The main purpose of recruitment is to attract as many qualified candidates as possible so that the organization has a good pool to choose from during the selection process."
+    },
+    {
+        "id": 90,
+        "question": "Recruitment creates the base for which of the following HR activities?",
+        "options": [
+            "a) Production planning",
+            "b) Selection, training and development",
+            "c) Advertising and marketing",
+            "d) Accounting and finance"
+        ],
+        "answer": "b) Selection, training and development",
+        "explanation": "Recruitment creates the pool of candidates from which selection is done. After selection, the chosen candidates undergo training and development — so recruitment is the foundation for all these activities."
+    },
+    {
+        "id": 91,
+        "question": "Recruitment aims to ________.",
+        "options": [
+            "a) Replace HR functions",
+            "b) Build a pool of qualified applicants",
+            "c) Minimize organizational structure",
+            "d) Remove unproductive employees"
+        ],
+        "answer": "b) Build a pool of qualified applicants",
+        "explanation": "The goal of recruitment is to build a pool (a group) of qualified applicants who can be considered for the available job positions."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following is NOT a feature of recruitment?",
+        "options": [
+            "a) It is a continuous activity",
+            "b) It is a negative process",
+            "c) It involves both internal and external sources",
+            "d) It helps match people and jobs"
+        ],
+        "answer": "b) It is a negative process",
+        "explanation": "Recruitment is a POSITIVE process (it invites people to apply). Selection is the negative process (it eliminates unsuitable candidates). So \"it is a negative process\" is NOT a feature of recruitment."
+    },
+    {
+        "id": 93,
+        "question": "An important objective of recruitment is ________.",
+        "options": [
+            "a) To increase hiring costs",
+            "b) To fill job vacancies quickly and efficiently",
+            "c) To discourage competition",
+            "d) To reduce communication"
+        ],
+        "answer": "b) To fill job vacancies quickly and efficiently",
+        "explanation": "One of the key objectives of recruitment is to fill vacant positions quickly and efficiently so that the organization's work is not disrupted for long."
+    },
+    {
+        "id": 94,
+        "question": "Recruitment helps to maintain ________.",
+        "options": [
+            "a) Machinery",
+            "b) Raw materials",
+            "c) Human resource supply for future needs",
+            "d) Trade union relations only"
+        ],
+        "answer": "c) Human resource supply for future needs",
+        "explanation": "Recruitment ensures that the organization always has a sufficient supply of human resources — not just for current needs but also for future vacancies and expansions."
+    },
+    {
+        "id": 95,
+        "question": "Recruitment also improves the organization's ________.",
+        "options": [
+            "a) Profit margin only",
+            "b) Reputation as a good employer",
+            "c) Physical infrastructure",
+            "d) Tax benefits"
+        ],
+        "answer": "b) Reputation as a good employer",
+        "explanation": "When an organization recruits fairly and professionally, it builds a reputation as a good employer, which attracts better candidates in the future."
+    },
+    {
+        "id": 96,
+        "question": "Internal recruitment refers to ________.",
+        "options": [
+            "a) Hiring people from outside the organization",
+            "b) Filling vacancies through existing employees",
+            "c) Appointing consultants",
+            "d) Recruiting temporary staff only"
+        ],
+        "answer": "b) Filling vacancies through existing employees",
+        "explanation": "Internal recruitment means filling job vacancies by promoting, transferring, or reassigning existing employees within the organization, rather than hiring from outside."
+    },
+    {
+        "id": 97,
+        "question": "Which of the following is NOT an internal source of recruitment?",
+        "options": [
+            "a) Promotion",
+            "b) Transfer",
+            "c) Employment exchanges",
+            "d) Employee referrals"
+        ],
+        "answer": "c) Employment exchanges",
+        "explanation": "Employment exchanges are government-run centers that connect job seekers with employers — they are an external source of recruitment. Promotion, transfer, and employee referrals are internal sources."
+    },
+    {
+        "id": 98,
+        "question": "An advantage of internal recruitment is ________.",
+        "options": [
+            "a) It brings new ideas",
+            "b) It saves time and cost",
+            "c) It increases jealousy among employees",
+            "d) It creates communication gaps"
+        ],
+        "answer": "b) It saves time and cost",
+        "explanation": "Internal recruitment is faster (no lengthy hiring process) and cheaper (no advertising or agency fees) because the organization already knows the candidate's capabilities."
+    },
+    {
+        "id": 99,
+        "question": "A limitation of internal recruitment is that ________.",
+        "options": [
+            "a) It reduces employee morale",
+            "b) It limits the inflow of new ideas",
+            "c) It requires expensive advertising",
+            "d) It causes delays in decision-making"
+        ],
+        "answer": "b) It limits the inflow of new ideas",
+        "explanation": "When only existing employees are considered, the organization misses out on fresh perspectives and new ideas that outside candidates might bring."
+    },
+    {
+        "id": 100,
+        "question": "External sources of recruitment include all EXCEPT ________.",
+        "options": [
+            "a) Campus recruitment",
+            "b) Job portals and advertisements",
+            "c) Transfers within the company",
+            "d) Private agencies"
+        ],
+        "answer": "c) Transfers within the company",
+        "explanation": "Transfers within the company are an internal source of recruitment. Campus recruitment, job portals, and private agencies are all external sources."
+    },
+    {
+        "id": 101,
+        "question": "Campus recruitment mainly helps to hire ________.",
+        "options": [
+            "a) Retired employees",
+            "b) Fresh graduates and trainees",
+            "c) Foreign managers",
+            "d) Part-time staff only"
+        ],
+        "answer": "b) Fresh graduates and trainees",
+        "explanation": "Campus recruitment is done at colleges and universities to hire fresh graduates and trainees who can be trained and shaped according to the organization's needs."
+    },
+    {
+        "id": 102,
+        "question": "Walk-in interviews are a method of ________.",
+        "options": [
+            "a) Internal recruitment",
+            "b) External recruitment",
+            "c) Training",
+            "d) Promotion"
+        ],
+        "answer": "b) External recruitment",
+        "explanation": "Walk-in interviews are open to the general public — anyone can come and interview without a prior appointment. This is an external recruitment method."
+    },
+    {
+        "id": 103,
+        "question": "Which of the following is an advantage of external recruitment?",
+        "options": [
+            "a) Saves cost and time",
+            "b) Brings fresh talent and diversity",
+            "c) Reduces competition",
+            "d) Prevents change in workforce"
+        ],
+        "answer": "b) Brings fresh talent and diversity",
+        "explanation": "External recruitment brings in people with new ideas, different experiences, and diverse backgrounds, which can improve innovation and organizational culture."
+    },
+    {
+        "id": 104,
+        "question": "Which method of recruitment is conducted online through sites like LinkedIn or Naukri.com?",
+        "options": [
+            "a) Campus recruitment",
+            "b) Employment exchange",
+            "c) E-recruitment / Social media",
+            "d) Walk-in interview"
+        ],
+        "answer": "c) E-recruitment / Social media",
+        "explanation": "E-recruitment (also called online recruitment) uses digital platforms like LinkedIn, Naukri.com, or Indeed to post job openings and attract candidates online."
+    },
+    {
+        "id": 105,
+        "question": "A major disadvantage of external recruitment is that, it ________.",
+        "options": [
+            "a) Is time-consuming and costly",
+            "b) Reduces variety of candidates",
+            "c) Lowers diversity",
+            "d) Demotivates external applicants"
+        ],
+        "answer": "a) Is time-consuming and costly",
+        "explanation": "External recruitment takes more time (advertising, screening, interviewing) and costs more money (advertising fees, agency charges) compared to internal recruitment."
+    },
+    {
+        "id": 106,
+        "question": "Which is the first step in the recruitment process?",
+        "options": [
+            "a) Job analysis",
+            "b) Advertising the vacancy",
+            "c) Identifying vacancy",
+            "d) Receiving applications"
+        ],
+        "answer": "c) Identifying vacancy",
+        "explanation": "The recruitment process starts by identifying that a vacancy (empty position) exists in the organization. Only after this can other steps like job analysis and advertising begin."
+    },
+    {
+        "id": 107,
+        "question": "Job analysis in recruitment includes ________.",
+        "options": [
+            "a) Creating job description and job specification",
+            "b) Giving training to new recruits",
+            "c) Conducting interviews",
+            "d) Preparing pay slips"
+        ],
+        "answer": "a) Creating job description and job specification",
+        "explanation": "Job analysis involves creating two documents: a Job Description (what the job involves) and a Job Specification (what qualifications and skills the candidate needs)."
+    },
+    {
+        "id": 108,
+        "question": "The recruitment process ends when ________.",
+        "options": [
+            "a) Job advertisements are issued",
+            "b) Selection interviews are completed",
+            "c) A pool of eligible candidates is created",
+            "d) Appointment letters are distributed"
+        ],
+        "answer": "c) A pool of eligible candidates is created",
+        "explanation": "Recruitment ends when a pool (group) of eligible candidates has been created. After this, the selection process begins to choose the best candidate from this pool."
+    },
+    {
+        "id": 109,
+        "question": "Proper recruitment helps reduce employee turnover because ________.",
+        "options": [
+            "a) It focuses only on cost reduction",
+            "b) It ensures better job-employee fit",
+            "c) It limits employee promotions",
+            "d) It avoids supervision"
+        ],
+        "answer": "b) It ensures better job-employee fit",
+        "explanation": "When the right person is recruited for the right job, they are more likely to be satisfied and stay longer. A good job-employee fit reduces the chances of an employee leaving (turnover)."
+    },
+    {
+        "id": 110,
+        "question": "Which of the following best describes the importance of recruitment?",
+        "options": [
+            "a) It helps build a strong, talented workforce",
+            "b) It increases absenteeism",
+            "c) It reduces productivity",
+            "d) It decreases organizational growth"
+        ],
+        "answer": "a) It helps build a strong, talented workforce",
+        "explanation": "Recruitment is important because it brings in talented people who contribute to the organization's success. A strong recruitment process leads to a capable and productive workforce."
+    },
+    {
+        "id": 111,
+        "question": "The Chalk Circle concept in HRM primarily teaches ________.",
+        "options": [
+            "a) How to conduct employee training",
+            "b) That true ownership belongs to the person who genuinely cares and contributes",
+            "c) How to manage financial resources",
+            "d) That authority is always linked with position"
+        ],
+        "answer": "b) That true ownership belongs to the person who genuinely cares and contributes",
+        "explanation": "The Chalk Circle concept (from Bertolt Brecht's play) teaches that true ownership or authority should belong to the person who genuinely cares about something and contributes to it, not just the person who claims it by position or seniority."
+    },
+    {
+        "id": 112,
+        "question": "In HR terms, the Chalk Circle reminds managers to reward ________.",
+        "options": [
+            "a) Power and seniority",
+            "b) Formal authority",
+            "c) Competence, commitment and ethics",
+            "d) Popularity among staff"
+        ],
+        "answer": "c) Competence, commitment and ethics",
+        "explanation": "The Chalk Circle principle reminds HR managers to recognize and reward employees based on their competence (skill), commitment (dedication), and ethics (honesty), not just their rank or seniority."
+    },
+    {
+        "id": 113,
+        "question": "The Chalk Circle is a test of ________.",
+        "options": [
+            "a) Financial management",
+            "b) Fairness, integrity and care",
+            "c) Physical strength",
+            "d) Organizational size"
+        ],
+        "answer": "b) Fairness, integrity and care",
+        "explanation": "The Chalk Circle is a metaphor that tests whether someone truly demonstrates fairness (treating others justly), integrity (honesty), and care (genuine concern) — qualities that should define leadership."
+    },
+    {
+        "id": 114,
+        "question": "According to the Chalk Circle model, promotions should be based on ________.",
+        "options": [
+            "a) Seniority and years of service",
+            "b) Employees personal connections",
+            "c) Contribution, care and responsibility",
+            "d) Salary expectations"
+        ],
+        "answer": "c) Contribution, care and responsibility",
+        "explanation": "The Chalk Circle model says promotions should be given to those who actually contribute to the organization, show care for their work and team, and take responsibility — not just those who have worked longest."
+    },
+    {
+        "id": 115,
+        "question": "Which principle of the Chalk Circle Model emphasizes that true ownership lies with those who care for organizational goals?",
+        "options": [
+            "a) Merit over Seniority",
+            "b) Value-Based Ownership",
+            "c) Fair Judgment",
+            "d) Ethical Decision-Making"
+        ],
+        "answer": "b) Value-Based Ownership",
+        "explanation": "Value-Based Ownership is the principle that says true ownership/authority belongs to those who are genuinely invested in and care about the organization's goals — not just those with titles."
+    },
+    {
+        "id": 116,
+        "question": "The Chalk Circle approach in performance appraisal means ________.",
+        "options": [
+            "a) Rewarding those who claim credit",
+            "b) Ignoring teamwork",
+            "c) Rewarding employees who contribute to team growth",
+            "d) Preferring senior employees"
+        ],
+        "answer": "c) Rewarding employees who contribute to team growth",
+        "explanation": "In performance appraisal, the Chalk Circle approach means recognizing and rewarding employees who actually contribute to the team's growth and success, not those who simply claim credit."
+    },
+    {
+        "id": 117,
+        "question": "The main shift highlighted by the Chalk Circle concept is from ________.",
+        "options": [
+            "a) Who has experience? to Who has training?",
+            "b) Who owns the role? to Who deserves the responsibility?",
+            "c) Who has power? to Who has money?",
+            "d) Who is oldest? to Who is newest?"
+        ],
+        "answer": "b) Who owns the role? to Who deserves the responsibility?",
+        "explanation": "The Chalk Circle concept shifts thinking from \"who officially owns the position?\" to \"who actually deserves the responsibility based on their actions and care?\" — a shift from formal authority to earned responsibility."
+    },
+    {
+        "id": 118,
+        "question": "Which of the following is NOT a benefit of applying the Chalk Circle concept in HRM?",
+        "options": [
+            "a) Promotes fairness and justice",
+            "b) Encourages ethical leadership",
+            "c) Reduces conflicts and bias",
+            "d) Increases favoritism and partiality"
+        ],
+        "answer": "d) Increases favoritism and partiality",
+        "explanation": "The Chalk Circle concept is specifically designed to REDUCE favoritism and partiality. So \"Increases favoritism and partiality\" is NOT a benefit — it is actually what the concept works against."
+    },
+    {
+        "id": 119,
+        "question": "In the automobile company case, Supervisor B was rewarded because he ________.",
+        "options": [
+            "a) Was more senior than A",
+            "b) Took credit for the work",
+            "c) Worked sincerely, trained others and cared for performance",
+            "d) Threatened to leave the company"
+        ],
+        "answer": "c) Worked sincerely, trained others and cared for performance",
+        "explanation": "Supervisor B was rewarded not because of seniority or politics, but because he genuinely worked hard, trained his team members, and cared about the performance outcomes — demonstrating the Chalk Circle values."
+    },
+    {
+        "id": 120,
+        "question": "The Chalk Circle model encourages HR managers to make decisions based on ________.",
+        "options": [
+            "a) Power and hierarchy",
+            "b) Facts, fairness and contribution",
+            "c) Gossip and influence",
+            "d) Emotions and favoritism"
+        ],
+        "answer": "b) Facts, fairness and contribution",
+        "explanation": "The Chalk Circle model guides HR managers to base all decisions (promotions, rewards, appraisals) on facts (actual performance data), fairness (equal treatment), and contribution (real work done)."
+    }
+]
